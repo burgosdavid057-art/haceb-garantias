@@ -1,0 +1,158 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Orden {{ orden.numero_cita }} · Haceb</title>
+<style>
+/* Reproduce el formato impreso de una orden de servicio de Haceb: el documento
+   que el cliente tiene en la mano y le va a tomar una foto al asistente. */
+* { box-sizing: border-box; }
+body {
+  margin: 0; padding: 24px 16px; background: #6b6b6b;
+  font-family: Arial, Helvetica, sans-serif; font-size: 11px; color: #111;
+}
+.hoja {
+  max-width: 780px; margin: 0 auto; background: #fff; padding: 34px 40px 46px;
+  box-shadow: 0 4px 22px rgba(0,0,0,.4);
+}
+.membrete { text-align: center; margin-bottom: 26px; }
+.membrete svg { height: 34px; }
+.membrete .razon { font-size: 8.5px; letter-spacing: .5px; margin-top: 3px; font-weight: bold; }
+.membrete .nit   { font-size: 8px; }
+
+h2 {
+  font-size: 11px; background: #e8e8e8; padding: 5px 9px; margin: 0 0 1px;
+  border-left: 3px solid #1f8a70; font-weight: bold;
+}
+table { width: 100%; border-collapse: collapse; margin-bottom: 20px; }
+.datos td { padding: 5px 9px; vertical-align: top; border-bottom: 1px solid #f0f0f0; width: 25%; }
+.datos td.k { color: #555; font-size: 10px; width: 15%; }
+.datos td.v { font-weight: bold; font-size: 10.5px; }
+
+.caja table.items { margin-bottom: 6px; }
+.items th {
+  background: #1f8a70; color: #fff; padding: 6px 8px; text-align: left;
+  font-size: 10px; font-weight: bold;
+}
+.items td { padding: 6px 8px; border-bottom: 1px solid #eee; font-size: 10.5px; }
+.items .num { text-align: right; white-space: nowrap; }
+.total { text-align: right; font-weight: bold; font-size: 12px; padding: 8px 8px 0; }
+
+.obs td { padding: 7px 9px; font-size: 10px; line-height: 1.55; vertical-align: top; }
+.obs td.k { color: #555; width: 20%; }
+.pie-doc { margin-top: 34px; text-align: center; color: #999; font-size: 8.5px; }
+.volver {
+  display: block; max-width: 780px; margin: 0 auto 14px;
+  color: #fff; font-size: 12px; text-decoration: none;
+}
+.volver:hover { text-decoration: underline; }
+@media print { body { background: #fff; padding: 0; } .hoja { box-shadow: none; } .volver { display: none; } }
+</style>
+</head>
+<body>
+
+<a class="volver" href="/servicios">← Volver a Haceb</a>
+
+<div class="hoja">
+  <div class="membrete">
+    <svg viewBox="0 0 132 34" xmlns="http://www.w3.org/2000/svg">
+      <path d="M14 2 L118 2 L128 17 L118 32 L14 32 L4 17 Z" fill="none" stroke="#000" stroke-width="2"/>
+      <text x="66" y="23" font-family="Georgia, serif" font-size="18" font-style="italic"
+            text-anchor="middle" fill="#000">Haceb</text>
+    </svg>
+    <div class="razon">INDUSTRIAS HACEB S.A.</div>
+    <div class="nit">NIT: 890.900.291-8</div>
+  </div>
+
+  <h2>Información de la Cuenta</h2>
+  <table class="datos">
+    <tr>
+      <td class="k">Cliente</td>          <td class="v">{{ equipo.cliente }}</td>
+      <td class="k">Teléfono</td>         <td class="v">{{ equipo.telefono }}</td>
+    </tr>
+    <tr>
+      <td class="k">Tipo documento</td>   <td class="v">Cédula de Ciudadanía</td>
+      <td class="k">Correo del cliente</td><td class="v">{{ equipo.correo }}</td>
+    </tr>
+    <tr>
+      <td class="k">Número de Documento</td><td class="v">{{ equipo.documento }}</td>
+      <td class="k">Dirección</td>        <td class="v">{{ equipo.direccion }}<br>{{ equipo.ciudad }}, Colombia</td>
+    </tr>
+  </table>
+
+  <h2>Información de la Cita</h2>
+  <table class="datos">
+    <tr>
+      <td class="k">Número de cita</td>   <td class="v">{{ orden.numero_cita }}</td>
+      <td class="k">Nombre del técnico</td><td class="v">{{ orden.tecnico }}</td>
+    </tr>
+    <tr>
+      <td class="k">Producto Final</td>   <td class="v">{{ equipo.producto }}</td>
+      <td class="k">Código de seguridad</td><td class="v">{{ orden.codigo_seguridad }}</td>
+    </tr>
+    <tr>
+      <td class="k">Serie</td>            <td class="v">{{ equipo.serie }}</td>
+      <td class="k">Nombre Bodega Técnico</td><td class="v">{{ orden.bodega }}</td>
+    </tr>
+    <tr>
+      <td class="k">Estado de resultado</td><td class="v">{{ orden.estado_resultado }}</td>
+      <td class="k">Fecha</td>            <td class="v">{{ orden.fecha }}</td>
+    </tr>
+    <tr>
+      <td class="k">Estado Cumplimiento</td><td class="v">{{ orden.estado_cumplimiento }}</td>
+      <td></td><td></td>
+    </tr>
+  </table>
+
+  <h2>Orden de Trabajo</h2>
+  <table class="datos">
+    <tr>
+      <td class="k">Número de orden de trabajo</td><td class="v">{{ orden.numero_orden }}</td>
+      <td class="k">Tipo de trabajo</td> <td class="v">{{ orden.tipo_trabajo }}</td>
+    </tr>
+  </table>
+
+  <h2>Recibo de caja</h2>
+  <div class="caja">
+    <table class="datos">
+      <tr><td class="k">No. de recibo</td><td class="v" colspan="3">{{ orden.numero_recibo }}</td></tr>
+    </table>
+    <table class="items">
+      <tr>
+        <th>Código SAP</th><th>Producto</th>
+        <th class="num">Cantidad consumida</th><th class="num">Descuento</th><th class="num">Total Con IVA</th>
+      </tr>
+      {% for l in orden.lineas %}
+      <tr>
+        <td>{{ l.codigo_sap }}</td>
+        <td>{{ l.producto }}</td>
+        <td class="num">{{ l.cantidad }}</td>
+        <td class="num">{{ '%.2f'|format(l.descuento) }}</td>
+        <td class="num">$ {{ '{:,.2f}'.format(l.total_con_iva).replace(',', 'X').replace('.', ',').replace('X', '.') }}</td>
+      </tr>
+      {% endfor %}
+    </table>
+    <div class="total">
+      Total a pagar &nbsp;
+      $ {{ '{:,.2f}'.format(orden.total).replace(',', 'X').replace('.', ',').replace('X', '.') }}
+    </div>
+  </div>
+
+  <h2>Observaciones</h2>
+  <table class="obs">
+    <tr>
+      <td class="k">Observaciones del servicio</td>
+      <td>{{ orden.observaciones }}</td>
+    </tr>
+    <tr>
+      <td class="k">Observaciones programadas</td>
+      <td></td>
+    </tr>
+  </table>
+
+  <div class="pie-doc">Documento de demostración · datos ficticios</div>
+</div>
+
+</body>
+</html>

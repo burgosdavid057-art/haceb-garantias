@@ -1,0 +1,1446 @@
+MANUAL DE USUARIO HACEB
+Aplica a las referencias: 7704353411485
+Productos: Lavadora 8.5 Kilogramos Haceb Panel Frontal Digital Gris
+Fuente: https://stmanualesdigitalesprod.z13.web.core.windows.net/DI/Manuales_Usuario/3022769_MANUAL%20DE%20USUARIO.pdf
+======================================================================
+
+Certificado N° SC 062-1
+Lea detenidamente estas instrucciones de uso e 
+instalación antes de encender u operar su 
+producto y guárdelas como referencia para el 
+futuro.
+Comercializador: 
+INDUSTRIAS HACEB S.A.
+COLOMBIA
+Autopista Norte Calle 59 No. 55-80 km. 13,
+Copacabana, Antioquia.
+www.haceb.com
+* Aplica para los operadores Claro, Movistar, Virgin, Móvil Éxito y Tigo.
+Llámanos gratis desde tu celular al #466 
+Correo electrónico: atencionpqr@haceb.com
+LAV 8.5 KG PF D GR 
+LAV 11 KG PF D GR
+LAV 12 KG PF D GR
+
+2
+CONTENIDO
+GARANTÍA 3
+Garantía del producto 3
+Garantía suplementaria 3
+Términos y condiciones de la garantía suplementaria: 3
+EXCLUSIONES DE LA GARANTÍA 4
+GLOSARIO 5
+PRECAUCIONES DE SEGURIDAD 5
+DESCRIPCIÓN DEL PRODUCTO Y SUS PARTES 7
+Partes de las lavadoras LAV 8.5 KG PF D GR / LAV 11 KG PF D GR 7
+Partes de la lavadora LAV 12 KG PF D GR 8
+Accesorios 9
+Especificaciones técnicas Lavadora LAV 8.5 KG PF D GR 9
+Especificaciones técnicas Lavadora LAV 11 KG PF D GR 9
+Especificaciones técnicas Lavadora LAV 12 KG PF D GR 10
+INSTALACIÓN 10
+Uso de los rodachines (Referencia LAV 12 KG PF D GR). 10
+Ubicación de la lavadora 11
+Conexión eléctrica 11
+Mangueras de alimentación 12
+Precaución al efectuar conexión de la manguera de alimentación de agua 12
+Manguera de desagüe 12
+Nivelación de la lavadora 13
+Diagrama eléctrico LAV 8.5 KG PF D GR / LAV 11 KG PF D GR 14
+Diagrama eléctrico LAV 12 KG PF D GR 15
+OPERACIÓN Y FUNCIONAMIENTO 16
+Panel de control Lavadora LAV 8.5 KG PF D GR PL/LAV 11 KG PF D GR 16
+Panel de control Lavadora LAV 12 KG PF D GR 18
+Instrucciones de Uso 21
+Cómo utilizar los programas 22
+Características de las lavadoras 23
+Funciones adicionales 24
+Deshabilitar alarma de fin de proceso 24
+Entrada de agua caliente, tibia o fría 24
+Consejos de lavado 25
+Uso de detergente 26
+Uso de blanqueador 26
+Uso de suavizante 26
+Eliminación de manchas 27
+Normas y reglamentos técnicos 28
+PREVENCIÓN Y CUIDADOS 29
+Aspectos ambientales 29
+LIMPIEZA 30
+Limpieza después del uso 30
+Limpieza del filtro atrapa motas 30
+Limpieza de los filtros de paso de agua 30
+Limpieza de la bomba de desagüe (Se debe limpiar después de 5 ó 6 lavadas). 30
+Limpieza del filtro de drenaje (Referencias LAV 12 KG PF D GR) 30
+SOLUCIONES ANTES DE LLAMAR A SERVICIO TÉCNICO 32
+
+3
+GARANTÍA
+Este producto ha sido revisado y comprobado su buen funcionamiento en la fábrica, bajo condi-
+ciones normales de uso. Además cumple con todas las normas de seguridad vigentes en el país. 
+Garantía del producto
+El producto cuenta con un (1) año de garantía legal en todos sus componentes a partir de la fecha 
+de entrega por parte del establecimiento comercial. La garantía cubre cualquier falla que se pre-
+sente en la lavadora, causada por defectos de fabricación o daños en los materiales utilizados, de 
+acuerdo con las indicaciones del manual. La garantía no tiene costo alguno y es aplicable siempre 
+y cuando el producto se destine para uso doméstico.
+Las solicitudes de garantía deben realizarse directamente al servicio directo de fabrica – Servicio 
+Haceb – en los canales indicados en este Manual. Estos canales son válidos para Colombia y en 
+otros países, por favor consulte a su distribuidor, o almacén vendedor.
+Garantía suplementaria
+Algunos componentes del producto cuentan con una garantía suplementaria legal, que amplia y 
+mejora la cobertura de esta de manera gratuita. Dicha garantía es la siguiente y está regida por las 
+condiciones que se indican a continuación:
+ • Garantía suplementaria del Motor: se otorga una garantía suplementaria sobre el com-
+ponente “Motor” del producto, por un periodo de 1 año, contados a partir de la fecha de 
+terminación de la garantía legal del producto.
+ • Garantía suplementaria de la T arjeta electrónica: se otorga una garantía suplemen-
+taria sobre el componente “T arjeta de potencia y control” del producto, por un periodo de 4 
+años contados a partir de la fecha de terminación de la garantía legal del producto.
+Términos y condiciones de la garantía suplementaria:
+1. La garantía suplementaria otorgada sobre el Motor y la T arjeta incluye:
+La reparación de estos componentes, en caso de daño o falla de los mismos, en el término 
+otorgado de garantía suplementaria. Si al momento de la reparación, existen componentes o 
+repuestos diferentes al Motor o la T arjeta con fallas, su reparación o cambio debe ser asumido 
+por el consumidor.
+En caso de que el Motor y/o la T arjeta no sean reparables y deban ser cambiados, en virtud de la 
+garantía suplementaria otorgada, Haceb realizará la entrega de un nuevo Motor y/o T arjeta según 
+el caso, para su cambio de conformidad con las condiciones aquí estipuladas.
+No obstante lo anterior, la mano de obra asociada al cambio del componente por parte de 
+Haceb, deberá ser asumida por el consumidor, así como cualquier repuesto adicional que deba 
+repararse o cambiarse en estos casos. Adicionalmente, el consumidor deberá asumir cualquier 
+otro costo o gasto asociado a la sustitución del Motor y/o la T arjeta.       
+ IMPORTANTE
+Se recomienda al consumidor realizar el cambio del Motor y/o la T arjeta con el servicio directo 
+de fábrica de Haceb – Servicio Haceb – o en su defecto con personal experto y calificado para 
+la manipulación y cambio de este tipo de repuestos en lavadoras. La garantía suplementaria no 
+cubre daños al repuesto o producto por parte de personal ajeno a Haceb.
+2. Término: La garantía suplementaria tendrá un único término de vigencia y en ningún caso 
+se renovará en los eventos de cambios o reparaciones de los componentes Motor y/o T arjeta. 
+En caso de cambio del componente, el nuevo unicamente tendrá una garantía correspondiente 
+al tiempo que reste a los años de garantía suplementaria inicialmente otorgados. En ese sentido, 
+y a modo de ejemplo, si la tarjeta (que tiene 5 años de garantía total) llegase a dañarse a los 4 
+años de comprado el producto la T arjeta nueva que sea cambiada o entregada al consumidor, 
+únicamente tendrá un año restante de garantía suplementaria.
+
+4
+A la garantía suplementaria restante se le aplicarán las mismas condiciones indicadas en el pre-
+sente Manual.
+3. Condiciones para que aplique la garantía suplementaria:
+ • El consumidor deberá devolver el Motor y/o la T arjeta que presente la falla a HACEB. No se 
+entregará el nuevo componente a menos que el anterior haya sido devuelto.
+ • La falla que presente el Motor o T arjeta deberá estar originada en la calidad del repuesto. 
+HACEB no se hace responsable por los daños causados por uso inadecuado del consumidor, 
+mantenimiento incorrecto o daños de terceros.
+4. Exclusión de la responsabilidad de Haceb: Haceb no se hace responsable por los daños 
+que se causen en el producto o en el Motor o T arjeta por reparaciones inadecuadas de terceros. 
+Así como por cualquier daño directo, indirecto o consecuencial causado por un procedimiento 
+incorrecto por parte de personal ajeno a Haceb.
+EXCLUSIONES DE LA GARANTÍA
+ • Daños ocasionados por ingresar al producto agua a una temperatura superior al límite máxi-
+mo establecido de 60°C.
+ • Los daños ocasionados por transporte (por parte de terceros) o siniestros.
+ • Fallas o daños ocasionados al producto por el incumplimiento de las normas mínimas de 
+seguridad establecidas para las instalaciones eléctricas que apliquen al mismo.
+ • Las fallas o daños ocasionados por mal uso, instalaciones inadecuadas o intervenciones no 
+autorizadas; dentro de estas se incluyen los daños ocasionados en el producto o a otros por 
+no respetar las condiciones de seguridad establecidas en el manual de usuario.
+ • Golpes y/o rayas en la carcasa, en las partes metálicas o en accesorios empacados con el 
+producto, a menos que se detecten en el momento de la entrega.
+ • Las partes y accesorios que están sometidas a un constante uso o desgaste natural, como los 
+filtros para motas, el panel decorativo de la tarjeta de control, las mangueras y accesorios, a 
+menos que el defecto se detecte en el momento de la entrega.
+ • Efectos de oxidación por salpique de agua u otros líquidos usados para la limpieza.
+ • Cuando la operación y manejo del producto sea en condiciones no prescritas en el manual 
+de instalación y manejo, o se destine para uso comercial o industrial.
+ • Cuando se haya vencido el término de vigencia de la garantía.
+ • El producto presenta el número de serie alterado o removido.
+ • El producto presenta modificaciones no autorizadas en las especificaciones.
+ • Artículo desconectado a la fuente de voltaje.
+ • Conexiones eléctricas flojas o sueltas, después de un mes de uso.
+ • Presenta fuga de agua por falta de mantenimiento en el sifón.
+ • Escapes de agua por deficiente conexión en la manguera de suministro y desagüe.
+ • Manguera de desagüe obstruida por objetos extraños.
+ • Oxidación causada por golpes, rayas o producto expuesto a ambientes salinos y/o con hu-
+medad relativa por encima del 70%.
+ • Presiones de agua y/o gas por fuera de especificaciones según placa o manual de usuario.
+ • Problemas causados por operaciones o usos inadecuados, en forma incorrecta y/o diferente 
+a lo especificado en el manual de usuario.
+ • Problemas causados por la invasión de cuerpos extraños al producto como insectos, ratones, 
+similares, o falta de limpieza del producto.
+ • Problemas causados por condiciones de la naturaleza tales como: terremotos, inundaciones, 
+tormentas eléctricas, entre otros.
+ • Problemas causados por condiciones accidentales o provocadas como incendios, fluctuacio-
+nes de voltaje, vandalismo, robo o similares.
+
+5
+ IMPORTANTE
+ • El producto que acaba de adquirir se encuentra diseñado para uso doméstico. Una apli -
+cación diferente (industrial o comercial) altera el correcto funcionamiento de la lavadora e 
+invalida el reclamo de la garantía.
+ • Para validación de especificaciones de capacidad de carga, consumo de energía, consumo 
+de agua y factor de energía mediante ensayos normativos en laboratorio siempre se de-
+berá solicitar e instalar la manguera de agua caliente.
+ • Problemas asociados por una instalación o nivelación del producto incorrecta, esta condición 
+se debe asegurar de acuerdo con las indicaciones del manual. 
+ • Daños ocasionados en vidrios como rayas y/o rupturas a menos que su defecto se detecte 
+en el momento de la entrega.
+Declaración del tiempo de suministro de repuestos
+Se garantiza disponibilidad de repuestos para un tiempo máximo de 3 años contados a partir del 
+año de fabricación del producto según el serial.
+GLOSARIO
+Uso doméstico: Es el uso normal al que se ve expuesto un equipo eléctrico que tiene como 
+finalidad satisfacer las necesidades de lavado de prendas de una familia en particular. No se 
+recomienda para ser usada en tiendas, almacenes, lavados en empresas industriales y demás 
+establecimientos.
+PSI: Unidad de presión del sistema métrico, (libras por pulgada cuadrada).
+kPa: Unidad de presión que equivale a 1.000 pascales.
+Led: Indicador luminoso.
+W (Vatios): Se usa habitualmente para expresar la potencia de motores y máquinas.
+LAV 8.5 KG: LAV 8.5 KG PF D GR
+LAV 11 KG: LAV 11 KG PF D GR
+LAV 12 KG: LAV 12 KG PF D GR
+Ciclo de lavado: El ciclo de lavado comprende las etapas de remojo, lavado, enjuague y
+centrifugado.
+PRECAUCIONES DE SEGURIDAD
+ • El mal uso, instalación, ajuste, mantenimiento defectuoso o inadecuado de este producto 
+puede causar graves daños a la propiedad y/o a las personas.
+ • Para reducir el riesgo de fuego, descargas eléctricas o lesiones al utilizar la lavadora, siga las 
+medidas básicas de precaución contenidas en este manual.
+ • No permita que los niños jueguen encima o dentro de la lavadora. Si un niño cae accidental-
+mente dentro del tambor de lavado puede sufrir graves lesiones físicas.
+ • Distribuya la ropa gruesa o voluminosa de manera homogénea dentro del tambor de lavado/ 
+centrifugado. De lo contrario la ropa puede dañarse durante el proceso de centrifugado, y la 
+lavadora vibrará de forma excesiva.
+ • No introduzca las manos por la parte inferior de la lavadora cuando ésta se encuentre funcio-
+nando ya que las piezas móviles pueden ocasionar lesiones físicas.
+
+6
+ • No añada fluidos inflamables (disolventes de limpieza en seco, queroseno, gasolina, etc.) al 
+agua de la lavadora, ni los utilice o guarde dentro o cerca de ésta. Dichas sustancias despren-
+den vapores que pueden provocar fuego o una explosión.
+ • No utilice cloro, amoníaco o ácido (como vinagre o desoxidantes) en un mismo lavado, ya 
+que podrían generarse vapores peligrosos.
+ • Antes de instalar la lavadora verifique que los pisos y paredes no estén húmedos. Podría 
+provocar una descarga eléctrica o un cortocircuito.
+ • Una vez la lavadora haya empezado a funcionar, no acceda al interior hasta que se haya 
+detenido por completo.
+ • En el lugar donde se instale la lavadora debe existir una conexión a tierra, en caso de no 
+contar con esta instalación, debe realizarse por personal técnico calificado y certificado.
+ • Conecte la lavadora a la toma correcta de electricidad, agua y desagüe, acorde a las espe-
+cificaciones técnicas suministradas en este manual y en la placa de especificaciones de la 
+lavadora.
+ • No conecte en el mismo tomacorriente de esta lavadora, ningún otro producto. Si comparte 
+el tomacorriente de pared con otros aparatos se puede producir una descarga eléctrica o 
+un incendio. Compruebe que el voltaje y la frecuencia coincidan con las especificaciones del 
+producto. De no ser así se puede producir una descarga eléctrica.
+ • Si la lavadora recibe la alimentación eléctrica desde un generador, éste se colocará fuera del 
+alcance de salpicaduras o humedad.
+ • Si el cable de alimentación está dañado, deberá ser sustituido por Servicio Técnico Haceb, 
+sus centros autorizados o personal técnico calificado y certificado.
+ • Desconecte el cable de alimentación eléctrico antes de proceder a la reparación de la 
+lavadora.
+ • No lave materiales de fibra de vidrio. Pequeñas partículas de fibra de vidrio podrían quedarse 
+pegadas en las prendas de ropa de posteriores lavados y provocar irritación de la piel.
+ • No rocíe agua sobre el panel de control de la lavadora, podría provocar descargas eléctricas.
+ • Mantenga los elementos del embalaje lejos del alcance de los niños, las bolsas y otras partes 
+del empaque puede causar asfixia o graves lesiones.
+ • Evite que los niños usen o manipulen este producto sin la supervisión de un adulto.
+ • Elimine regularmente cualquier sustancia ajena, como polvo o agua de los terminales y los 
+puntos de contacto del enchufe de alimentación con un paño seco, tomando precauciones 
+de seguridad y desconectando primero la lavadora del tomacorriente.
+ • No instale esta lavadora cerca de un calentador o materiales inflamables.
+ • No acerque ningún tipo de llama a su lavadora, cigarrillos encendidos o materiales volátiles sobre 
+la parte superior de la lavadora, esto puede causar deformaciones del material o serios daños.
+ • No desconecte la lavadora con las manos húmedas, podría provocar una descarga eléctrica.
+
+7
+DESCRIPCIÓN DEL PRODUCTO Y SUS PARTES
+Partes de las lavadoras LAV 8.5 KG PF D GR / LAV 11 KG PF D GR
+1. T apa de lavadora
+2. Depósito para detergente
+3. T anque de lavado
+4. Depósito para blanqueador
+5. Panel de control
+6. Gabinete
+7. Pata ajustable
+8. Base
+9. Filtro atrapa motas
+10. Manguera de drenaje
+11. Cable de alimentación eléctrica
+12. Depósito para suavizante 
+13. Impulsor
+14. Entrada de agua fría
+3
+2
+4
+5
+6
+7
+8
+9
+12
+13
+14
+1
+10
+11
+Figura 1
+
+8
+Partes de la lavadora LAV 12 KG PF D GR
+1. T apa de lavadora
+2. Nivel
+3. Depósito para  detergente
+4. T anque de lavado
+5. Entrada para blanqueador
+6. Panel de control
+7. Gabinete
+8. Pata ajustable
+9. Base
+10. Filtro atrapa motas
+11. Rodachines
+12. Manguera de drenaje
+13. Cable de alimentación eléctrica
+14. Depósito para suavizante 
+15. Impulsor
+16. Entrada de agua fría
+1
+3
+2
+4
+6
+9
+11 12
+14
+15
+16
+13
+7
+8
+5
+10
+Figura 2
+
+9
+Accesorios
+1. Manguera de suministro de agua (1 unidad)
+2. Empaque de caucho (2 unidades)
+3. Manguera de desagüe (1 unidad)
+4. Soporte de manguera de desagüe (1 Unidad)
+5. Abrazadera de manguera de desagüe (1Unidad)
+6. Manual de usuario (1 Unidad)
+1
+3
+2
+4
+5
+6
+Certificado N° SC 062-1
+Lea detenidamente 
+estas instrucciones 
+de uso e 
+instalación 
+antes de encender 
+u operar 
+su pro-
+ducto y guárdelas 
+como referencia 
+para el futuro.
+REFERENCIA
+LAV D0850 PL 
+LAV 500 PL
+LAV AS 530 PL
+LAV D1800 PL
+LAVADORAS
+Figura 3
+La manguera de agua caliente podrá 
+ser solicitada a través de nuestra lí-
+nea gratuita de Servicio Nacional: 01 
+8000 511 000 en Colombia, o nues-
+tros centros de servicio autorizado.
+  IMPORTANTE
+Las imágenes contenidas en este manual pueden ser diferentes al producto original y su único 
+objetivo es ayudar a mejorar la comprensión del contenido escrito del mismo.
+Especificaciones técnicas Lavadora LAV 8.5 KG PF D GR
+Voltaje 120 V~
+Frecuencia 60 Hz
+Potencia 330W
+Capacidad máxima de carga 8.5 kg
+Niveles de agua 8
+Presión de agua requerida (30 kPa - 800 kPa) (4.35 psi - 116.03 psi)
+Dimensiones sin empaque Alto: 899 mm - Ancho: 523 mm - Profundo:     
+563 mm
+Especificaciones técnicas Lavadora LAV 11 KG PF D GR
+Voltaje 120 V~
+Frecuencia 60 Hz
+Potencia 420W
+Capacidad máxima de carga 11 kg
+Niveles de agua 8
+Presión de agua requerida (30 kPa - 800 kPa) (4.35 psi - 116.03 psi)
+Dimensiones sin empaque  Alto:   952 mm - Ancho: 571 mm - Profundo: 
+612 mm
+
+10
+Especificaciones técnicas Lavadora LAV 12 KG PF D GR
+Voltaje 120 V~
+Frecuencia 60 Hz
+Potencia 450W
+Capacidad máxima de carga 12 kg
+Niveles de agua 8
+Presión de agua requerida (30 kPa - 800 kPa) (4.35 psi - 116.03 psi)
+Dimensiones sin empaque  Alto:   993 mm - Ancho: 605 mm - Profundo: 
+612 mm
+  IMPORTANTE
+Este producto es un bien de consumo duradero para uso doméstico, fabricado mediante un 
+proceso de transformación industrial.
+INSTALACIÓN
+  IMPORTANTE
+Este producto debe ser instalado por personal calificado y 
+certificado. Recuerde que los daños ocasionados por una 
+instalación inadecuada no realizada por Servicio Técnico 
+Haceb o sus centros autorizados, no están cubiertos por la 
+garantía.
+ • La instalación correcta de su lavadora incrementa su vida 
+útil y efectividad en el lavado.
+ • Antes de utilizar su lavadora retire todos los elementos 
+que componen el empaque: Caja de cartón, bolsa plás -
+tica, protectores de porón (Poliestireno expandido) que 
+afirma el tambor y la parte inferior de la lavadora. El no 
+retirar estos elementos, provocará un mal funcionamien-
+to de la lavadora, (Ver figura 4).
+Uso de los rodachines (Referencia LAV 12 KG PF 
+D GR).
+ • Usando los rodachines de la parte posterior de la lava-
+dora facilita el transporte de esta, inclinándola alrededor 
+de 30 grados se puede desplazar hacia atrás o hacia 
+adelante.
+ • Los rodachines no están diseñados para ser utilizados en 
+pisos o terrenos irregulares y podrían dañarse fácilmente.
+ • No se debe inclinar demasiado la lavadora, se puede 
+caer fácilmente y causar daños en la personas o en el 
+producto.
+Para obtener un mejor y más eficiente funcionamiento de su lavadora es impor-
+tante tener en cuenta las siguientes recomendaciones en el momento de realizar 
+la instalación:
+Empaque
+de cartón
+Protectorsuperior Protectorinterno deltambor.
+Protector base
+LAVADORA
+Protectores
+laterales
+Figura 4
+PISO
+Rodachines 30º
+Figura 5
+
+11
+Ubicación de la lavadora
+ • Verifique el lugar donde la lavadora será instalada.
+ • Debe estar sobre un piso plano, horizontal y firme, libre de irregularidades, que sea resisten-
+te y que no se mueva ni desmorone, lo ideal son los pisos de concreto y baldosas. Un piso 
+inestable puede provocar ruido y vibración considerable. 
+ • Asegúrese de tener lo necesario para una instalación correcta.
+ • Para instalar su lavadora seleccione un lugar seco ,alejado de fuentes de calor y la luz directa 
+del sol.
+  IMPORTANTE
+ • No instale su lavadora sobre pisos alfombrados, ya que 
+el pelo de la alfombra puede obstruir la ventilación del 
+motor y puede producir sobrecalentamiento de éste.
+ • No instale su lavadora debajo de un calentador.
+ • Debe haber una distancia mínima de separación de 4 cm 
+en ambos lados de la lavadora y de 10 cm como mínimo 
+en la parte posterior. (Ver figura 6)
+Conexión eléctrica
+ • Verifique que las características eléctricas (Voltaje y fre-
+cuencia) indicados en la placa de especificaciones técnicas 
+de la lavadora y en el manual de usuario correspondan 
+correctamente con la instalación eléctrica de su casa.
+ • Por su seguridad, la lavadora cuenta con un enchufe 
+tripolar. No retire el terminal de conexión a tierra del 
+enchufe. 
+ • Revise que el cable de alimentación esté en perfectas 
+condiciones y asegúrese de no colgar objetos sobre éste, 
+ni que la lavadora lo pise. No continúe el uso de su lava-
+dora si detecta algún daño en el cable de alimentación o 
+el conector de este.
+ • Utilice un tomacorriente con conexión a tierra, en perfecto estado y exclusivamente para su 
+lavadora.
+ • Cuando conecte o desconecte el cable del tomacorriente, no lo hale del cable. Sujételo del 
+enchufe.
+ • Cambio del cable de alimentación. Si el cable presenta algún tipo de daño, este deberá ser 
+cambiado por Servicio Técnico Haceb, centros autorizados  o personal calificado y certificado.
+  IMPORTANTE
+ • Verifique la correcta conexión de puesta a tierra de la instalación eléctrica de la edificación y 
+del lugar donde está ubicada la lavadora, recuerde que el fabricante no se hace responsable 
+por los daños causados por falta de esta o una instalación incorrecta.
+ • La función de la terminal de conexión a tierra del enchufe y la conexión a tierra del tomaco-
+rriente, es evacuar las pequeñas fugas de corriente presente en los productos electrodomés-
+ticos y suministrar al usuario protección contra posibles sobrecorrientes.
+4 cm
+10  cm4 cm
+Figura 6
+Figura 7
+
+12
+Mangueras de alimentación
+ • La lavadora está provista de una manguera para 
+el suministro de agua fría y puede operar solo 
+con esta. Ésta se instala según corresponda con 
+entrada de agua de su lavadora. Verifique que el 
+empaque se encuentre dentro de la rosca de la 
+manguera.
+ • Si desea adquirir la manguera de agua caliente la 
+puedes solicitar a nuestras de Servicio Nacional: 
+01 8000 511 000 en Colombia, o nuestros cen-
+tros de servicio autorizado.
+ • El acople en forma de codo siempre van conec -
+tados a las válvulas de entrada de agua fría. Luego 
+instale el otro extremo de la manguera en la vál-
+vula de suministro de agua, según se indica en la 
+figuras 8.
+  IMPORTANTE
+ • Verifique que los conectores estén correcta-
+mente ajustados y que la presión del agua sea la 
+adecuada para evitar fugas de agua. (Ver tablas de 
+Especificaciones Técnicas, páginas 8 y 9). 
+Precaución al efectuar conexión de la mangue-
+ra de alimentación de agua
+ • En caso de que en el hogar exista una sola llave 
+de agua en el lugar donde va a instalar la lavadora, 
+verifique que sea de agua fría y conéctela a la en-
+trada que dice “FRÍA”, de lo contrario la lavadora 
+mostrará en la pantalla “E1”  y no funcionará, de-
+bido a que la lavadora efectúa los enjuagues sólo con agua fría.
+Manguera de desagüe
+ • Recuerde instalar la manguera de desagüe antes de poner en marcha su lavadora.
+ • Conecte la manguera de desagüe a la salida que se encuentra en la parte trasera de la lava-
+dora y fíjela con la abrazadera. (Ver figura 9).
+ • La manguera puede ir sujeta a los dos ganchos que se indican en la Figura 10.
+ • Según el modelo, la lavadora está diseñada para descargar el agua a las alturas descritas en 
+la figura 10 y 11.
+Llave agua
+fría
+Entrada
+de agua fría
+LAV 8.5 KG
+LAV 11 KG
+LAV 12 KG
+Rosca de
+manguera
+Manguera
+agua fría
+Empaque
+de caucho
+Empaque
+de caucho
+Figura 8
+1
+2
+3
+1. Manguera de 
+desagüe 
+2. Abrazadera 
+3. Salida de la bomba 
+de desagüe
+Figura 9
+Máx.100 cm
+Máx. 120 cm
+Mín 80 cm
+LAV 12 KG PF D GR
+Máx.100 cm
+Máx. 110 cm
+Mín 70 cm
+LAV 8.5 KG PF D GR - LAV 11 KG PF D GR
+Figura 10 Figura 11
+
+13
+  IMPORTANTE
+ • Verifique que la conexión de la manguera de desagüe en la lavadora esté correctamente 
+realizada. (Ver figura 9).
+ • Cerciórese de colocar el extremo de la manguera de desagüe en el tubo o lavadero desti -
+nado para el desagüe.
+ • Verifique que la manguera de desagüe no esté doblada o tenga una mala posición para la 
+salida del agua.
+ • No obstruya el espacio entre el piso y la base de la lavadora después de instalada.
+ • No obstruya el acceso a la manguera de desagüe.
+Nivelación de la lavadora
+Para que su lavadora funcione correctamente, nivélela de la siguiente forma:
+ • Regule la altura de la lavadora girando la pata ajustable de acuerdo al piso donde será insta-
+lada. (Ver figura 12). La pata ajustable se encuentra ubicada, para los modelos LAV 8.5 KG 
+PF D GR/LAV 11 KG PF D GR en el lado derecho y para los modelos LAV 12 KG PF D GR 
+en el lado izquierdo.
+ • El modelo LAV 12 KG PF D GR, está provisto de un nivel en la parte superior. que le permite 
+verificar si su lavadora ha sido nivelada correctamente. (Ver figura 13).
+ • Se puede comprobar también que la lavadora ha sido nivelada correctamente, llenando con 
+agua el tambor hasta el bordo de la base plástica del tambor, verificando que el agua esté 
+nivelada en toda su área con respecto al borde de ésta, (ver línea discontinua en figura 14). Si 
+aún no está correctamente nivelada repita el paso de nivelación de la lavadora.
+Pata
+ajustable BAJAR SUBIR
+Nivel
+Figura 12 Figura 13
+Figura 14
+
+14
+Diagrama eléctrico LAV 8.5 KG PF D GR / LAV 11 KG PF D GR
+Fusible
+10 A
+Bomba Motorsincrono
+MOTOR
+CONDENSADOR
+Enchufe
+Agua
+fría
+Agua
+caliente
+Amarillo Amarillo
+Azul claro
+Azul claro
+Azul claro
+Azul claro
+Azul claro
+Azul claro
+Azul claro
+Negro
+Rojo Rojo
+Rosado
+Naranja
+Gris
+Cafe Cafe Blanco
+Morado
+Interruptor
+del tanque y
+la tapa
+Presostato
+Azul
+TARJETA DE CIRCUITOS
+Blanco
+Café Rojo Rosado Azul BlancoNaranja
+Negro
+Am/verd
+
+15
+Diagrama eléctrico LAV 12 KG PF D GR
+Fusible
+10 A
+T orque
+motor
+Bomba
+Condensador
+MotorTierra
+Enchufe
+Válvula agua
+PresostatoFrío Caliente
+Interruptor
+de la tina
+Interruptor
+de la tapa
+TARJETA DE CIRCUITOS
+Blanco
+Blanco Blanco
+Negro
+Negro
+Negro
+Negro
+Negro
+Amarillo
+Amarillo
+Am/Ver
+Azul
+Azul
+Azul claro
+Blanco
+Azul claro
+Azul claro
+Azul claro
+Azul claro
+Azul claro
+Azul claro
+Rojo
+Rojo
+Rojo Rosado
+Naranja
+Naranja
+Negro
+Cafe
+Cafe
+Cafe
+Gris
+Morado
+Morado
+
+16
+OPERACIÓN Y FUNCIONAMIENTO
+Panel de control Lavadora LAV 8.5 KG PF D GR PL/LAV 11 KG PF D GR
+1. Pantalla principal:
+Muestra los tiempos de lavado más tarde, ciclo total 
+de lavado, remojo, lavado, indicadores de fuerza de 
+lavado e indicadores de advertencia
+A. Lavar más tarde, muestra el tiempo en que fina-
+lizará el ciclo de lavado. Ejemplo: 2 horas para 
+terminar el ciclo de lavado.
+B. Tiempo de Remojo, Lavado y Centrifugado en 
+el momento de la configuración del proceso. 
+Ejemplo: El tiempo de remojo es de 15 minutos, 
+el tiempo de lavado es 10 minutos y  7 minutos 
+de centrifugado.
+C. Indicador de Enjuague: Muestra el número de 
+enjuagues, es posible configurar de 1 a 4 ciclos 
+de enjuague.
+D. Tiempo total o restante del ciclo de lavado. 
+Ejemplo: El tiempo restante es 20 minutos.
+2
+1
+3 4 5 6 7 8
+2. Inicio/Pausa: El botón se utiliza para iniciar la operación de lavado, detiene temporalmente 
+la operación de lavado y reinicia la operación de lavado presionando el botón nuevamente. Para 
+cancelar el sonido del final de operación, mantenga presionado el botón “Inicio/Pausa” por 4 
+segundos hasta que escuche el sonido.
+Figura 15
+Figura 16
+
+17
+2
+1
+3 4 5 6 7 8
+3. Nivel del agua: Presione para elegir el nivel de agua apropiado de acuerdo a la carga de ropa.
+4. Etapas de ciclo: Este botón permite modificar cada una de las etapas del ciclo de lavado 
+(Remojo, Lavado, Enjuague o Centrifugado), en el caso que quiera personalizar un programa de 
+lavado o quiera realizar sólo una etapa del ciclo.
+5. Ajustar: Utilice este botón para ajustar el tiempo de lavado más tarde, los tiempos de las 
+etapas del lavado, la cantidad de enjuagues y lavado variable.
+6. Programas: Presione el botón para elegir el programa de lavado (Favorito, Inteligente, Fuerte, 
+Rápido, Sábanas y Delicado).
+  IMPORTANTE
+Si selecciona el programa Inteligente, Favorito, Fuerte o Rápido y presiona el botón Inicio/Pausa. 
+El programa se ejecutará de manera automática, de acuerdo con la configuración preestablecida 
+del sistema.
+7. T emperatura del agua: Este botón es para escoger entre agua fría, tibia o caliente. (Para usar 
+agua tibia o caliente es necesario contar con una red de suministro de agua caliente en su vivienda).
+8. Encendido/Apagado: Para encender la lavadora presione botón  si se desea apagarla 
+presione el botón  nuevamente. Cuando el lavado ha terminado la lavadora emite 6 pitidos y 
+se apaga automáticamente.  Si deja la lavadora prendida sin presionar el botón  esta se apagará 
+a los 10 minutos automáticamente.
+
+18
+Figura 17
+1. Indicador de Nivel de agua
+Muestra el nivel de agua seleccionado por los programas 
+automáticos ó el nivel seleccionado manualmente.
+2. Pantalla principal
+Muestra los tiempos de lavado más tarde, ciclo total de 
+lavado, remojo, lavado, indicadores de fuerza de lavado 
+e indicadores de advertencia
+A. Lavar más tarde, indicador muestra el tiempo restan-
+te para terminar el ciclo de lavado.
+Ejemplo: 2 horas para terminar el ciclo de lavado.
+B. Tiempo de Remojo y Lavado en el momento de la 
+configuración del proceso.
+Ejemplo: El tiempo de lavado es 10 minutos y el 
+tiempo de remojo es 15 minutos.
+C. Tiempo total o restante del ciclo de lavado.
+Ejemplo: El tiempo restante es 20 minutos.
+Figura 18
+Panel de control Lavadora LAV 12 KG PF D GR
+
+19
+D. En una condición anormal muestra una advertencia, (Ver código de errores página 33)
+Ejemplo: El agua no fluye a la tina “E1”.
+3. Indicador de enjuagues
+Muestra el número de enjuagues, es posible configurar de 1 a 4 ciclos de enjuague.
+4. Indicador tiempo de centrifugado
+Muestra el tiempo del centrifugado, es posible configurar de 1 minuto a 9 minutos.
+5. Inicio/Pausa
+El botón se utiliza para iniciar la operación de lavado, detiene temporalmente la operación de 
+lavado y reinicia la operación de lavado presionando el botón nuevamente.
+
+20
+  IMPORTANTE
+El botón Inicio/pausa, No es un botón de cancelación del ciclo de lavado.
+6. Nivel del agua
+Presione para elegir el nivel de agua apropiado de acuerdo a la carga de ropa.
+7. Lavar más tarde
+Presione este botón para seleccionar un tiempo de 1hora hasta 24 horas; luego del tiempo 
+preestablecido termina el ciclo de lavado.
+  IMPORTANTE
+La función lavado más tarde no puede ser utilizada en el programa Delicado.
+8. Programas
+Presione el botón para elegir el programa de lavado (Inteligente, Favorito, Fuerte, Cobijas, De-
+licado, Lanas).
+  IMPORTANTE
+Si selecciona el programa Inteligente, Favorito, Fuerte o Lanas y presionar el botón Inicio/Pausa. 
+El programa se ejecutará de manera automática, de acuerdo con la configuración preestablecida 
+del sistema.
+9. Etapas del ciclo de lavado y lavado variable
+ • Estos botones permite modificar cada una de las etapas del ciclo de lavado (Remojo, Lavado, 
+Enjuague o Centrifugado).
+ • Antes de iniciar el ciclo de lavado presionando el botón de Remojo/Lavado variable, es po -
+sible configurar un tiempo de remojo de 0 a 40 minutos de 5 en 5 minutos (no es posible 
+configurar la opción Remojo en los programas Delicado y  Cobijas).
+ • Durante el lavado se puede ajustar manualmente la fuerza de lavado, presionando el botón 
+Remojo/Lavado variable, la pantalla muestra H0 como fuerza estándar; es modificable a un 
+lavado con mayor fuerza H1,H2, H3 y H4 siendo H4 el más fuerte y un lavado de menor 
+fuerza L1,L2, L3 y L4, siendo L4 un lavado de menor fuerza, esta función no es posible con-
+figurarla en los programas de Delicado y Cobijas.
+ • Los botones Lavado, Enjuague y Centrifugado, permiten seleccionar o modificar el 
+tiempo de lavado, el numero de enjuagues y el tiempo de centrifugado.
+10. T emperatura del agua
+Presione el botón de T emperatura del agua para escoger entre el agua Fría, Tibia o Caliente. Para 
+usar agua tibia o caliente es necesario contar con una red de suministro de agua caliente en su 
+vivienda.
+
+21
+11. Encendido/Apagado
+Para encender la lavadora presione botón  si se desea apagarla presione el botón  
+nuevamente.
+Cuando el lavado ha terminado la lavadora emite 6 pitidos y se apaga automáticamente.
+Si deja la lavadora prendida sin presionar el botón  esta se apagará a los 10 minutos 
+automáticamente.
+  ADVERTENCIA
+Este producto no está diseñado para ser usado por personas con limitaciones físicas, sensoriales o 
+mentales, o que carecen de experiencia y conocimiento, a menos que se les esté brindando su-
+pervisión o instrucción con respecto al uso del producto por parte de una persona responsable.
+Instrucciones de Uso
+Preparación
+ • Asegúrese que la manguera de drenaje esté bien ajustada.
+ • Conecte la manguera de suministro del agua.
+ • Conecte el cable de alimentación a una toma de corriente.
+ • Cargue la ropa en la lavadora.
+Lavado
+ • Pulse el botón  
+ • Presione el botón Lavado más tarde y seleccione un tiempo en horas, si desea terminar el 
+ciclo de lavado luego del tiempo predeterminado.
+ • Seleccione el programa deseado presionando el botón Programas.
+ • Seleccione el nivel de agua si lo desea.
+ • Use la cantidad de detergente recomendada en la tabla.
+RECOMENDACIÓN DE DETERGENTE LAV 8.5 KG PF D GR
+Nivel de agua 1-2 3-4 5-6 7-8
+Volumen de detergente en polvo (g) 12-20 20-28 28-36 36-45
+Litro de agua 16-20 23-27 32-38 45-51
+RECOMENDACIÓN DE DETERGENTE LAV 11 KG PF D GR
+Nivel de agua 1-2 3-4 5-6 7-8
+Volumen de detergente en polvo (g) 12-25 25-35 35-50 50-70
+Litro de agua 17-25 33-42 50-58 65-70
+RECOMENDACIÓN DE DETERGENTE LAV 12 KG PF D GR
+Nivel de agua
+Volumen de detergente en polvo (g) 25-35 35-53 53-71 71-90
+Litro de agua 30-35 45-55 65-75 80-90
+NOTA: En todos los modelos, el volumen de otros detergentes se puede ajustar de acuerdo con el tipo 
+de recomendaciones indicadas en el empaque de éstos.
+
+22
+  IMPORTANTE
+ • En los programas automáticos el mínimo nivel de agua es 3.
+ • Mucho detergente puede causar un mal enjuague y poco detergente una limpieza deficiente.
+ • Cierre la tapa de la lavadora.
+ • Presione el botón Inicio/Pausa.
+La lavadora escoge el nivel de agua automáticamente de acuerdo a la cantidad de ropa. (Para los 
+programas automáticos: Inteligente, Favorito, Fuerte y Lanas o Rápido). Si el usuario modifica o 
+selecciona manualmente el nivel de agua, se anulará la acción automática de selección del nivel 
+de agua.
+  IMPORTANTE
+ • Si la carga tiene mucho volumen y poco peso, el nivel del agua debe ser ingresado de ma-
+nera manual para garantizar que las prendas queden sumergidas en el agua y se produzca un 
+óptimo desempeño de lavado.
+  IMPORTANTE
+ • Es posible modificar los tiempos de Remojo, Lavado, Enjuague y Centrifugado durante los 
+ciclos de lavado de los programas Inteligente, Favorito, Fuerte y Lanas o Rápido. Si no ha 
+iniciado el ciclo de lavado.
+ • En los programas Cobijas o Sábanas y Delicado es posible modificar el Lavado, Enjuague y 
+Centrifugado. Si no ha iniciado el ciclo de lavado.
+ • La alarma se activa y la lavadora deja de funcionar, si la tapa de la lavadora se encuentra abierta 
+en la etapa de centrifugado. En las demás etapas solo deja de funcionar.
+ • Función Lavar más tarde no se puede utilizar para el programa Delicado.
+ • Para cancelar la función de Lavar más tarde se debe apagar la lavadora.
+ • Para cambiar el tiempo preestablecido de Lavar más tarde, se debe apagar la lavadora y 
+configurarla nuevamente.
+Cómo utilizar los programas
+ • Presione el botón de encendido .
+ • Presione el botón Programas para escoger el programa acorde el tipo de ropa. Referencia el 
+programa y el tipo de ropa con la tabla a continuación:
+Guía para escoger programas en la lavadora LAV 8.5 KG PF D GR
+Tiempos
+Programa Ropa adecuada Remojo Lavado Enjuague Centrifugado
+Inteligente T odo tipo de ropa 0 min 5-12 min 2 veces 5-6 min
+Favorito T odo tipo de ropa 0 min 10 min 2 veces 5 min
+Delicado Ropa interior de mujer, artículos 
+con bordados
+0 min 6 min 2 veces 2 min
+Fuerte Ropa muy sucia 0 min 7-14 min 2 veces 7-8 min
+Sábanas Sábanas o ropa abultada 0 min 12 min 2 veces 8 min
+Rápido Ropa poco sucia 0 min 5 min 1 vez 3 min
+
+23
+Guía para escoger programas en la lavadora LAV 11 KG PF D GR
+Tiempos
+Programa Ropa adecuada Remojo Lavado Enjuague Centrifugado
+Inteligente T odo tipo de ropa 0 min 6-12 min 2 veces 5-6 min
+Favorito T odo tipo de ropa 0 min 10 min 2 veces 5 min
+Delicado Ropa interior de mujer, artículos 
+con bordados
+0 min 6 min 2 veces 2 min
+Fuerte Ropa muy sucia 0 min 8-14 min 2 veces 7-8 min
+Sábanas Sábanas o ropa abultada 0 min 12 min 2 veces 8 min
+Rápido Ropa poco sucia 0 min 6 min 1 vez 3 min
+Guía para escoger programas en la lavadora LAV 12 KG PF D GR
+Tiempos
+Programa Ropa adecuada Remojo Lavado Enjuague Centrifugado
+Inteligente T odo tipo de ropa 0 min 5-12 min 2 veces 5-6 min
+Favorito T odo tipo de ropa 0 min 10 min 2 veces 5 min
+Delicado Ropa interior de mujer, artículos 
+con bordados 0 min 6 min 2 veces 2 min
+Fuerte Ropa muy sucia 0 min 7-14 min 2 veces 7-8 min
+Sábanas Sábanas o ropa abultada 0 min 12 min 2 veces 8 min
+Rápido Delicado, tejido de punto suéter 0 min 10 min 2 veces 2 min
+Los tiempos de lavado y centrifugado pueden variar de acuerdo a la cantidad de 
+ropa en los programas Inteligente y Fuerte. Es posible que los tiempos totales no 
+sean exactos debido a la diferencia de la presión de agua.
+Presione los botones Remojo, Lavado, Enjuague y Centrifugado si desea modificar los 
+tiempos de las etapas del lavado.
+Presione el botón de Nivel del agua para escoger el nivel de agua apropiado y agregue 
+detergente.
+Presione el botón Inicio/Pausa.
+Características de las lavadoras
+Limpieza en dos pasos
+ • La lavadora comienza a lavar con bajos niveles de agua con respecto al nivel establecido. De 
+este modo, la lavadora trabajará con mayor concentración de detergente.
+ • Este procedimiento no se realiza en los niveles de agua1 y 2, y en los programas Delicado 
+y Cobijas o Sábanas.
+Recordación de función
+ • Cuando sea seleccionado uno de los siguientes programas Inteligente, Favorito, o Fuer-
+te, luego de 20 segundos o más de estar trabajando la lavadora y se apaga, al prender nue-
+vamente la lavadora recordará el último programa seleccionado.
+ • El programa Favorito, permite configurar el ciclo de lavado de acuerdo con las preferencias 
+del usuario. Pasados 20 segundos o más después de que inicia este programa, la próxima vez 
+que sea seleccionado Favorito, este recordara la programación de los tiempos de Lavado, 
+Enjuague y Centrifugado.
+
+24
+  IMPORTANTE
+ • Recordación de función no está disponible para los programas Delicado, Cobijas o Sábanas y 
+Lanas o rápido.  Lavar más tarde y Nivel del agua no será recordados.
+Funciones adicionales
+Bloqueo de niños
+Para configurar el bloqueo de niños, encienda la lavadora.
+LAV 8.5 KG PF D GR, LAV 11 KG PF D GR y LAV 12 KG PF D GR
+Presione el botón Programas por 4 segundos continuos hasta escuchar la alarma. Para restaurarlo 
+repita lo anterior.
+Deshabilitar alarma de fin de proceso
+Para deshabilitar la alarma que se escucha al finalizar el proceso, encienda la lavadora, presione 
+por 4 segundos el botón Inicio/Pausa hasta que se escuche un timbre. Para restaurar la función 
+repita lo anterior.
+Entrada de agua caliente, tibia o fría
+Presione el botón T emperatura del agua seleccione entre agua Fría, Tibia o Caliente.
+ • LAV 8.5 KG PF D GR/LAV 11 KG PF D GR: El indicador LED apagado indica agua fría, 
+encendido indica agua tibia y parpadeando indica agua caliente. (Ver figura 19)
+ • LAV 12 KG PF D GR: El indicador LED superior encendido indica agua caliente, el indi -
+cador LED inferior encendido indica agua fría; los dos LEDs encendidos al mismo tiempo 
+indican agua tibia. (Ver figura 20)
+Nota: Al seleccionar las opciones de temperatura, inmediatamente se deshabilita la detección de 
+nivel de agua automático. Por la tanto debe ser ajustado manualmente.
+Figura 20Figura 19
+Nota: La manguera de agua caliente podrá ser solicitada a través de nuestra línea de Servicio 
+Medellín: 255 21 00, línea gratuita de Servicio Nacional: 01 8000 511 000 en Colombia, o 
+nuestros centros de servicio autorizado. 
+Lavado variable
+Durante el lavado se puede ajustar manualmente la fuerza de lavado, presionando el botón Remo-
+jo/Lavado variable (LAV 12 KG PF D GR) ó Ajustar (LAV 8.5 KG PF D GR/500) el indicador muestra 
+H0 como fuerza estándar es modificable a un lavado con mayor fuerza H1, H2, H3 y H4 siendo H4  
+el más fuerte y un lavado de menor fuerza L1, L2, L3 y L4, siendo L4 un lavado de menor 
+fuerza, Esta función no es posible utilizarla en los programas de Delicado y Cobijas o Sábanas. 
+(Ver figura 21).
+
+25
+Menos fuerte Más fuerteEstándar
+Figura 21
+Lavar más tarde
+ • Antes de utilizar el programa Lavar más tarde, por favor, asegúrese de abrir el suministro de 
+agua, y la manguera de drenaje debe estar ajustada para evitar fugas de agua.
+ • Antes de iniciar el proceso de lavado seleccione Lavar más tarde y el tiempo deseado en 
+horas y configure la lavadora de forma habitual, presione Inicio/Pausa el ciclo de lavado ter -
+minará conforme al  tiempo configurado.
+ • Después de que el programa Lavar más tarde se inicia, la luz correspondiente se enciende.
+ • Función de Lavar más tarde no se puede utilizar para el programa Delicado. 
+ • Para comprobar los procedimientos preestablecidos, por favor, seleccione Lavar más tarde, 
+los procedimientos se indicará durante 5 segundos.
+ • Para cancelar los ajustes preestablecido, se debe apagar la lavadora.
+ • Para cambiar la hora programada, por favor vuelva a seleccionar el tiempo después de rei-
+niciar la lavadora.
+  IMPORTANTE
+ • Si el tiempo completo del ciclo de lavado es mayor al tiempo programado con la función lavar 
+mas tarde, la lavadora iniciará el ciclo de lavado inmediatamente.
+ • Cerciórese de colocar el extremo de la manguera de drenaje en el lavadero o en la tubería 
+de desagüe dispuesta para este fin.
+ • Conecte la mangueras de alimentación de agua.
+ • Conecte el cable de alimentación a una fuente de poder de 120V~/60Hz.
+Consejos de lavado
+ • Revise la etiqueta de las prendas para saber cómo lavarlas. Separe las prendas.
+ • Revise que los bolsillos no contengan objetos. Extraiga los objetos de los bolsillos.
+ • Las prendas con botones o bordados deben darse vuelta antes de lavar.
+ • Clasifique la ropa de acuerdo con el tipo y la intensidad de suciedad. Separe la ropa man-
+chada y desmánchela antes de lavarla con las demás prendas, aplicando una solución de 
+detergente en ese punto y quite las manchas ligeramente con cepillo suave.
+ • Voltee las prendas al revés para evitar que suelten motas.
+ • Las prendas de lana, ropa interior femenina, artículos con bordados, nylon y otras telas deli-
+cadas deben colocarse en una malla de lavado para darles una mejor protección.
+ • Clasifique la ropa según los colores (blancos, claros, oscuros). La ropa de color puede 
+desteñirse.
+ • Cuando lave la ropa por primera vez, se recomienda revisar la firmeza de los colores. Para 
+revisar, aplique una solución de detergente en una toalla blanca y presiónela sobre el reverso 
+de la zona de la ropa. Revise si hay una huella de color sobre la toalla blanca.
+ • Si la carga de ropa flota sobre el agua, oprima el botón Inicio/Pausa, sumerja suavemente en 
+el agua y oprima nuevamente el botón Inicio/Pausa.
+ • El agua tibia (Aproximadamente 30°C) permite sacar eficazmente la mayor parte de la 
+suciedad.
+ • Para el lavado de prendas de lana utilice únicamente agua fría. El uso de agua tibia puede 
+provocar arrugamiento o encogimiento de la ropa. Verifique que el suministro para este caso 
+sea solamente de agua fría.
+ • No lave prendas de piel o gamuza en su lavadora. Estas prendas se pueden deformar o 
+encoger.
+
+26
+ • Sacuda y cepille las prendas con exceso de polvo y/o 
+arena antes de introducirlas en la lavadora.
+ • Procure cerrar cremalleras, broches que puedan generar 
+daño entre las prendas o enredarse con otras.
+Uso de detergente
+La suciedad es separada de las prendas con la ayuda de la ac-
+ción química de los detergentes. El detergente utiliza oxigeno 
+para su efecto de lavado, el cual toma del agua.
+Para un buen funcionamiento de su lavadora siga las siguien-
+tes instrucciones con respecto al uso del detergente:
+ • Se debe usar sólo detergente para lavadoras.
+ • Siga las instrucciones de uso indicadas en el empaque del 
+detergente.
+ • Prepare la cantidad de detergente necesario de acuerdo 
+a la cantidad de ropa a lavar. La cantidad de detergente 
+varía de acuerdo a la suciedad de la ropa, la temperatura 
+del agua, la carga de ropa y tipo de tela.
+ • En el panel de control se indica la cantidad aproxima-
+da de detergente a utilizar según el nivel de agua; sin 
+embargo tenga en cuenta que debe utilizar la cantidad 
+recomendada por el fabricante del detergente. 
+ • Una vez depositado el detergente, éste se diluye confor-
+me se esté suministrando el agua a la lavadora.
+ • Se recomienda utilizar detergente que produzca poca 
+espuma y se disuelva rápidamente.
+ • El exceso de detergente produce un enjuague inadecua-
+do, del mismo modo una cantidad insuficiente de deter-
+gente produce un lavado deficiente.
+ • No abra el compartimento para detergente cuando se 
+esté suministrando agua.
+Uso de blanqueador
+ • El uso de blanqueador es un paso opcional. Diluya el 
+blanqueador en el doble de agua y viértalo en el dispen-
+sador de blanqueador que se indica en la Figura 24, esta 
+acción se debe realizar al inicio del ciclo de lavado mien-
+tras la lavadora se encuentra llenado en tanque de agua.
+ • Siga las instrucciones del fabricante que aparecen en el 
+envase del blanqueador.
+ • No permita que el blanqueador salpique, gotee o caiga 
+dentro del tanque de la lavadora.
+ • Verifique que el blanqueador sea el adecuado para el tipo 
+de tela y color de las prendas, lea las indicaciones del 
+fabricante del blanqueador.
+Uso de suavizante
+ • El suavizante debe ingresar antes de iniciar el ciclo de 
+lavado.
+ • El uso de suavizante es un paso opcional. Vierta el suavi-
+zante de telas en el dispensador de suavizante utilizando 
+la cantidad recomendada en el envase.
+ • Evite que el suavizante gotee o salpique directamente 
+sobre las prendas.
+Dispensador de detergente
+LAV 8.5 KG PF D GR
+LAV 11 KG PF D GR
+LAV 12 KG PF D GR
+Dispensador de detergente
+Dispensador
+de blanqueador
+Dispensador de suavizante
+LAV 8.5 KG PF D GR
+LAV 11 KG PF D GR
+LAV 12 KG PF D GR
+SUAVIZANTE
+Línea tope
+T apa del
+suavizante
+Dispensador de suavizante
+Figura 23
+Figura 24
+Figura 25
+Figura 26
+Figura 22
+
+27
+ • No exceda la línea tope (Ver figura 26). El exceso de suavizante puede causar un lavado 
+deficiente y que éste fluya anticipadamente.
+ • El suavizante se introducirá automáticamente en el tanque de lavado durante el enjuague 
+final.
+ • No utilice otro tipo de líquidos en estos depósitos. Siga las instrucciones del fabricante.
+  IMPORTANTE
+ • Si el dispensador está húmedo, límpielo y séquelo para que el detergente en polvo no se 
+adhiera a éste.
+ • Antes de iniciar la operación de su lavadora, revise que el dispensador de detergente esté 
+correctamente cerrado.
+ • No ponga detergente ni blanqueador directamente sobre las prendas, éstas pueden cambiar 
+de color.
+ • Después de utilizar el blanqueador, enjuague con agua la entrada de éste.
+ • No vierta detergente, blanqueador o almidón en el dispensador de suavizante.
+ • No abra la tapa de la lavadora durante el proceso intermitente de centrifugado. Si ésta se 
+abre el suavizante no se distribuye de forma adecuada debido a la interrupción del proceso.
+ • No deje por mucho tiempo el suavizante en e l dispensador. Éste puede volverse rígido.
+ • Cierre la tapa del dispensador para evitar que caiga agua dentro de éste durante el suministro 
+de agua, haciendo fluir el suavizante antes de tiempo.
+Eliminación de manchas
+ • Si hay prendas con manchas o muy sucias puede ser necesario poner las prendas en remojo 
+para obtener un buen resultado. Poner las prendas en remojo ayuda a eliminar manchas de 
+sangre, leche o pasto. Ésto ayuda a desprender la suciedad antes del lavado.
+Reglas para eliminar las manchas
+ • Se recomienda lavar o enjuagar con anterioridad la ropa con manchas, suciedad excesiva 
+o marcas de grasa, para así obtener mejores resultados. El remojo elimina las manchas de 
+sangre, leche o grasa.
+ • Use agua tibia para enjuagar y lavar la ropa manchada. El agua caliente puede afirmar la 
+mancha.
+ • Antes de quitar cualquier tipo de mancha asegúrese del tipo de mancha, el tipo de tejido y si 
+destiñe (revise en la etiqueta de las prendas las precauciones dadas por el fabricante).
+ • Es más fácil eliminar la mayoría de las manchas cuando son recientes. Las manchas viejas o 
+endurecidas posiblemente no se eliminen.
+ • Si se recomienda el uso de blanqueador, utilice aquel que no destruya los tejidos.
+ • Aplique un producto quitamanchas en la parte trasera de la mancha para que salga.
+  IMPORTANTE
+ • Los tiempos de duración de los programas contenidos en este manual son aproximados y 
+dependen de la presión de agua domiciliaria.
+ • Los valores indicados en tablas, son referenciales y pueden variar según el tipo de telas a lavar.
+ • Cerciórese de no sobrecargar la lavadora, verificando que las prendas contenidas en su in-
+terior giren libremente.
+ • La capacidad de lavado de la lavadora varía de carga a carga según el tipo de fibra de las 
+prendas y volumen.
+
+28
+ • Las prendas de algodón y cobijas, entre otras, absorben gran cantidad de agua incrementan-
+do el peso de la carga de ropa.
+Para un lavado óptimo y aprovechar al máximo la tecnología y funciones de la lava-
+dora Haceb, le recomendamos tener en cuenta las siguientes tablas.
+Carga para un lavado óptimo (Peso de las prendas secas en kg)
+Prenda Peso estándar por prenda
+Camisas 0.2 kg
+Camisetas 0.08 kg
+Sudaderas 0.3 kg
+Ropa interior 0.05 kg
+Pantalón de vestir 0.4 kg
+Carga simultanea de prendas para un lavado óptimo (Cantidad de Prendas)
+LAV 8.5 KG PF 
+D GR
+LAV 11 KG PF 
+D GR
+LAV 12 KG PF 
+D GR
+Prenda Cantidad Cantidad Cantidad
+Camisas 3 4 5
+Camisetas 7 7 8
+Sudaderas 3 4 6
+Ropa interior 8 10 12
+Pantalón de vestir 3 4 5
+  IMPORTANTE
+La máxima capacidad de carga con ropa seca del producto, está estimada acorde a lo señalado en 
+la NTC-4469 y debe cumplir los ensayos estipulados en la NTC-2183. Esta capacidad se logra 
+con telas estandarizadas con un peso y densidades normalizados (entre 90 g/m2 y 175g/m2).
+Después del lavado
+ • Para evitar el encogimiento, es importante sacar la carga de ropa del tanque de lavado/
+centrifugado apenas se termine el programa y sacudirla de tal manera que recobre su forma 
+original.
+ • Cuélguelas en un gancho para que se seque uniformemente, evitando al máximo las arrugas. 
+Pequeñas arrugas se pueden quitar fácilmente con la plancha.
+ • Ropa de lana: coloque las prendas sobre una toalla, y seque a la sombra extendiendo la ropa 
+sobre la toalla.
+Normas y reglamentos técnicos
+Este producto ha sido revisado su buen funcionamiento bajo condiciones normales de uso y 
+además fue evaluado bajos las siguientes normas y reglamentos técnicos:
+ • Resolución 41012. Reglamento Técnico de Etiquetado (RETIQ).
+ • NTC-2183. Seguridad de artefactos electrodomésticos y artefactos eléctricos similares. Parte 
+1: Requisitos generales.
+ • NTC-4469. Seguridad de artefactos electrodomésticos y artefactos eléctricos similares. Parte 
+2: Requisitos particulares.
+ • NTC-5061. Máquinas para lavado de ropa de uso doméstico. Métodos para medir el des-
+empeño. (2da. Actualización).
+
+29
+  ADVERTENCIAS
+ • Recuerde siempre desconectar la lavadora de la red eléctrica, después de haber termina-
+do el proceso de lavado y cerrar los suministros de agua. Evite fugas de agua o incendios 
+accidentales.
+ • No halar fuertemente la manguera de desagüe. Evite una fuerza excesiva generando un 
+desacople en la conexión de la manguera de desagüe con la bomba de drenaje ya que un 
+piso mojado podría generar accidentes, corto circuito o una descarga eléctrica al entrar en 
+contacto con aparatos eléctricos.
+PREVENCIÓN Y CUIDADOS
+ • Si el tambor de lavado no se detiene en menos de 15 segundos después de que sea abre la 
+tapa, cuando se encuentre centrifugando o en los centrifugados del ciclo de enjuague, apague 
+inmediatamente la lavadora y llame al Servicio Técnico Haceb, sus centros autorizados o 
+personal técnico calificado y certificado.
+ • NO USE AGUA CALIENTE A MÁS DE 50ºC. Esto puede dañar la estructura de las piezas 
+de plástico y ocasionar anomalías.
+ • Solicite los servicios de instalación, reparación o cambio de piezas a Servicio Técnico Haceb, 
+sus centros de servicio autorizado o personal técnico calificado y certificado.
+ • Mantenga la lavadora en buenas condiciones.
+ • Proteja la lavadora de las condiciones climáticas extremas, ubicándola en un lugar donde 
+quede protegida contra la lluvia o el sol directo.
+ • No fuerce los mandos de la lavadora.
+ • Retire todos los objetos de los bolsillos tales como monedas, encendedores y fósforos. Los 
+objetos duros o afilados, tales como clips, clavos, tornillos o piedras pueden causar daños 
+considerables en la lavadora.
+ • Suavizantes, jabones o productos similares, deben ser usados de acuerdo con las instruccio-
+nes provistas en dicho producto.
+ • No utilice jabón para lavar a mano en la lavadora. Si este se endurece y se acumula en el 
+interior, puede causar problemas al producto, como decoloración, óxido o malos olores.
+ • Si no va a usar la lavadora durante un período de tiempo largo o durante las vacaciones usted 
+debe desconectar la lavadora y cortar el suministro de agua en ambas mangueras. Esta reco-
+mendación ayuda a evitar inundaciones accidentales (en caso de que aumente la presión del 
+agua) mientras que usted está ausente.
+ • No lave, enjuague y/o centrifugue telas impermeables como: Bolsas para dormir, indumen-
+taria impermeable, pijamas para carros, entre otros.
+Aspectos ambientales
+ • Empaque: Haceb procura, en sus nuevos productos, utilizar empaques 
+cuyas partes sean fáciles de separar, así como materiales reciclables. Por lo 
+tanto, las piezas de los empaques (protectores de porón, bolsas plásticas 
+y caja de cartón) deben ser desechadas de manera consciente, siendo 
+destinadas, preferiblemente  a recicladores.
+ • Producto: Este producto fue fabricado con materiales que pueden ser 
+reciclados y/o reutilizados. Entonces, al deshacerse de este producto, bus-
+que compañías especializadas en desmontarlo correctamente.
+ • Eliminación: Al desechar este producto, al final de su vida útil, solicita -
+mos que sea obedecida la legislación local existente y vigente en su región, 
+haciendo esto de la forma más correcta posible.
+
+30
+LIMPIEZA
+Limpieza después del uso
+ • Desconecte la manguera de desagüe de la lavadora y ce-
+pille vigorosamente para retirar la mugre o motas, como 
+se ilustra en la figura 27.
+ • Limpie el gabinete con un paño seco, no utilice benci-
+na, alcohol o solventes. Si está muy sucia, utilice un pa-
+ño mojado con solución de agua jabonosa con un PH 
+neutro.
+ • Enjuague completamente el tanque y los compartimen-
+tos del detergente y suavizante para evitar la acumulación de sarro, debido a los residuos de 
+detergentes, blanqueadores.
+Limpieza del filtro atrapa motas
+ • Presione la pestaña del filtro hacia abajo.
+ • Hale el filtro atrapa motas como se indica en la figura 28.
+ • Abra la tapa atrapa motas como se indica en la figura 29.
+ • Lave el filtro con un cepillo de cerda plástica y agua. Cepille hasta retirar la mugre y motas 
+atrapadas en éste. (Ver figura 30).
+Figura 27
+Figura 28 Figura 29 Figura 30
+Figura 31
+Figura 32
+Limpieza de los filtros de paso de agua
+ • Se sugiere realizar la limpieza cada 6 meses.
+ • Desconecte el enchufe de la toma corriente y proceda a 
+limpiar el (los) filtro (s) removiendo (los) y retire la sucie-
+dad con un cepillo. (Ver figura 31).
+Limpieza de la bomba de desagüe (Se debe limpiar 
+después de 5 ó 6 lavadas).
+ • Encienda la lavadora.
+ • Llene la lavadora hasta el nivel “Mínimo”.
+ • Seleccione el proceso de centrifugado (1 minuto) y colo-
+que la manguera de desagüe en el drenaje a nivel de piso 
+o bien en un recipiente. (Ver figura 32).
+Limpieza del filtro de drenaje (Referencias LAV 12 
+KG PF D GR)
+El filtro de drenaje está instalado en la parte posterior de 
+la lavadora, el cual sirve para atrapar objetos extraños. Este 
+filtro debe ser limpiado frecuentemente cada mes, para un 
+óptimo funcionamiento.
+
+31
+El no realizar una adecuada limpieza podría producir problemas de drenaje.
+ • Vacíe el agua de la manguera de desagüe y coloque una vasija bajo el filtro para recoger el 
+agua. (Ver figura 33).
+ • Gire la tapa hacia la izquierda y retire el filtro de la lavadora, (Ver figura 34).
+ • Limpie el filtro de desagüe retirando de éste todos los objetos y materiales extraños, (Ver 
+figura 35)
+ • Coloque el filtro en la guía de montaje. Asegúrese que la guía acople en la ranura correcta-
+mente. (Ver figura 36).
+ • Una vez colocado el filtro en el desagüe gire la tapa hacia la derecha fuertemente y conecte 
+nuevamente la manguera de desagüe. (Ver figura 37).
+Vasija
+Manguera
+Filtro
+Salidadesagüe
+Figura 33
+T apa
+Filtro Ranura
+Figura 34 Figura 35
+Figura 36 Figura 37
+ ADVERTENCIAS
+ • Durante la operación, puede aparecer la indicación “E2” en la pantalla del panel de control 
+que indica un error en el sistema de desagüe.
+ • Lo anterior es causado principalmente por el bloqueo del filtro de desagüe. Si usted realiza 
+la limpieza del filtro de desagüe de acuerdo a las instrucciones, podrá continuar con la ope-
+ración de su lavadora.
+ • Para reiniciar el programa de lavado, por favor apague y encienda nuevamente la lavadora.
+ • En el caso de continuar con la indicación “E2”, llame a Servicio Técnico Haceb, Centros 
+autorizados o personal calificado y certificado.
+
+32
+SOLUCIONES ANTES DE LLAMAR A SERVICIO TÉCNICO
+ • La mayoría de los problemas se solucionan fácilmente, si se sabe la causa. Revise la siguiente 
+tabla antes de llamar a Servicio Técnico Haceb.
+PROBLEMA REVISAR
+LA LAVADORA NO FUNCIONA
+• Si hay alguna falla en el suministro de energía.
+• Si está correctamente conectado el cable de alimentación a una 
+toma eléctrica.
+• Si ha encendido la lavadora.
+• Si ha presionado el botón Inicio/Pausa.
+NO ENTRA AGUA
+Si no hay suministro de agua dentro 
+de 3 minutos se encenderá la luz 
+“E1”y emitirá un sonido indicando 
+que hay problemas.
+• Si ha conectado la manguera de entrada y ha abierto la llave de 
+suministro de agua.
+• Si está desconectado el suministro de agua.
+• Si hay materiales extraños bloqueando el filtro de la manguera.
+LA LAVADORA NO BOTA EL 
+AGUA
+ Si la lavadora no drena el agua en el 
+tiempo determinado, se encenderá 
+la luz “E2” y emitirá un sonido 
+indicando que hay problemas.
+• Si la manguera de desagüe está con suciedad.
+• Si la manguera de desagüe está retorcida o deformada.
+• Si el extremo de la manguera está inmerso en el agua.
+• Si hay exceso de suciedad dentro de la manguera de desagüe.
+LA LAVADORA NO 
+CENTRIFUGA 
+Si la ropa está acumulada en un sólo 
+lado mientras la lavadora centrifuga 
+y no está nivelada se suspende la 
+función Centrifugado y se corrige 
+el desnivel al realizar la siguiente 
+operación: suministro de agua, 
+enjuague y desagüe; si el desnivel 
+persiste después de haber repetido 
+la acción anterior, la luz “E3” se 
+encenderá y emitirá un sonido 
+indicando que hay problemas.
+• Si la ropa está acumulada en un sólo lado.
+• Si la lavadora está colocada sobre un piso desnivelado o es muy
+• fuerte la vibración. (Nivelación de la lavadora, página 13).
+• Si está la tapa de la lavadora abierta (la luz “E4” se encenderá si 
+este es el caso).
+Casos que no implican un mal funcionamiento:
+ • El sonido que se escucha mientras entra agua, es el sonido de funcionamiento de la válvula 
+de entrada de agua.
+ • El sonido que se escucha cuando se detiene la lavadora proviene del autobalance del tanque 
+de lavado.
+ • Durante el lavado o enjuague, es posible que el agua se adicione automáticamente debido a 
+la disminución del nivel del agua.
+ • El tambor giratorio puede variar la velocidad del centrifugado al inicio, esto puede mejorar 
+los efectos del centrifugado.
+ • El agua puede subir de nivel durante el centrifugado, esto es una forma de corrección auto -
+mática en caso que la carga de ropa no está equilibrada en el interior.
+ • Es posible escuchar un sonido de flujo de agua después del centrifugado, el sonido es pro -
+ducido por el líquido que equilibra el anillo de balance y a su vez reduce la vibración del 
+centrifugado.
+ • El panel de control se mantiene caliente después apagar el artefacto, esto es causado por los 
+circuitos electrónicos mantienen un calor durante un periodo de tiempo.
+ • Ruido generado por la bomba en el momento de drenar el agua del tanque de la lavadora.
+
+33
+Preguntas frecuentes
+¿Qué hacer cuando hay ruidos en la lavadora?
+R/. Si las prendas se amontonan en un lado del tanque de lavado/centrifugado, éste se desequili-
+bra. Debe distribuir la ropa de manera uniforme y recuerde comenzar el centrifugado, es normal 
+escuchar un pequeño golpe.
+¿Qué hacer cuando hay filtración de agua en la conexión de la manguera de desagüe? 
+R/.Fíjese que la abrazadera esté bien ajustada a la manguera de desagüe de lo contrario ajústela 
+manualmente para evitar que continúe la filtración.
+La lavadora emana olor a quemado
+R/. No se preocupe, es normal que en los primeros usos la lavadora desprenda un cierto olor a 
+barniz del motor. Esto se eliminará después con el uso.
+El tanque de la lavadora se ve caído
+R/. Esto es una apreciación visual ya que el tambor baja en consecuencia del peso de la ropa y 
+del agua.
+Entra y bota agua
+R/. Verifique que la manguera de desagüe esté a la altura correcta (página 12).
+Durante el lavado sobrepasa el nivel alto de agua
+R/.Esto es normal, después toma su nivel y empieza a lavar normalmente. De lo contrario si 
+queda botando agua en forma permanente llame al Servicio Técnico Haceb.
+Código de errores
+Cuando los siguientes problemas ocurran, la microcomputadora detectará la condición anormal 
+y una alarma se escuchará por aproximadamente 10 segundos y los indicadores parpadean como 
+se muestra a continuación. De inmediato se detendrá la operación de la lavadora.
+Pantalla Tipo de problema Solución
+La lavadora no trabaja
+• Presione el botón 
+• Presione el botón INICIO/PAUSA
+• Presione el botón PROGRAMA
+• Verifique si hay falla en el suministro de energía
+• Verifique si el circuito eléctrico de su vivienda se 
+encuentra activado.
+El agua no fluye hacia la tina
+• Abra la llave de suministro de agua.
+• Verifique si el suministro de agua ha sido   
+interrumpido.
+• Verifique si el filtro de metal de la entrada de agua 
+está obstruido.
+• Verifique si la presión de agua es muy baja.
+• Verifique que la manguera de drenaje esté   ubicada 
+a una altura adecuada (Ver  figuras 10 y 11).
+El agua no está drenando.
+• Verifique que la manguera de drenaje esté ubicada 
+a una altura adecuada (Ver figuras 10 y 11).
+• Verifique si la manguera de drenaje no está   
+obstruida.
+
+34
+La lavadora no realiza el 
+centrifugado.
+• Verifique si hay un desbalance en la distribución de 
+la ropa en la tina.
+• Verifique si la lavadora está en una superficie   
+nivelada.
+• Cierre la tapa de la lavadora y presione el botón 
+INICIO/PAUSA.
+No Lava
+• Verifique si el seguro de niños está ajustado.
+• Cierre la tapa de la lavadora y presione el botón 
+INICIO/PAUSA
+Otros problemas • Por favor comuníquese con el centro autorizado   
+de servicio técnico más cercano.
+  IMPORTANTE
+La lavadora debe ser ajustada y reparada por Servicio Técnico Haceb, centros de servicio auto-
+rizados o personal calificado y certificado.
+
+35
+CONFÍA TUS ELECTRODOMÉSTICOS
+A UN EXPERTO
+• Asesoría • Instalación • Mantenimiento Preventivo
+• Reparación • Repuestos y Accesorios • Garantía
+*Llama gratis desde tu celular
+Operadores Claro, Movistar, Virgin, Móvil Éxito y Tigo
+(Aplica solo para Colombia)
+Servicio Haceb
+servicio.haceb.com
+
+Certificado N° SC 062-1
+Lea detenidamente estas instrucciones de uso e 
+instalación antes de encender u operar su 
+producto y guárdelas como referencia para el 
+futuro.
+Comercializador: 
+INDUSTRIAS HACEB S.A.
+COLOMBIA
+Autopista Norte Calle 59 No. 55-80 km. 13,
+Copacabana, Antioquia.
+www.haceb.com
+* Aplica para los operadores Claro, Movistar, Virgin, Móvil Éxito y Tigo.
+Llámanos gratis desde tu celular al #466 
+Correo electrónico: atencionpqr@haceb.com
+01/03/2024           Revisión: 00            Código: 3022769_MANUAL USUAR LAV HW CHN 8.5-11-12 KG

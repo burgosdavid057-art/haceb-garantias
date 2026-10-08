@@ -1,0 +1,37 @@
+# Modelo del asistente Haceb.
+#
+#   ollama create haceb-agente -f Modelfile
+#
+# --- Por que un Modelfile y no `options` en la llamada ---
+#
+# El endpoint /v1/chat/completions de Ollama IGNORA `options`, `think` y
+# `chat_template_kwargs`. Se probaron los tres: el modelo sigue cargando con
+# 4096 de ventana. Lo unico que la mueve es hornearla aqui.
+#
+# Como se ve el fallo cuando la ventana se queda corta: el system prompt
+# mas los esquemas de las 12 herramientas ocupan ~3.900 tokens; el modelo razona
+# antes de responder y el razonamiento se come los ~190 que quedan hasta 4096.
+# El turno termina con `finish_reason: length` y contenido VACIO. Desde afuera
+# parece que el agente "no entendio la pregunta", y lo que pasa es que no le
+# quedaba sitio para contestar.
+#
+# --- Por que qwen2.5:7b ---
+#
+# Es el mismo modelo del bot de open-wa y el que mejor dispara las herramientas
+# de este agente entre los que probamos en local: 4/4 tool calls correctos.
+# Un modelo mas pequeño (p. ej. qwen2.5:3b) responde mas rapido pero falla las
+# herramientas, y sin herramientas este agente no tiene de donde sacar un dato:
+# responderia de memoria, que es justo lo que el proyecto existe para evitar.
+# La vision (leer la foto de la orden) va en un modelo aparte, gemma3:4b, para
+# que ninguna imagen con datos personales salga de la maquina (ver .env).
+
+FROM qwen2.5:7b
+
+# 16384 y no 8192: el prompt base ya son ~3.900 tokens y una conversacion de
+# garantia encadena varios resultados de herramienta. Con 8192 alcanza para dos
+# o tres turnos y despues se corta a mitad de una respuesta.
+PARAMETER num_ctx 16384
+
+# Baja, pero no cero: con temperature 0 el modelo se atasca repitiendo la misma
+# llamada a herramienta cuando el primer resultado no le sirve.
+PARAMETER temperature 0.2

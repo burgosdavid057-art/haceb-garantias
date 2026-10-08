@@ -1,0 +1,1736 @@
+MANUAL DE USUARIO HACEB
+Aplica a las referencias: 9003599
+Productos: Lavadora secadora Haceb carga frontal 12 kg
+Fuente: https://stmanualesdigitalesprod.z13.web.core.windows.net/DI/Manuales_Usuario/5004009_MANUAL DE USUARIO.pdf
+======================================================================
+
+www.haceb.com
+Lea detenidamente estas instrucciones de 
+uso e instalación antes de encender u 
+operar su producto y guárdelas como 
+referencia para el futuro.
+Manual
+de usuario
+Lavadora
+secadora
+LAV SEC CF 12KG GC
+
+Manual de usuario
+Lavadora secadora 
+2
+GARANTÍA
+Este producto ha sido revisado y comprobado su buen funcionamiento en la fábri-
+ca, bajo condiciones normales de uso. Además cumple con todas las normas de 
+seguridad vigentes en el país. 
+Garantía del producto
+El producto cuenta con un (1) año de garantía legal en todos sus componentes a 
+partir de la fecha de entrega por parte del establecimiento comercial. La garantía 
+cubre cualquier falla que se presente en la lavadora, causada por novedades de 
+fabricación o daños en los materiales utilizados, de acuerdo con las indicaciones 
+del manual. La garantía no tiene costo alguno y es aplicable siempre y cuando el 
+producto se destine para uso doméstico.
+Las solicitudes de garantía deben realizarse directamente al servicio directo de 
+fabrica – Servicio Haceb – en los canales indicados en este Manual. Estos canales 
+son válidos para Colombia y en otros países, por favor consulte a su distribuidor, o 
+almacén vendedor.
+Garantía suplementaria
+Algunos componentes del producto cuentan con una garantía suplementaria le -
+gal, que amplia y mejora la cobertura de esta de manera gratuita. Dicha garantía 
+es la siguiente y está regida por las condiciones que se indican a continuación:
+ • Garantía suplementaria del Motor: se otorga una garantía suplementaria so -
+bre el componente “Motor” del producto, por un periodo de 9 años, contados a 
+partir de la fecha de terminación de la garantía legal del producto.
+ • Garantía suplementaria de la Tarjeta electrónica: se otorga una garantía su -
+plementaria sobre el componente “Tarjeta de potencia y control” del producto, 
+por un periodo de 4 años contados a partir de la fecha de terminación de la 
+garantía legal del producto.
+ÍNDICE
+GARANTÍA ..........................................................................................................................................................................................2
+GLOSARIO .........................................................................................................................................................................................5
+PRECAUCIONES DE SEGURIDAD ....................................................................................................................................5
+DESCRIPCIÓN DEL PRODUCTO Y SUS PARTES ...................................................................................................8
+INSTALACIÓN .................................................................................................................................................................................11
+OPERACIÓN Y FUNCIONAMIENTO ...............................................................................................................................15
+LIMPIEZA y mantenimiento ...........................................................................................................................................26
+GUÍA DE FALLAS.........................................................................................................................................................................29
+
+Manual de usuario
+Lavadora secadora 
+3
+Términos y condiciones de la garantía suplementaria:
+1. La garantía suplementaria otorgada sobre el Motor y la Tarjeta incluye:
+La reparación de estos componentes, en caso de daño o falla de los mismos, en 
+el término otorgado de garantía suplementaria. Si al momento de la reparación, 
+existen componentes o repuestos diferentes al Motor o la Tarjeta con fallas, su re -
+paración o cambio debe ser asumido por el consumidor.
+En caso de que el Motor y/o la Tarjeta no sean reparables y deban ser cambiados, 
+en virtud de la garantía suplementaria otorgada, Haceb realizará la entrega de un 
+nuevo Motor y/o Tarjeta según el caso, para su cambio de conformidad con las 
+condiciones aquí estipuladas.
+No obstante lo anterior, la mano de obra asociada al cambio del componente por 
+parte de Haceb, deberá ser asumida por el consumidor, así como cualquier re -
+puesto adicional que deba repararse o cambiarse en estos casos. Adicionalmente, 
+el consumidor deberá asumir cualquier otro costo o gasto asociado a la sustitu -
+ción del Motor y/o la Tarjeta.       
+ IMPORTANTE
+Se recomienda al consumidor realizar el cambio del Motor y/o la Tarjeta con el ser-
+vicio directo de fábrica de Haceb – Servicio Haceb – o en su defecto con personal 
+experto y calificado para la manipulación y cambio de este tipo de repuestos en 
+lavadoras. La garantía suplementaria no cubre daños al repuesto o producto por 
+parte de personal ajeno a Haceb.
+2. Término: La garantía suplementaria tendrá un único término de vigencia y en 
+ningún caso se renovará en los eventos de cambios o reparaciones de los compo-
+nentes Motor y/o Tarjeta. En caso de cambio del componente, el nuevo unicamente 
+tendrá una garantía correspondiente al tiempo que reste a los años de garantía 
+suplementaria inicialmente otorgados. En ese sentido, y a modo de ejemplo, si la 
+tarjeta (que tiene 5 años de garantía total) llegase a dañarse a los 4 años de com-
+prado el producto la Tarjeta nueva que sea cambiada o entregada al consumidor, 
+únicamente tendrá un año restante de garantía suplementaria.
+A la garantía suplementaria restante se le aplicarán las mismas condiciones indi -
+cadas en el presente Manual.
+3. Condiciones para que aplique la garantía suplementaria:
+ • El consumidor deberá devolver el Motor y/o la Tarjeta que presente la falla a 
+HACEB. No se entregará el nuevo componente a menos que el anterior haya 
+sido devuelto.
+ • La falla que presente el Motor o Tarjeta deberá estar originada en la calidad 
+del repuesto. HACEB no se hace responsable por los daños causados por uso 
+inadecuado del consumidor, mantenimiento incorrecto o daños de terceros.
+4. Exclusión de la responsabilidad de Haceb:  Haceb no se hace responsable por 
+los daños que se causen en el producto o en el Motor o Tarjeta por reparaciones 
+inadecuadas de terceros. Así como por cualquier daño directo, indirecto o conse -
+cuencial causado por un procedimiento incorrecto por parte de personal ajeno a 
+Haceb.
+
+Manual de usuario
+Lavadora secadora 
+4
+EXCLUSIONES DE LA GARANTÍA
+ • Daños ocasionados por ingresar al producto agua a una temperatura superior 
+al límite máximo establecido de 60°C.
+ • Los daños ocasionados por transporte (por parte de terceros) o siniestros.
+ • Fallas o daños ocasionados al producto por el incumplimiento de las normas 
+mínimas de seguridad establecidas para las instalaciones eléctricas que apli -
+quen al mismo.
+ • Las fallas o daños ocasionados por mal uso, instalaciones inadecuadas o inter-
+venciones no autorizadas; dentro de estas se incluyen los daños ocasionados 
+en el producto o a otros por no respetar las condiciones de seguridad estable -
+cidas en el manual de usuario.
+ • Golpes y/o rayas en la carcasa, en las partes metálicas o en accesorios empa-
+cados con el producto, a menos que se detecten en el momento de la entrega.
+ • Las partes y accesorios que están sometidas a un constante uso o desgaste 
+natural, como los filtros para motas, el panel decorativo de la tarjeta de control, 
+las mangueras y accesorios, a menos que el defecto se detecte en el momento 
+de la entrega.
+ • Efectos de oxidación por salpique de agua u otros líquidos usados para la 
+limpieza.
+ • Cuando la operación y manejo del producto sea en condiciones no prescri -
+tas en el manual de instalación y manejo, o se destine para uso comercial o 
+industrial.
+ • Cuando se haya vencido el término de vigencia de la garantía.
+ • El producto presenta el número de serie alterado o removido.
+ • El producto presenta modificaciones no autorizadas en las especificaciones.
+ • Artículo desconectado a la fuente de voltaje.
+ • Conexiones eléctricas flojas o sueltas, después de un mes de uso.
+ • Presenta fuga de agua por falta de mantenimiento en el sifón.
+ • Escapes de agua por deficiente conexión en la manguera de suministro y 
+desagüe.
+ • Manguera de desagüe obstruida por objetos extraños.
+ • Oxidación causada por golpes, rayas o producto expuesto a ambientes salinos 
+y/o con humedad relativa por encima del 70%.
+ • Presiones de agua y/o gas por fuera de especificaciones según placa o manual 
+de usuario.
+ • Problemas causados por operaciones o usos inadecuados, en forma incorrecta 
+y/o diferente a lo especificado en el manual de usuario.
+ • Problemas causados por la invasión de cuerpos extraños al producto como in-
+sectos, ratones, similares, o falta de limpieza del producto.
+ • Problemas causados por condiciones de la naturaleza tales como: terremotos, 
+inundaciones, tormentas eléctricas, entre otros.
+ • Problemas causados por condiciones accidentales o provocadas como incen-
+dios, fluctuaciones de voltaje, vandalismo, robo o similares.
+ • Problemas asociados por una instalación o nivelación del producto incorrecta, 
+esta condición se debe asegurar de acuerdo con las indicaciones del manual. 
+ • Daños ocasionados en vidrios como rayas y/o rupturas a menos que su defecto 
+se detecte en el momento de la entrega.
+Declaración del tiempo de suministro de repuestos
+La disponibilidad de repuestos está garantizada por un periodo de tres (3) años, a 
+partir de la fabricación del último lote, según el serial.
+
+Manual de usuario
+Lavadora secadora 
+5
+ IMPORTANTE
+ • Lea cuidadosamente este manual antes de hacer uso de su lavadora. En él en-
+contrará recomendaciones para su correcta instalación, buen manejo y cuida-
+do, así, podrá conocer y operar su lavadora, obteniendo un óptimo desempeño.
+ • El producto que acaba de adquirir se encuentra diseñado para uso doméstico. 
+Una aplicación diferente (industrial o comercial) altera el correcto funciona -
+miento de la lavadora e invalida el reclamo de la garantía. 
+ • Los daños ocasionados por una instalación inadecuada no realizada por el 
+Servicio Técnico Haceb o sus centros autorizados, no están cubiertos por la 
+garantía.
+GLOSARIO
+USO DOMÉSTICO: es el uso normal al que se ve expuesto un equipo eléctrico que 
+tiene como finalidad satisfacer las necesidades de lavado de prendas de una fa -
+milia en particular. No se recomienda para ser usada en tiendas, almacenes, lava-
+dos en empresas industriales y demás establecimientos.
+AGUA DURA: agua con alto contenido de calcio y magnesio por encima de 120mg/l.
+DISPLAY: pantalla en la cual se visualizan los tiempos o las funciones, ubicado en la 
+parte superior frontal de su lavadora. 
+kPa: unidad de presión que equivale a 1.000 pascales. 
+kW: unidad de voltaje que equivale a 1.000 Vatios. 
+Psi (libras por pulgada cuadrada): unidad de presión del sistema anglosajón.
+TRIPOLAR: que tiene 3 polos. En el caso del enchufe es: línea, neutra y polo a tierra.
+PRECAUCIONES DE SEGURIDAD
+ • No permita que los niños jueguen con las piezas de embalaje de la lavadora. 
+Existe riesgo de asfixia, ya que representan un potencial peligro.
+ • Nunca descuide a los niños y mucho menos permita que jueguen con la lava -
+dora, la usen como escondite o introduzcan mascotas en la lavadora.
+ • El mal uso, instalación, ajuste, mantenimiento defectuoso o inadecuado de este 
+producto puede causar graves daños a la propiedad y/o a las personas.
+ •  Para abrir la puerta hálela de la manija, nunca la hale de los costados, no in -
+tente abrir la puerta cuando la lavadora esté en funcionamiento, al cerrarla 
+verifique que se encuentre bien cerrada.
+ •  Todos los dispositivos de seguridad de este producto deben ser reemplazados 
+o modificados por personal experto, Solicite los servicios de instalación, repa -
+ración o cambio de piezas a Servicio Técnico Haceb, sus centros de servicio 
+autorizado o personal técnico calificado.
+ •  No añada fluidos inflamables (disolventes de limpieza en seco, queroseno, ga -
+solina, etc.) Al agua de la lavadora, ni los utilice o guarde dentro o cerca de 
+ésta. Dichas sustancias desprenden vapores que pueden provocar fuego o una 
+explosión.
+ •  No mezcle cloro, amoníaco, ácido (como vinagre, ácido oxálico), desoxidantes 
+en un mismo lavado, ya que podrían generarse vapores peligrosos.
+ •  Mantenga la lavadora en buenas condiciones.
+ •  Mantenga la lavadora alejada de la luz directa del sol, lluvia, temperaturas ex -
+tremas (Punto de congelación, altas temperaturas), lugares muy húmedos.
+ •  La instalación y conexión de la lavadora al tomacorriente, agua y desagüe, de-
+be ser acorde a las especificaciones técnicas suministradas en este manual y 
+en la placa de especificaciones de la lavadora.
+
+Manual de usuario
+Lavadora secadora 
+6
+ •  No instale la lavadora en lugares muy húmedos. Podría provocar una descarga 
+eléctrica o un cortocircuito.
+ •  No fuerce los mandos de la lavadora.
+ •  Este producto no está diseñado para ser usado por personas con limitaciones 
+físicas, sensoriales o mentales, o que carecen de experiencia y conocimiento, a 
+menos que se les esté brindando supervisión o instrucción con respecto al uso 
+del producto por parte de una persona responsable.
+ •  Desconecte el cable de alimentación antes de iniciar cualquier proceso de lim-
+pieza o reparación.
+ •  No lave ropa que haya estado en contacto con fibra de vidrio o materiales simi-
+lares, ya que las partículas de fibra de vidrio podrían quedarse adheridas a las 
+prendas de posteriores lavados y provocar irritación en la piel.
+ •  Evite rociar agua directamente sobre el panel de control de la lavadora. No lo 
+limpie con solventes, esponjas y/o materiales abrasivos. Para su limpieza, utilice 
+un paño de algodón suave ligeramente humedecido con agua y jabón neutro.
+ •  Los suavizantes, jabones o productos similares, deben ser usados de acuerdo 
+con las instrucciones provistas en dicho producto.
+ •  Evite lavar prendas que contenga hebillas u otros objetos metálicos.
+ •  Antes de lavar las prendas verifique que no contengan en los bolsillos elemen -
+tos como monedas, encendedores, objetos duros o afilados, estos pueden cau-
+sar daños a sus prendas y a la lavadora.
+ •  Limpie y seque con regularidad la lavadora, no permita que residuos de jabo -
+nes, polvo o agua se sequen en la superficie, de esta manera evitara la presen-
+cia de manchas y conservara en un mejor estado la lavadora.
+ •  No instale esta lavadora cerca de un elemento calefactor como hornos, calde-
+ras y/o materiales inflamables.
+ •  Utilice únicamente jabón líquido o detergente en polvo diseñado para lavado -
+ras. Evite el uso de jabón en barra, ya que puede provocar obstrucciones en el 
+sistema y generar malos olores.
+ •  No coloque sobre la lavadora objetos calientes, pesados, inflamables o que 
+contengan solventes, ya que pueden comprometer su funcionamiento, dañar 
+sus componentes o representar un riesgo de accidente.
+Mudanzas, almacenamiento y vacaciones
+ • Cuando mueva la lavadora, la tina se debe inmovilizar con los pernos de trans-
+porte que se quitaron durante la instalación. Consulte las Instrucciones de ins -
+talación, en este manual.
+ • Para trasladar la lavadora, utilice una carretilla y apóyela cuidadosamente so -
+bre uno de sus costados. Evite golpear el panel frontal o las conexiones traseras, 
+ya que podrían dañarse.
+ • La lavadora debe ser transportada por mínimo 2 personas haciendo uso de una 
+carreta de carga.
+Si va a ausentarse por vacaciones o no utilizará la lavadora durante un 
+período prolongado, siga estas recomendaciones:
+ • Desconecte la lavadora de la red eléctrica.
+ • Cierre las llaves de suministro de agua de la lavadora.
+ • Drene completamente las mangueras de entrada de agua y de desagüe.
+ • No almacene la lavadora en lugares expuestos a la intemperie, con alta hume-
+dad o temperaturas extremas.
+Prevención, cuidado y mantenimiento:
+ • La lavadora secadora doméstica no está diseñada para ser empotrada.
+ • Esta lavadora secadora es solo para uso en interiores.
+
+Manual de usuario
+Lavadora secadora 
+7
+ • Desenchufe la lavadora secadora una vez finalizado el ciclo de lavado para 
+mayor seguridad y ahorro de energía. 
+ • No instale el producto en baños, habitaciones muy húmedas o en lugares con 
+gases explosivos o corrosivos.
+ • Antes de usar la lavadora por primera vez, realice un ciclo completo sin ropa en 
+su interior.
+ • No repare ni reemplace ninguna parte de la lavadora a menos que así lo indi -
+quen las instrucciones de reparación del usuario y cuente con los conocimien -
+tos y habilidades necesarios.
+ • No lave alfombras ni sostenes con aros metálicos, ya que pueden causar daños 
+en el producto y en otras prendas.
+ • No agregue agua manualmente durante el lavado.
+ • Una vez finalizado el programa, espere dos minutos antes de abrir la puerta.
+ • Al manipular la lavadora, primero drene el agua acumulada. Manéjela con cui-
+dado. No levante la lavadora secadora sujetándola por partes sobresalientes ni 
+utilice la puerta como asa durante el transporte.
+ • Las lavadoras con una sola válvula de entrada deben conectarse exclusiva -
+mente a la línea de agua fría. En cambio, los modelos con doble válvula pueden 
+conectarse tanto a las líneas de agua caliente como fría.
+ • Después de terminado el período de garantía, recuerde hacer mantenimiento 
+a su lavadora cada 12 meses, comuníquese con Servicio Técnico Haceb o sus 
+centros de servicio autorizados.
+ • Proteja la lavadora de las condiciones climáticas extremas, ubicándola en un 
+lugar donde quede protegida contra la lluvia o el sol directo.
+ • No fuerce los mandos de la lavadora.
+ • Retire todos los objetos de los bolsillos tales como monedas, encendedores y 
+fósforos. Los objetos duros o afilados, tales como clips, clavos, tornillos o piedras 
+pueden causar daños considerables en la lavadora.
+ • Suavizantes, jabones o productos similares, deben ser usados de acuerdo con 
+las instrucciones provistas en cada producto. De otro modo, pueden generarse 
+acumulaciones, obstrucciones o manchas en las prendas.
+ • No utilice jabón para lavar a mano y/o de escamas en la lavadora. Si este se en-
+durece y se acumula en el interior, puede causar problemas al producto, como 
+decoloración, óxido o malos olores.
+ • Si no va a usar la lavadora durante un período de tiempo largo o durante las 
+vacaciones usted debe desconectar la lavadora y cortar el suministro de agua 
+en ambas mangueras. Esta recomendación ayuda a evitar inundaciones ac -
+cidentales (en caso de que aumente la presión del agua) mientras que usted 
+está ausente.
+ • No lave, enjuague y/o centrifugue telas impermeables como: Bolsas para dor -
+mir, indumentaria impermeable, pijamas para carros, entre otros.
+
+Manual de usuario
+Lavadora secadora 
+8
+Partes de la lavadora
+1.  Entrada de agua fría
+2.  Dispensador de detergente
+3.  Puerta
+4.  Tapa del filtro de la bomba
+5.  Panel de control
+6. Patas niveladoras
+7.  Manguera de desagüe
+8.  Cable de alimentación
+Accesorios
+9. Manguera de entrada de agua (1 und).
+10.  Soporte de manguera de desagüe (1und).
+11. Cobertores plásticos. (4 und).
+12. Llave (1 und).
+13. Manual de usuario (1 und).
+9 10
+Figura 2.
+11 12 13
+1
+2
+3
+4
+5
+6
+7
+8
+Figura 1.
+DESCRIPCIÓN DEL PRODUCTO Y SUS PARTES
+Las partes y características de su lavadora están ilustradas en esta página. Fami -
+liarícese con todas las partes y características de la lavadora antes de usarla.
+ IMPORTANTE
+Las imágenes contenidas en este manual pueden ser diferentes al producto origi-
+nal y su único objetivo es ayudar a mejorar la comprensión del contenido escrito 
+del mismo.
+
+Manual de usuario
+Lavadora secadora 
+9
+Especificaciones técnicas
+Referencia LAV SEC CF 12 KG GC 
+Voltaje 120 V~
+Frecuencia 60Hz
+Capacidad máxima de lavado 12 kg
+Capacidad máxima de secado 8 kg
+Potencia nominal  900W
+Potencia secado 900W
+Grado de protección IPX4
+Velocidad máxima de centrifugado 1400 rpm
+Presión de agua requerida 0,05-0,8MPa
+Dimensiones sin empaque (Alto/
+Ancho/Profundo): 850 mm x 595 mm x 660 mm
+Peso sin empaque  67,6 Kg
+Tabla 1.
+
+Manual de usuario
+Lavadora secadora 
+10
+Figura 3.
+CONDITIONS FOR RECEPTION
+- No repeated pages, pasted or inverted.  
+- The print must not be imperfect or blurry.    
+- The unit and the packaging system must garantee that the structure of the 
+  undermanipulation conditions, storaging and transportation.                       
+- The edges must be completely drilled.  
+- There should not be cracks, bursts, wrinkles, distortions, scratches or any 
+- The branding must be cutting edges free.  
+- The coating must cover all the indicated surface in the map.
+STORAGE CONDITIONS
+- It must be storage indoor and humity free.  
+  surface, from high to low and 5 units top.  
+- The labels from the original packaging should not be retired before it’s use, 
+  in case of using them, it should be returned to the original packaging the   
+  ones are left or be envolved in strech polyethylene, this in order to protect 
+  them from the dust and humity. 
+CONDICIONES PARA LA RECEPCIÓN 
+- Sin páginas repetidas, ni pegadas, ni invertidas. 
+- La impresión no debe estar ni defectuosa ni borrosa.  
+- La unidad y sistema de empaque debe garantizar que la estructura de los   
+  deteriore bajo condiciones de manipulación almacenamiento y transporte.
+- Los bordes deben estar completamente troquelados.  
+  quebraduras ni defectos que afecten la apariencia estética.  
+- Los logos deben estar libres de bordes cortantes y rebabas.  
+CONDICIONES DE ALMACENAMIENTO 
+- Debe almacenarse en un lugar bajo techo y libre de humedad.  
+  mayor a menor y máximo 5 unidades.  
+- No se deben retirar las etiquetas del empaque original antes de su uso, en 
+  el caso de empezar a utilizarlas se deben de regresar las que sobren a su 
+  empaque original o en su defecto ser envueltas en polietileno strech, esto 
+ The information contained in this plane is owned by INDUSTRIES HACEB S. A, and is confidential, can be used only by the person or organization to whom it is directed and to the order that was sent. If the receiver is not authorized, any retention, distribution, dissemination or copying of this message is prohibited and may be punishable by law
+ La información contenida en este plano es propiedad de INDUSTRIAS HACEB S.A, y es confidencial, solo puede ser utilizada por la persona u organización a quien está dirigida y para el fin que fue enviada. Si no es el receptor autorizado, cualquier retención, distribución, difusión o copia de este mensaje está prohibida y puede ser sancionada por la ley
+NOTE OF CONFIDENTIALITY / NOTA DE CONFIDENCIALIDAD:
+Code Graphing plane / Código Plano Gráfico:
+Weight / Gramaje: Caliber / Calibre:
+Pre-drilled
+Pre-troquelado:
+Fold / body
+Plegado / cuerpos:
+Weft
+Trama:
+Linescreen
+Lineatura:
+Printing system Plane type / Tipo de plano:Sistema de impresión:
+Approve:
+Point
+Aprobó: 
+Punto:
+Angle
+Ángulo:
+Diecut  
+Troquelado:
+Sewing
+Cosido:
+Hooks/Quantity
+Ganchos/Cantidad:
+Unit of Measure 
+Unidad de medida:
+File Format / Formato de Archivo: Versión:
+Pasterns / Cuartillas:
+Inks / Tintas: 
+Color reference / Referencia de Color:  
+Material:
+Pages / Páginas:
+Project / Proyecto:
+Scale / Escala:
+Add substance / Sustratos para Adhesión:
+Service temperature / Temperatura de Servicio:
+Aplication temperature / Temperatura de Aplicación:
+Useful Life / Vida útil:
+Overview / Ficha Técnica
+Presentation / Presentación:
+Print Process / Proceso de Impresión:
+Rules / Normas Aplicables:
+Date of Issue/ Fecha Elaboración:
+ Review / Revisión:
+ 
+Review date / Fecha revisión:
+ Drawing / Dibujó:
+ UV Reserve / Reserva UV: Laminated / Laminado:
+Tolerances / Tolerancias: Critial dimension / Cotas críticas: 
+Remarks / Observaciones
+Others / Otros: 
+Etiqueta Precaución
+Andrés Gutiérrez
+Adobe Illustrator CC
+1:1
+ (+/-) 1mm
+25/07/2025
+00
+5004136_ ETIQ ADVERTENC-2 LAV SEC CF 12 KG
+ 
+Escala 1:1
+measurement scale 1:1
+White adhesive label, black letter
+Etiqueta adhesivo blanco, letra negra
+Polipropileno laminado brillanté con adhesivo de fácil remoción.
+Glossy laminated polypropylene with easy-remove adhesive
+165 mm
+140 mm
+PRECAUCIÓN
+ADVERTENCIA
+• Lea el manual antes de usar la lavadora.
+• Quite los 4 pernos de transporte de atrás y tape los agujeros al instalar.
+• No ponga la lavadora en un lugar con mucha humedad. 
+• Asegúrese de que esté bien nivelada para que no haga ruido.
+• Mantenga a los niños lejos de la lavadora y vigilelos para que no jueguen con ella.
+• No abra la puerta mientras la lavadora esté funcionando. Si se abre sola, deje de usarla y llame al servicio 
+técnico.
+• No meta las manos en el tambor cuando esté girando.
+• Al terminar, desenchufe la lavadora y cierre el paso del agua. 
+• Antes de hacer mantenimiento, desconecte el producto de la corriente. Use un enchufe solo para la lavadora. 
+• No lave ropa con gasolina u otros líquidos inflamables.
+• No seque cosas de plástico o materiales parecidos. Solo seque ropa lavada con agua.
+• Tenga cuidado con el calor. El interior puede estar muy caliente y causar quemaduras. 
+• Cuando termine de secar, verá “End” en la pantalla. Abra la puerta por 3 a 5 minutos para que se enfríe antes 
+de sacar la ropa.
+• Algunos componentes eléctricos no están conectados a tierra intencionalmente y pueden representar un 
+riesgo de descarga eléctrica durante las labores de mantenimiento. No toque estos componentes mientras el 
+equipo esté en funcionamiento.
+• Desconecte el cable de alimentación eléctrica antes de realizar el 
+mantenimiento.
+• Vuelva a colocar todas las piezas y paneles antes de poner en 
+funcionamiento.
+• De lo contrario, pueden ocurrir lesiones o la muerte.
+Personal de mantenimiento
+Riesgo de choque eléctrico
+DIAGRAMA  ELÉCTRICO
+2 3 1 1 1 1 1 12 2 2 2 2 23 3 3 3 1 2 3 1 12 23 34 4 4 4 4 45561
+CN5 CN9 CN7 CN1
+Motor
+CN2 CN6 CN3 CN10 CN3 CN10
+Filtro
+N
+L Clavija
+
+Manual de usuario
+Lavadora secadora 
+11
+INSTALACIÓN
+Para obtener un mejor y más eficiente funcionamiento de su lavadora es impor -
+tante tener en cuenta las siguientes recomendaciones en el momento de realizar 
+la instalación:
+ • Antes de iniciar la instalación, retire los 4 pernos de transporte utilizando la lla -
+ve incluida en el kit de accesorios y consérvelos para futuros traslados de la 
+lavadora.
+ • Cubra los orificios con los cobertores plásticos.
+PARTE POSTERIOR
+C
+Figura 5.Figura 4.
+NOTA: Tenga en cuenta que la lavadora no se debe acostar, una vez se hayan 
+retirado los pernos de transporte. En caso de trasladar la lavadora a una nueva 
+locación, es importante instalar nuevamente los pernos de transporte y elementos 
+de protección para evitar daños.
+Conexión eléctrica
+ • La lavadora posee un cable de alimentación con clavija 
+con polo a tierra, este es un elemento de seguridad que 
+protege al usuario de una descarga eléctrica, si él toma 
+corriente no posee descarga a tierra cámbielo o adáp-
+telo, nunca elimine o conecte el polo a tierra al neutro 
+de la red eléctrica.
+ • Si el cable de alimentación está dañado o presenta per-
+dida del aislamiento, no manipule la lavadora, solicite el 
+cambio a Servicio Técnico HACEB, centros autorizados o 
+personal técnico calificado.
+ • No comparta el toma corriente con otros electrodomés-
+ticos de alto consumo, evite conectar la lavadora a una 
+extensión, regleta o adaptadores, tenga en cuenta que 
+estos elementos pueden generar un corto circuito o una descarga eléctrica.
+ • Como la corriente máxima a través del equipo es de 10A cuando se utiliza la 
+función de calefacción, asegúrese de que el sistema de suministro eléctrico 
+(corriente, voltaje y cableado) de su hogar cumpla con los requisitos normales 
+de carga de los electrodomésticos.
+ • No utilice un toma corriente con una corriente nominal inferior a la de la lavadora.
+ • Asegúrese de que el voltaje de su lugar coincida con el voltaje nominal del 
+equipo.
+ • El enchufe debe coincidir con el tomacorriente.
+ • No conecte ni desconecte el enchufe con las manos mojadas.
+ • Al desconectar el enchufe, sujételo firmemente y luego tire de él. No tire del ca-
+ble de alimentación con fuerza.
+ • La lavadora debe funcionar en un circuito separado de otros electrodomésti -
+cos. De lo contrario, el protector de energía puede activarse o el fusible puede 
+quemarse.
+Figura 6.
+
+12
+Manual de usuario
+Lavadora secadora 
+Dimensiones del producto
+595 mm
+850 mm
+L ADOFRENTE
+660 mm
+1170 mm
+Figura 7.
+FRÍA
+CFigura 8.
+NOTA: no apriete en exceso las conexiones, una vez instalada abra la llave de paso 
+de agua, verifique que no haya fugas o filtraciones de agua.
+Ubicación de la lavadora
+ IMPORTANTE
+El lugar donde se va a instalar la lavadora debe ser plano y firme, libre de irregulari-
+dades, verifique las condiciones de suministro de agua, energía y el drenaje.
+No instale la lavadora sobre tapetes o alfombras de piso, estas pueden obstruir los 
+orificios de entradas de aire de la lavadora.
+ • El área de instalación deberá contar con un desagüe que permita la evacua -
+ción de agua en caso de vertimiento o filtración.
+Suministro de agua
+1. Verifique que la presión del agua coincida con el rango indicado en la placa de 
+especificaciones del producto.
+2. Haga correr un poco de agua del grifo para descargar las líneas de agua y eli-
+minar las partículas de suciedad que podrían obstruir la manguera de entrada. 
+3. Verifique que ambos extremos de la manguera cuenten con empaques de 
+caucho en buen estado. Luego, conecte firmemente un extremo al grifo de 
+agua fría y el otro a la entrada de agua de la lavadora (ver figura 8).
+
+13
+Manual de usuario
+Lavadora secadora 
+ • Balancee suavemente la lavadora para llevarla a su posición final; asegúrese 
+de que la manguera de entrada no quede retorcida. Es importante no dañar 
+las patas niveladoras de goma cuando mueva la lavadora hasta su ubicación 
+definitiva. 
+ • Las patas dañadas pueden aumentar la vibración de la lavadora. Rociar el piso 
+con limpiador de vidrios puede ser útil para ayudar a mover la lavadora hasta 
+su posición definitiva.
+ • Asegúrese de que las cuatro patas niveladoras de goma estén firmemente 
+apoyadas en el piso. Empuje y hale de la parte posterior derecha y luego de la 
+parte posterior izquierda de su lavadora, no se apoye o empuje la lavadora de 
+la gaveta dispensadora de jabón o de la puerta de la lavadora.
+1 3
+4
+Tornillos niveladores
+o patas ajustables.
+Contra tuerca.
+BAJAR SUBIR
+2
+Estructura de tornillos 
+niveladores
+Estado de fábrica
+Tuerca de bloqueo
+Contratuerca cerca de
+la parte inferior de la 
+caja
+Pie de apoyo cerca de 
+la tuerca de seguridad
+Pie de apoyo cubierto
+de goma
+Figura 9.
+ • Con la lavadora en su posición de -
+finitiva, coloque un nivel sobre la la -
+vadora, ajuste las patas niveladoras 
+delanteras hacia arriba o hacia abajo 
+para asegurarse de que la lavadora 
+quede firmemente apoyada. Gire las 
+tuercas de bloqueo de cada pata 
+hacia arriba en dirección a la base 
+de la lavadora y ajuste con la llave 
+suministrada en el kit de accesorios 
+del producto.
+ • Mantenga la extensión de la pata al 
+mínimo para evitar el exceso de vi -
+bración. Cuanto más hacia afuera se 
+extiendan las patas, más vibrará la 
+lavadora. Si el piso no está nivelado o 
+si está dañado, tal vez deba extender 
+las patas niveladoras traseras.
+ • La profundidad de la lavadora con la 
+puerta abierta es de 109,4 cm.
+ • Las distancias mínimas de instalación son: Derecha, Izquierda y Arriba: 3 cm, 
+Atrás = 7,6 cm
+Figura 10.
+7.6 cm
+117 cm
+A
+
+Manual de usuario
+Lavadora secadora 
+14
+ PRECAUCIÓN
+ • No introduzca demasiado la manguera de desagüe en el tubo de drenaje 
+(máximo 21 cm), tenga en cuenta que esto puede ocasionar una acción de si -
+fón, utilice el accesorio soporte de la manguera de desagüe.
+ • Si el desagüe de la lavadora se va a realizar en un tubo de drenaje o en tanque 
+de lavado se recomienda utilizar un precinto (abrazadera plástica) para asegu-
+rar la manguera de drenaje.
+Requisitos de drenaje
+1. Diámetro del tubo de drenaje (3,18 
+cm) como mínimo.
+2. La altura del tubo de drenaje tomada 
+desde el suelo debe ser:  
+ • Altura mínima: 65 cm.  
+ • Altura máxima: 100 cm
+Figura 11.
+PARTE POSTERIOR
+100 cm
+Máx.
+65 cm
+Mín.
+Soporte de la 
+manguera de desagüe
+Figura 12.
+Lista de verificación de la instalación 
+ • Los pernos de anclaje han sido retirados.
+ • La lavadora está conectada a la energía eléctrica.
+ • Las mangueras de suministro de agua están bien conectadas.
+ • Las llaves de abastecimiento de agua están abiertas.
+ • La lavadora está nivelada y estabilizada.
+ • La manguera de drenaje está ubicada correctamente.
+ • Verifique que no haya fugas.
+
+Manual de usuario
+Lavadora secadora 
+15
+NOTA:Asegúrese de que la lavadora esté correctamente instalada antes de usarla.
+Antes de lavar ropa por primera vez, debe ejecutar un ciclo completo sin ropa.
+Para hacerlo:
+1. Conecte la fuente de energía y el agua.
+2. Coloque un poco de detergente (aproximadamente 10 g) en el compartimento 
+y ciérrelo.
+3. Presione el botón  de Encendido/Apagado.
+4. Gire la perilla al programa “Toallas y mantelería”.
+5. Presione el botón  de Inicio/Pausa.
+Esto eliminará cualquier agua restante de la prueba de fábrica realizada por el 
+fabricante.
+OPERACIÓN Y FUNCIONAMIENTO
+Preparación de la ropa para el lavado
+ • Las áreas muy sucias, manchas, etc, deben tratarse previamente con detergen-
+te líquido, quitamanchas, etc.
+ • Cierre las cremalleras, botones y broches a presión para evitar que otras pren -
+das se enganchen.
+ • Retire alfileres, hebillas y otros objetos duros para evitar que rayen el interior de 
+la lavadora.
+ • Vacíe los bolsillos y deles la vuelta.
+ • Coloque los puños hacia abajo es decir no lave las camisas con los puños 
+doblados.
+ • Amarre cordones y cintas para que no se enreden 
+con otras prendas.
+Clasificación de prendas
+ • No sobrecargue la lavadora más allá de su capaci-
+dad nominal.
+ • Separe las prendas muy sucias de las que estén po-
+co sucias, aunque normalmente las lave juntas.
+ • Separe las prendas de colores oscuros de las pren-
+das de colores claros y las prendas que destiñen de 
+las prendas que no destiñen.
+ • Suciedad (Elevada, normal, ligera). Separe las pren-
+das según el nivel de suciedad.
+ • Color (Blanco, claros, oscuros). Separe las prendas 
+blancas de las prendas de color.
+ • Pelusa (Prendas que la generan, prendas que la 
+atraen). Lave por separado las prendas que gene -
+ran pelusa y las que la atraen.
+Carga de la lavadora
+ • Introduzca las prendas de ropa en la lavadora de 
+manera que queden sueltas.
+ • Estas tienen que poder moverse con facilidad en 
+el agua; así se obtiene un mejor lavado y menos 
+arrugas.
+ • Cargue la lavadora adecuadamente y seleccione la 
+opción de carga correcta.
+ • Combine artículos grandes y pequeños en una car-
+ga. Cargue primero los artículos grandes. Los artícu-
+los grandes no deben ser más de la mitad de las cargas de lavado total.
+Figura 13.
+Figura 14.
+
+Manual de usuario
+Lavadora secadora 
+16
+ • No se deben mezclar almohadas y colchas con otros artículos. Esto puede ha -
+cer que la carga sea desequilibrada.
+ • Seleccione el programa adecuado de acuerdo con la cantidad de carga y el 
+nivel de suciedad de las prendas. Las cargas con pocas prendas necesitan un 
+menor tiempo de lavado.
+ • Utilice una carga baja para reducir las arrugas en prendas de planchado per -
+manente y algunos tejidos sintéticos. Estas prendas deberán tener más espacio 
+para moverse en el agua que las prendas pesadas como toallas y jeans.
+ • No lave solo una prenda o poca ropa (Menor a 1.2 Kg). Cuando se lava una so -
+la prenda, no se logra el balanceo de la carga durante el centrifugado lo que 
+puede generar un error 
+Nota: Asegúrese de que no quede ropa atrapada entre la puerta y el sello.
+Detergente
+ • Extraiga el cajón de detergente.
+ • Agregue la cantidad recomendada de deter-
+gente para lavadoras automáticas, repartién-
+dola entre los compartimentos I y II según las 
+instrucciones del envase.
+ • Agregue suavizante de telas en el comparti-
+miento ( ).
+ • El exceso de detergente producirá mucha espu-
+ma, fácil de desbordar, y afectará su disolución, 
+lo que dificultará el enjuague.
+ • Elija un detergente adecuado para la tempe-
+ratura con la que habitualmente lava. Algunas 
+fórmulas ofrecen excelentes resultados incluso 
+en agua fría, lo que permite una limpieza eficaz 
+con menor consumo de agua y energía. Figura 14.
+ • La cantidad de detergente/suavizante utilizada debe agregarse solo una 
+a la vez. Consulte las instrucciones del fabricante para la dosificación del 
+detergente/suavizante.
+Nota: 
+ • La primera vez que utilice detergente líquido y la función de liberación automá-
+tica, opere el programa “Lavado Rápido 15”’para lavar el tubo y el tambor.
+ • Es normal que fluya un poco de detergente líquido hacia la caja de agua hacia 
+abajo cuando se tira de la caja de detergente líquido. Evite tirar de la caja con 
+frecuencia para disminuir el costo del detergente líquido.
+ • La cantidad de suavizante, consulte el manual. Sobrecarga del suavizante des-
+truiría la fibra artificial.
+ • El nivel de líquido no supera el MAX de la caja del distribuidor.
+ • Primero diluya el suavizante espeso o la lejía y luego suéltelo en la caja del 
+distribuidor.
+Panel
+A continuación encontrará la guía para usar el panel de su lavadora secadora.
+ • Los programas que cuentan con el siguiente distintivo “ ” corresponde a la 
+opción de lavado/secado.
+ • Los programas que cuentan con el siguiente distintivo “ ” corresponde a la 
+opción de lavado.
+
+Manual de usuario
+Lavadora secadora 
+17
+Figura 15.
+Perilla 
+selectora
+Gire el dial para seleccionar un ciclo.
+Pantalla
+La pantalla muestra la información del ciclo actual y el tiempo 
+restante estimado, o un código de error cuando ocurre un 
+problema.
+Temperatura
+Presione para cambiar la temperatura del agua para el ciclo 
+actual.
+El rango de temperatura disponible depende del ciclo.
+La temperatura seleccionada se mostrará en la pantalla.
+Nivel de 
+centrifugado
+Presione para cambiar la velocidad de centrifugado del ciclo 
+actual.
+La velocidad de centrifugado disponible depende del ciclo.
+La velocidad de centrifugado seleccionada se mostrará en la 
+pantalla.
+Secado
+Presione para seleccionar el modo de secado. Los modos 
+de secado opcionales se cambian cíclicamente. El modo de 
+secado seleccionado se muestra en la pantalla.
+Inicio / Pausa
+Presione para iniciar o pausar la operación.
+Presione el botón una vez para iniciar un ciclo.
+Para pausar la operación, presione el botón nuevamente.
+Puede cambiar la configuración y las opciones del ciclo.
+Para reanudar el funcionamiento en pausa, vuelva a presionar 
+el botón.
+Encendido/
+apagado
+Presione para encender o apagar la lavadora.
+Si enciende la lavadora y no la usa durante 1 O minutos, se 
+apagará automáticamente.
+Tabla 2.
+
+Manual de usuario
+Lavadora secadora 
+18
+Temporizador de lavado diferido 
+Puede configurar la lavadora para que termine su lavado automáticamente más 
+tarde, eligiendo un retraso de entre 3 y 24 horas (en incrementos de 1 hora). La hora 
+mostrada indica la hora en que terminará el lavado.
+ • Seleccione un ciclo. Luego cambie la configuración del ciclo si es necesario.
+ • Mantenga presionados simultáneamente los botones Temperatura y Nivel de 
+centrifugado durante 4 segundos hasta que aparezca en la pantalla la opción 
+inicial de 3 horas “3h”, y luego ajusta el tiempo pulsando el botón Temperatura 
+para aumentarlo o el botón Nivel de centrifugado para disminuirlo
+ • Presione Inicio/Pausa. El indicador correspondiente se enciende con el reloj en 
+marcha.
+ • Para cancelar el Temporizador reinicie la lavadora presionando encender/
+apagar.
+Secado
+Cuando la función de secado está activada, el icono se ilumina en la pantalla. De-
+bido a las diferencias en la programación grabada en la placa de control, no todos 
+los ciclos de lavado permiten activar esta función.
+Lavado con vapor
+Si el icono correspondiente se ilumina en la pantalla, significa que la función de 
+lavado con vapor está habilitada. Al igual que con el secado, esta función no está 
+disponible en todos los programas, ya que depende de la programación grabada 
+en la placa de control.
+Bloqueo infantil
+Para evitar accidentes de niños, el bloqueo infantil bloquea todos los botones ex -
+cepto encender/apagar.
+ • Para activar o desactivar la función de bloqueo para niños, mantenga presio -
+nado nivel de centrifugado y secado simultáneamente durante 3 segundos. 
+Cuando el bloqueo infantil está activado, el indicador se ilumina.
+Alarma Desactivada
+Puede encender o apagar el sonido del selector de ciclo y todos los botones.
+ • Para activar o desactivar el sonido, mantenga presionado temperatura durante 
+3 segundos.
+Cuando el sonido está apagado, el indicador  se enciende.
+Bloqueo de la puerta
+Si la puerta no está correctamente cerrada o bloqueada, el ícono de puerta blo -
+queada no se ilumina en la pantalla.
+Asegúrate de cerrar la puerta firmemente hasta que encaje en su lugar.
+Una vez bloqueada correctamente, el ícono se encenderá de forma continua, indi-
+cando que la lavadora está lista para iniciar el ciclo de lavado.
+Recargar
+Para agregar ropa después de haber iniciado el ciclo de lavado, mantén presiona-
+do el botón Inicio/Pausa durante 3 segundos.
+Una vez desbloqueada la puerta, podrás abrirla y añadir las prendas deseadas.
+
+Manual de usuario
+Lavadora secadora 
+19
+ IMPORTANTE:
+Si el ciclo se está ejecutando con agua a alta temperatura, la puerta permanecerá 
+bloqueada por seguridad. En este caso, la función de recarga no estará disponible 
+hasta que la temperatura interna descienda a un nivel seguro.
+Programas
+ Solo secado: Para secar ropa en general.
+Lavado y secado
+Lavar y secar durante 60 minutos.
+Aire activo
+Para ropa que necesita reducir olores y arrugas.
+Inteligente 
+Ideal para prendas de algodón, ropa de color y vestimentas con nivel de suciedad 
+ligera o profunda. 
+NOTA: Este es el ciclo más comúnmente utilizado.
+Ropa de lana
+El programa ha sido diseñado para realizar el lavado de prendas de uso diario lige-
+ramente sucias, optimizando el consumo de agua, tiempo y energía.
+Fuerte
+Es el programa Ideal para prendas que requieren un lavado más exhaustivo y pro-
+longado para lograr una limpieza óptima.
+Ropa de cama
+Este programa aprovecha la gran capacidad del tanque de su lavadora para lavar 
+sábanas, cobijas, edredones, acolchados y elementos similares.
+Desinfección
+Este programa utiliza vapor de agua a alta temperatura y movimientos de lavado 
+profundo, que al combinarse con la acción del detergente tendrá un efecto  desin-
+fectante y matará un porcentaje de las bacterias más comunes que se encuentran 
+en la ropa doméstica. Para obtener mejores resultados, cuando use desinfección 
+seleccione la temperatura mas alta.
+Toallas y mantelería
+Recomendado para toallas, mantelería y paños de cocina.
+
+Manual de usuario
+Lavadora secadora 
+20
+Lavado Express
+Este programa está diseñado para el lavado de prendas ligeramente sucias, gene-
+rando un beneficio en el tiempo total del ciclo al definir un nivel de llenado de agua 
+óptimo según la carga de prendas, y un único enjuague. No se recomienda para 
+grandes cargas de ropa o textiles voluminosos.
+Ropa Blanca
+Ideal para lavar ropa blanca, lino, fibras sintéticas o telas mezcladas.
+Uniformes
+El programa ha sido desarrollado para lavar uniformes escolares y ropa de oficina.
+Delicado
+Para telas delicadas, ej. seda, satín, fibras sintéticas.
+Limpieza de tanque
+Programa de lavado que a través de las corrientes de agua y alta temperatura, 
+permite limpiar el tanque de su lavadora. Se recomienda utilizar este ciclo cada 2 
+meses.
+Centrifugado
+El programa de centrifugado elimina el exceso de humedad en las prendas. Es 
+ideal para prendas lavadas a mano.
+Enjuague y centrifugado
+Rápidamente enjuaga y centrifuga las prendas, después de aplicar suavizante a 
+las prendas.
+Tabla de Procedimientos de Lavado
+ • La eficiencia y el rendimiento del lavado dependen en gran medida de la cali -
+dad del detergente utilizado. Para obtener mejores resultados, use únicamente 
+detergente aprobado para lavadoras automáticas, idealmente del tipo HE (alta 
+eficiencia).
+ • Si es necesario, utilice un detergente específico, por ejemplo, para tejidos sinté-
+ticos y de lana. Tenga en cuenta siempre las recomendaciones del fabricante 
+del detergente.
+ • No utilice agentes de limpieza en seco como tricloroetileno y productos simila -
+res. Elija el detergente más adecuado.
+ • No agregue detergente en polvo si el detergente líquido no se ha agotado, de lo 
+contrario puede causar derrames de espuma y dificultades de lavado debido 
+al exceso de detergente;
+ • Algunos programas cuentan con una función de sensado automático de la 
+carga. Durante este proceso, en la pantalla se muestran los caracteres “_ _”, 
+indicando que el sistema está realizando el sensado. Una vez finalizado, se pre-
+senta en la pantalla el tiempo total estimado para la ejecución del programa.
+ • Esta lavadora secadora tiene una función de protección excéntrica para dis -
+tribuir y dispersar la ropa, por lo que el tiempo real de lavado se prolonga, esto 
+es normal;
+ • Durante el ciclo de secado, el interior del equipo puede alcanzar temperaturas 
+elevadas. Al finalizar el programa, es posible que algunas superficies internas, 
+como el vidrio interior de la puerta o la tina metálica, aún estén calientes. Se 
+recomienda tener precaución al momento de retirar las prendas, ya que podría 
+producirse contacto con estas superficies. Para mayor seguridad, permita que 
+el equipo se enfríe antes de introducir las manos para extraer las prendas.
+
+Manual de usuario
+Lavadora secadora 
+21
+Programa
+Peso(kg) Centrifugado
+(rpm)
+Temperatura.
+(ºC)
+Opción de
+secado
+(Seleccionable)Lavado Secado
+Toallas y 
+mantelería 12 8 0/400/600/800
+/1000/1200/1400
+(--) 
+/20/30/40/60/95 √
+Lavado 
+express 2 0.5 0/400/600/800
+/1000 (--) √
+Ropa blanca 4 2.5 0/400/600/800
+/1000 (--) /20/30/40 √
+Uniformes 4 3 0/600/800 (--) /20/30/40 √
+Delicado 2.5 0 0/400/600/800 (--) /20/30/40 ×
+Limpieza 
+tanque 0 0 800 60/95 √ 
+Centrifugado 12 8 0/400/600/800
+/1000/1200/1400 (--) √
+Enjuague y 
+centrifugado 12 8 0/400/600/800
+/1000/1200/1400 (--) √
+Secado 0 8 0/400/600/800
+/1000/1200/1400 - √
+Lavado y 
+secado 0.5 0.5 1400 (--) √
+Aire activo 0 3 - - √
+Inteligente 5 3 0/400/600/800
+/1000 (--) /20/30/40 √
+Ropa de lana 2 0 0/400/600 (--) /20/30/40 ×
+Fuerte 12 8 0/400/600/800
+/1000/1200/1400 (--) /20/30/40/60 √
+Ropa de 
+cama 8 4 0/400/600/800
+/1000/1200 (--) /20/30/40/60 √
+Desinfección 5 3 0/400/600/800
+/1000/1200 (--) /20/30/40/60 √
+Tabla 3.
+
+Manual de usuario
+Lavadora secadora 
+22
+Precauciones para la función de secado
+Textil no apto para secar
+ • Textil con etiqueta No Secar;
+ • Textil con lana y cachemira, en caso de encogimiento;
+ • Textiles finos (como la seda), en caso de arrugas;
+ • Prendas confeccionadas con textiles que incorporan caucho o materiales poli-
+méricos, como estampados térmicos o decorativos.
+ • Textiles impregnados con solventes, aceites u otras sustancias inflamables no 
+son aptos para procesos de secado o lavado a alta temperatura, ya que estos 
+pueden generar incendios o explosiones.
+ • Las prendas que gotean o con exceso de humedad deben centrifugarse pre -
+viamente, ya que durante los programas de secado su alto contenido de agua 
+incrementa el consumo de energía, prolonga el tiempo de secado y reduce su 
+eficacia.
+Precauciones para el secado
+ • El peso de la ropa a secar debe ser menor que la capacidad máxima de secado 
+indicada al usar la función de secado; de lo contrario, podría obtenerse un mal 
+resultado de secado.
+ • Un mal resultado de secado puede deberse a una entrada de agua irregular o 
+baja presión de agua.
+ • Divida la ropa en tandas si su peso excede la capacidad de secado nominal 
+máxima.
+ • Verifique si la ropa es adecuada para secado; no mezcle prendas de diferentes 
+materiales.
+ • Seque la ropa hecha de materiales especiales (como algodón/tela/ cha -
+queta/ropa interior, etc.) Después de seleccionar el programa de lavado 
+correspondiente;
+ • Seleccione la velocidad máxima de centrifugado para ropa lavada a mano pa-
+ra mejorar el rendimiento del secado y reducir el tiempo.
+ • El programa de deshidratación automático se activa al iniciar el programa de 
+secado; el tiempo mostrado varía según la distribución de la ropa. Agregar o 
+quitar ropa adecuadamente puede mejorar el rendimiento del secado.
+ • El tiempo restante de secado que presenta la pantalla es aproximado y puede 
+acortarse o alargarse según el tipo de material o el grado de humedad de la 
+ropa.
+ • La ropa puede encogerse o deformarse después del secado, dependiendo de 
+los materiales y componentes con los que esté fabricada.
+ • No toque ni abra la puerta durante el secado para evitar quemaduras.
+ • Después de abrir la puerta, permita que el interior se enfríe ligeramente y retire la 
+ropa una vez que haya alcanzado una temperatura cómoda al tacto, prestan-
+do especial atención a las prendas con apliques metálicos como cremalleras 
+o botones, ya que estos elementos pueden conservar el calor por más tiempo.
+ • El tiempo de secado se refiere al tiempo seleccionado o al tiempo total deter -
+minado por el programa.
+ • El producto seca la ropa mediante el principio de condensación; necesita en -
+trada y drenaje de agua repetidamente para mejorar el rendimiento del seca -
+do. ¡Esto no se considera una falla del equipo!
+
+Manual de usuario
+Lavadora secadora 
+23
+Referencia de peso textil aproximado (seco)
+Ropa interior 
+(Algodón, unos 
+50g)
+Toalla (Algodón, 
+unos 70g)
+Camiseta 
+(Algodón, unos 
+150g)
+Camisa (Algodón, 
+unos 200g)
+Calcetines(Mixto, 
+unos 50g)
+ Pañal (unos 100 g)
+Ropa interior de 
+manga larga 
+(algodón, unos 
+150 g)
+Ropa de trabajo 
+(unos 600 g)
+Guía común de secado de textiles
+Programa de secado recomendado para textiles comunes
+Tipo de textil
+Programa 
+de lavado 
+recomendado
+Programa 
+de secado 
+recomendado
+Cantidad 
+de secado 
+recomendada
+Consejos
+Chaqueta de 
+plumón
+Ropa de 
+cama H2 1 pieza
+Una chaqueta 
+de plumas 
++ secadora 
+en frío, para 
+mantenerla 
+esponjosa y 
+suave
+Suéter y seda Lana No aplica / 
+Deshabilitado No aplica
+El textil es 
+frágil a altas 
+temperaturas, 
+no secar.
+Ropa de 
+cama
+Ropa de 
+cama H3 ≤2 piezas
+El tejido es 
+fácil de torcer, 
+esto puede 
+hacer que 
+se seque por 
+completo.
+Camisa
+Ropa blanca 
+/ lavado 
+express
+H1 ≤4 piezas
+Ventilar para 
+mantenerla 
+húmeda para 
+planchar
+Tabla 3.
+Tabla 4.
+
+Manual de usuario
+Lavadora secadora 
+24
+Programa de secado recomendado para textiles comunes
+Tipo de textil
+Programa 
+de lavado 
+recomendado
+Programa 
+de secado 
+recomendado
+Cantidad 
+de secado 
+recomendada
+Consejos
+Ropa interior 
+térmica Toallas H3 ≤ 3 piezas
+El textil es 
+grueso, el 
+secado 
+pesado 
+puede hacer 
+que se seque 
+por completo.
+Ropa interior, 
+ropa de 
+dormir
+Toallas H2 ≤5 piezas
+El efecto 
+de secado 
+es el mejor 
+con menos 
+cantidad.
+Ropa de 
+abrigo 
+(primavera y 
+otoño)
+Ropa de 
+cama H2 ≤5 piezas
+El efecto 
+de secado 
+es el mejor 
+con menos 
+cantidad.
+Ropa de 
+abrigo 
+(invierno)
+Ropa de 
+cama H3 ≤2 piezas
+El textil es 
+grueso, el 
+secado 
+pesado 
+puede hacer 
+que se seque 
+por completo.
+Niño Desinfección H2 4 - 10 piezas
+El efecto 
+de secado 
+es el mejor 
+con menos 
+cantidad.
+Deporte Inteligente H2 ≤5 piezas
+El textil es 
+frágil a altas 
+temperaturas. 
+Use secado 
+frío.
+Toalla, toalla 
+de baño Toallas H2 4-8 piezas
+El efecto 
+de secado 
+es el mejor 
+con menos 
+cantidad.
+Jeans Fuerte H2 4 - 10 piezas
+El efecto 
+de secado 
+es el mejor 
+con menos 
+cantidad.
+Camiseta Ropa blanca H2 4-15 piezas
+El efecto 
+de secado 
+es el mejor 
+con menos 
+cantidad.
+Tabla 5.
+
+Manual de usuario
+Lavadora secadora 
+25
+NOTA: Seleccione “Lavado y secado” 60” y el proceso de lavado y secado tardará 
+60 minutos. Para garantizar el efecto de secado, se recomienda lavar dos camisas 
+o prendas de menos de 0,5 kg.
+Introducción de otras funciones
+Desbloqueo de puerta de emergencia (no aplicable en 
+algunos modelos)
+ • Si necesita retirar la ropa durante un corte prolon -
+gado de energía, asegúrese de que el nivel de agua 
+en el tambor esté por debajo del nivel seguro, que 
+la temperatura sea inferior a 40 °C y que el tambor 
+interior no esté girando. Luego, desconecte la man -
+guera de desagüe, bájela hasta el nivel del suelo pa-
+ra permitir que el agua fluya, y una vez que haya dre-
+nado por completo, vuelva a conectarla al desagüe 
+de la lavadora.
+ • Abra la tapa de la bomba de drenaje en la parte infe-
+rior derecha del lado frontal, jale la varilla hacia abajo 
+ligeramente, cuando escuche un sonido ligero, abra la 
+puerta y saque o ponga la ropa.
+ • Vuelva a colocar la tapa de la bomba de desagüe en su lugar
+ • Este método solo se puede utilizar en caso de emergencia. 
+Función de reanudación
+Esta lavadora secadora tiene la función de reanudación en caso de apagado. Si 
+hay un corte de energía o el enchufe se afloja durante el proceso de la lavadora 
+secadora, la lavadora secadora puede recordar el estado de trabajo y reanudar el 
+trabajo cuando se restaure la energía.
+Función de memoria (no aplicable en algunos modelos)
+Esta lavadora secadora puede recordar automáticamente el último proceso de 
+trabajo. Cuando vuelves a encender la lavadora secadora, recuerda el proceso de 
+lavado y los ajustes que hiciste la última vez (esto significa que todo el proceso de 
+trabajo del último lavado se seleccionará por defecto cuando comience la lava -
+dora secadora).
+Sensado de la carga
+Algunos programas incorporan sensado automático. Al iniciar el ciclo, la lavadora 
+secadora detecta el peso de la carga, dispensa detergente si hay disponible y 
+ajusta la cantidad de agua necesaria, optimizando el lavado y promoviendo el 
+ahorro de recursos.
+Protección contra desequilibrio
+ • Cuando la lavadora secadora está lista para centrifugar, puede tardar unos 
+momentos en redistribuir la carga si detecta que la ropa está desbalanceada.
+ • Si la ropa permanece desequilibrada dentro de la tina metálica, la velocidad 
+de centrifugado puede reducirse automáticamente para evitar vibraciones 
+excesivas.
+ • Cuando la carga de ropa en la tina metálica es muy reducida, la lavadora po -
+dría omitir el ciclo de centrifugado como medida de protección contra des -
+equilibrios. Para asegurar un centrifugado efectivo, se recomienda añadir más 
+prendas y reiniciar el ciclo.
+NOTA: Debido a la actualización del modelo del producto, la configuración de la 
+función puede ser diferente de esta descripción, ¡tome la función del modelo real 
+como estándar!
+Tracción de 
+emergencia 
+de la cuerda
+Figura 16.
+
+Manual de usuario
+Lavadora secadora 
+26
+LIMPIEZA Y MANTENIMIENTO
+Alcance del servicio
+ • La lavadora secadora está diseñada para uso doméstico.
+ • Solo puede lavar ropa apta para lavado en lavadora secadora.
+ • Solo debe conectarse a una toma de agua fría. 
+ • Use detergente de baja espuma y agentes de cuidado adecuados para lavado 
+a lavadora secadora disponibles en el mercado.
+ • Los apliques metálicos en la ropa pueden sobresalir durante el lavado. Para 
+proteger la lavadora secadora y la ropa, evite lavar prendas con apliques o 
+accesorios metálicos.
+ • Corte el suministro de agua y electricidad después de cada lavado.
+ • Las condiciones del entorno de servicio son las siguientes:
+ • Temperatura ambiente: 4–40 °C.
+ • Humedad relativa: inferior al 95 % (a 25 °C).
+ • Mantenga a las mascotas alejadas de la lavadora secadora.
+ • Los niños o personas mayores deben usar la lavadora secadora acompañados 
+por un adulto responsable.
+ • Instale y use la lavadora secadora en una habitación con desagüe en el suelo.
+ • No lave alfombras en la lavadora secadora.
+ • Conecte el cable de alimentación en una tomacorriente con conexión a tierra. 
+Asegúrese de que el enchufe esté correctamente conectado a tierra.
+ • Para la limpieza del producto, evite el uso de soluciones químicas o mezclas de 
+sustancias que puedan liberar gases inflamables o tóxicos, generar reaccio -
+nes químicas peligrosas como elevación excesiva de temperatura o contener 
+agentes corrosivos o ácidos. Estas sustancias pueden provocar explosiones, re-
+presentar un riesgo grave para la salud del usuario y causar daños irreversibles 
+en los componentes del equipo.
+¡PELIGRO DE DESCARGA ELÉCTRICA!
+Antes de realizar cualquier tarea de mantenimiento o limpieza, desconecte el equi-
+po de la fuente de alimentación o interrumpa el suministro eléctrico para evitar 
+riesgos de descarga eléctrica o accidentes.
+Limpieza de la lavadora
+ • El cuidado de la lavadora puede alargar su vida útil. En este capítulo se explicará 
+cómo cuidar la lavadora de forma adecuada y segura.
+Exterior / Interior
+ • Limpie los residuos de detergente y otras sal -
+picaduras con una esponja o un paño suave 
+y húmedo. Para mantener el buen aspecto de 
+la lavadora, se recomienda limpiar periódica -
+mente su exterior.
+ • Para limpiar el interior de la lavadora, selec -
+cione la función Limpieza de tanque desde el 
+panel de control. Se recomienda ejecutar es -
+te ciclo al menos una vez al mes. Esta función 
+utiliza una gran cantidad de agua y, al añadir 
+blanqueador líquido, ayuda a prevenir la acu -
+mulación de suciedad y residuos de detergen-
+te en el tambor, prolongando así la vida útil del 
+producto.
+Figura 17.
+
+Manual de usuario
+Lavadora secadora 
+27
+NOTA: Lea completamente las instrucciones a continuación antes de iniciar el ciclo 
+Limpieza de tanque.
+1. Retire cualquier prenda u objeto que esté dentro de la lavadora y asegúrese que 
+el tanque de la lavadora esté vacío.
+2. Vierta una taza o 250 ml de líquido blanqueador u otro limpiador de lavadoras 
+dentro del tanque (ver figura 18).
+3. Cierre la puerta y seleccione el programa Limpieza de tanque. Oprima el 
+botón: Inicio.
+4. Mientras el programa Limpieza de tanque esté funcionando, la pantalla mostra-
+rá el tiempo estimado que falta para completar el ciclo. El ciclo se completará en 
+aproximadamente 90 minutos. No interrumpa el ciclo.
+5. Una vez completado el programa, no asegure la puerta para permitir una mejor 
+ventilación.
+ • Si, por algún motivo, se debe interrumpir el ciclo, la puerta no se abrirá de inme-
+diato. Forzar la apertura de la puerta puede generar fugas de agua. La puerta 
+se abrirá después de que se drene el agua hasta un nivel que no se derrame 
+en el piso.
+ • El programa Limpieza de tanque se puede interrumpir oprimiendo el botón Inicio 
+- Pausa. El ciclo también puede interrumpirse debido a un corte de energía en 
+la casa. Cuando se restaura el suministro de energía, el programa Limpieza de 
+tanque se reanudará donde se había detenido. Una vez interrumpido, asegúre-
+se de ejecutar el ciclo Limpieza de tanque completo antes de usar la lavadora. 
+Si se oprime el botón de encendido durante el programa Limpieza de tanque se 
+perderá la configuración inicial y se debe volver a iniciar el ciclo.
+ IMPORTANTE
+ • Ejecute el ciclo Limpieza de tanque con una taza (250 ml) de blanqueador una 
+vez por mes.
+ • Una vez completado el programa Limpieza de tanque, el interior de su lavadora 
+podría oler a blanqueador.
+ • Se recomienda que lave una carga de colores claros después del programa 
+Limpieza de tanque.
+Área de la gaveta de los dispensadores
+ • El detergente y el suavizante se pueden acumular en la gaveta de los dispensa-
+dores. Los residuos se deben limpiar una o dos veces por mes.
+Limpieza del cajón del detergente * Si hay residuos de detergente o suavizante en 
+el compartimento:
+ • Para retirar la gaveta, primero jálela hacia afuera hasta el tope. Luego, intro -
+duzca la mano en la esquina posterior izquierda de la cavidad de la gaveta y 
+presione firmemente hacia abajo la lengüeta de bloqueo, para retirar la gaveta.
+ • Para retirar la placa del sifón del compartimento del suavizante debe levantar 
+suavemente la pestaña de fijación posterior.
+ • Lave el compartimento del detergente y la tubería del sifón con agua del grifo 
+o con un cepillo.
+ • Vuelva a colocar la tapa del compartimento y la placa del sifón, y empuje el 
+cajón hacia adentro.
+
+Manual de usuario
+Lavadora secadora 
+28
+Es normal que una pequeña cantidad de detergente fluya hacia el compartimento 
+de la gaveta al extraerla.
+ • Evite abrir y cerrar repetidamente el compartimento para prevenir la pérdida 
+de detergente.
+ • Tenga cuidado con posibles derrames de detergente, ya que pueden causar 
+inconvenientes al mover o inclinar la lavadora secadora.
+ • Se recomienda extraer la gaveta antes de realizar cualquier ajuste.
+Figura 21. Figura 22.
+Manguera
+de drenaje
+Figura 18
+Limpieza del filtro de la electrobomba
+Debido a la naturaleza de la lavadora (carga frontal), 
+a veces es posible que algunos artículos pequeños 
+pasen a la bomba. La lavadora tiene un filtro para 
+atrapar objetos extraños y evitar daños en el producto. 
+Para recuperarlos, limpie el filtro de la bomba.
+1. Para abrir la puerta del filtro, utilice como herra -
+mienta una moneda o un destornillador plano. 
+Inserte la herramienta en el centro del borde su-
+perior, tal como se indica en la imagen (ver fi -
+gura 20). Aplique una ligera presión hacia abajo 
+para hacer palanca y, a continuación, abra la 
+tapa con cuidado.
+2. Coloque una toalla en el suelo, justo debajo de la 
+puerta de la electrobomba, para absorber posi -
+bles derrames de agua.
+3. Identifique la manguera de drenaje de la electrobomba y su posición dentro 
+del compartimento. Libérela cuidadosamente de las abrazaderas de fijación, 
+tal como se muestra en la imagen (ver figura 21).
+Es importante tener en cuenta que la longitud de la manguera, medida desde el 
+chasis hasta el extremo del tapón plástico, debe ser de aproximadamente 21,5 cm 
+cuando está completamente extendida. 
+4. Coloque un recipiente sobre la toalla, este debe tener una capacidad apro -
+ximada de 500 ml y una altura máxima de 3 cm (también puede usar una 
+botella). Retire con cuidado el tapón plástico sujetando la manguera mientras 
+tira y gira suavemente. Introduzca la manguera en el recipiente y permita que 
+el agua se drene. Para un vaciado completo, mantenga la manguera a no más 
+de 3 cm del suelo.
+Figura 19.
+Filtro de la
+bomba
+Figura 20
+
+Manual de usuario
+Lavadora secadora 
+29
+5. Una vez drenada el agua remanente de la electrobomba, inserte nuevamente 
+el tapón en la manguera y colóquela en las abrazaderas, asegurándose de que 
+quede en su posición original.
+6. Retire el filtro de la bomba girándolo en sentido contrario a las manecillas del 
+reloj. Revise cuidadosamente el interior de la cavidad y remueva cualquier ob-
+jeto extraño que pueda estar obstruyendo el sistema, como monedas, alam -
+bres, tornillos, entre otros. ¡Los objetos extraños pueden causar averías en la 
+electrobomba si no se remueven adecuadamente!
+7. Introduzca el filtro en su lugar y gírelo en sentido de las manecillas del reloj 
+hasta que quede firmemente asegurado y finalmente cierre la puerta del filtro 
+de la electrobomba
+¡Estos pasos son esenciales! Si no se ejecutan correctamente, pueden provocar 
+fugas de agua e incluso causar inundaciones.
+Limpieza del empaque de la puerta
+1. Mientras presiona hacia abajo la junta de la 
+puerta, inspeccione el interior de la junta empuján-
+dola hacia abajo con los dedos. Realice limpieza 
+con un paño húmedo y retire todos los objetos ex-
+traños que estén atrapados dentro de esta junta. 
+2. Cuando haya terminado de limpiar el empaque 
+de la puerta, quite las manos y el empaque volverá 
+a la posición de funcionamiento.
+Figura 23.
+GUÍA DE FALLAS
+Análisis de fallas comunes y métodos de solución 
+Es posible que las siguientes situaciones no correspondan a una falla del producto.
+Por favor, verifique y confirme de acuerdo con la lista a continuación antes de so -
+licitar la revisión del equipo por parte del servicio técnico. Si logra confirmar que se 
+trata de una falla, por favor comuníquese con nuestro departamento de servicio 
+posventa en lugar de intentar repararlo por su cuenta.
+Para garantizar su seguridad, asegúrese de desenchufar el cable de alimentación 
+y cerrar el grifo de agua antes de realizar cualquier verificación.
+Fallas comunes Método de eliminación / Posible 
+solución
+Queda un poco de agua en la 
+manguera de drenaje y en la lavadora 
+para el primer uso.
+Esta situación es completamente 
+normal; se trata del agua remanente 
+que queda tras las pruebas realizadas 
+durante el proceso de fabricación.
+
+Manual de usuario
+Lavadora secadora 
+30
+Fallas comunes Método de eliminación / Posible 
+solución
+La lavadora secadora no funciona
+ • ¿Se ha cortado la electricidad o 
+hay una anomalía en el suministro 
+eléctrico?
+ • ¿El cable de alimentación está 
+correctamente enchufado en el 
+tomacorriente?
+ • ¿El breaker o disyuntor están en 
+buen estado?
+ • ¿El interruptor de encendido ha sido 
+presionado?
+ • ¿El grifo de agua está abierto?
+ • ¿Está activada alguna programa -
+ción del temporizador de lavado 
+diferido?
+ • ¿Se ha presionado la tecla “Inicio/
+Pausa”?
+Las teclas y la perilla no funcionan
+ • ¿Está configurada la función “Blo -
+queo infantil”? 
+ • Presione la tecla “Iniciar/Pausar” an-
+tes de seleccionar otras funciones 
+después de iniciar la máquina.
+Fuga de agua en las conexiones de la 
+manguera de suministro
+ • ¿La forma y tipo de rosca del grifo es 
+adecuada? 
+ • ¿Está bien instalado el conector de 
+la manguera de entrada con su co-
+rrespondiente empaque? 
+ • ¿El grifo de agua dañado?
+Sonido anormal
+ • ¿La máquina está inclinada y 
+temblando? 
+ • ¿Hay monedas, cremalleras u otras 
+materias extrañas? 
+ • ¿Es causado por botones o 
+cremalleras? 
+ • ¿La lavadora se encuentra correc -
+tamente nivelada?
+No entra agua o entra demasiado 
+despacio
+ • ¿Está abierto el grifo? 
+ • ¿Hay un corte de suministro de 
+agua? 
+ • ¿La válvula de entrada esta blo -
+queada o sucia? (limpie la válvula 
+de entrada)  
+ • ¿El producto se encuentra en pausa 
+(standby mode)? ¿Se ha presiona -
+do la tecla “Inicio/ Pausa”? 
+ • ¿La manguera de entrada está 
+doblada? 
+ • ¿La presión del agua es demasiado 
+baja?
+
+Manual de usuario
+Lavadora secadora 
+31
+Fallas comunes Método de eliminación / Posible 
+solución
+El agua se evacua a través 
+de la manguera de drenaje 
+simultáneamente mientras ingresa al 
+equipo por la linea de suministro.
+ • ¿La altura de instalación de la man-
+guera de drenaje es inferior a 65 
+cm? 
+ • ¿La boca de la manguera de dre -
+naje está empapada o inmersa  en 
+agua?
+Mal efecto de lavado
+ • ¿Es adecuada la dosis de 
+detergente? 
+ • ¿Es correcto el programa 
+seleccionado?
+La lavadora lava lentamente ¿El volumen de ropa excede la capaci-
+dad de lavado estándar?
+La lavadora secadora se detiene 
+durante el funcionamiento.
+ • ¿Se corta repentinamente la electri-
+cidad o el suministro de agua? 
+ • ¿Está presionada la tecla “Inicio/ 
+Pausa”?
+La lavadora secadora no centrifuga 
+(deshidrata)
+El ciclo de centrifugado puede tardar 
+unos momentos en comenzar después 
+de configurar el tiempo. Si notas una 
+demora inusual, verifica si la ropa es -
+tá demasiado retorcida o anudada, ya 
+que esto puede afectar el equilibrio del 
+tambor e impedir que el centrifugado 
+se inicie correctamente.
+Ruido excesivo, vibración intensa o 
+desplazamiento del equipo durante el 
+centrifugado
+ • ¿El equipo está nivelado 
+correctamente?
+ • ¿La ropa está retorcida o anudada?
+ • ¿La lavadora está en contacto con 
+otros objetos?
+ • ¿Hay objetos extraños debajo o al -
+rededor de la lavadora?
+Centrifugado ineficiente
+La eficacia del centrifugado puede 
+variar según el tipo de prenda y 
+los materiales con los que esté 
+confeccionada.
+No sale agua o sale demasiado 
+despacio
+ • ¿La manguera de drenaje está do -
+blada, bloqueada o congelada? 
+ • ¿La manguera de drenaje está ins -
+talada a una altura superior a 100 
+cm desde el nivel del suelo? 
+ • ¿Está bloqueado el filtro?
+El tiempo mostrado en el display (o el 
+tiempo de reserva) ha finalizado, pero 
+el ciclo de lavado aún no ha concluido
+ • Desplazamiento de ropa durante el 
+lavado. 
+ • Las malas condiciones de entra -
+da y salida prolongan el tiempo de 
+lavado.
+Tabla 6.
+
+Manual de usuario
+Lavadora secadora 
+32
+Códigos de error
+Descripción Razón Solución
+Tiempo de espera de 
+entrada 
+Compruebe si el grifo está 
+abierto, la presión del agua es 
+demasiado baja o falla el agua; 
+Si la falla persiste, comuníquese 
+con el servicio técnico de 
+Haceb.
+Tiempo de espera de 
+salida
+Limpie el filtro de la bomba de 
+drenaje, verifique si la manguera 
+de drenaje está bloqueada; si la 
+falla persiste, comuníquese con 
+el servicio técnico de Haceb.
+Falla de bloqueo
+Verifique que la puerta este 
+cerrando adecuadamente. Si la 
+falla persiste, comuníquese con 
+el servicio técnico de Haceb.
+Alerta de 
+desbordamiento
+La lavadora realiza un drenaje 
+automático hasta que el nivel 
+del agua vuelva al nivel normal 
+de lavado, comuníquese con el 
+servicio técnico de Haceb.
+Falla del motor Póngase en contacto con el 
+servicio técnico de Haceb.
+Falla de la tubería de 
+calefacción
+Póngase en contacto con el 
+servicio técnico de Haceb.
+Falla del sensor térmico Póngase en contacto con el 
+servicio técnico de Haceb.
+Software/hardware 
+inigualable en placa 
+base y placa inversora de 
+frecuencia
+Póngase en contacto con 
+nosotros para el mantenimiento.
+Falla de comunicación 
+placa inversora de 
+frecuencia
+Póngase en contacto con 
+nosotros para el mantenimiento.
+Falla de la placa 
+inversora de frecuencia
+Póngase en contacto con un 
+técnico.
+Falla del ventilador de 
+secado
+Póngase en contacto con un 
+técnico .
+Falla del calentador de 
+secado
+Póngase en contacto con un 
+técnico.
+
+Manual de usuario
+Lavadora secadora 
+33
+Descripción Razón Solución
+Sensor térmico en fallo 
+de salida de aire de 
+secado
+Póngase en contacto con el 
+servicio técnico de Haceb.
+Sensor térmico en fallo 
+entrada aire secado
+Póngase en contacto con el 
+servicio técnico de Haceb.
+Fallo de comunicación 
+del módulo de secado
+Póngase en contacto con el 
+servicio técnico de Haceb.
+Falla de Centrifugado 
+en etapa de inicio de 
+secado, retenciones de 
+operación y alarmas
+Si se detecta una sobrecarga 
+o un desequilibrio, redistribuya 
+la ropa uniformemente o ajuste 
+la cantidad de prendas según 
+sea necesario, luego reinicie 
+el programa de secado y, si el 
+problema persiste, contáctenos 
+para mantenimiento.
+El procedimiento 
+en ejecución no se 
+corresponde con el ciclo 
+que indica la perilla.
+Gire el selector de ciclo al 
+ciclo correspondiente al 
+procedimiento en curso.
+Tabla 7
+NOTA: Consulte el modelo realmente comprado para la visualización de fallas aquí. 
+Diferentes modelos tienen diferentes pantallas de fallas.
+
+Manual de usuario
+Lavadora secadora 
+34
+
+Manual de usuario
+Lavadora secadora 
+35
+
+Llámanos gratis desde tu celular al #466 
+Comercializado por:
+INDUSTRIAS HACEB S.A
+Colombia
+Autopista Norte Calle 59 No. 55-80 km. 13,
+Ecuador
+Av. de las Américas, Aeropuerto  José Joaquín de Olmedo,
+Centro Comercial Aeroplaza, Local No.10
+Línea de servicio/Customer service line: 1800042232 Guayaquil
+Copacabana, Antioquia.
+www.haceb.com
+Correo electrónico: atencionpqr@haceb.com
+www.haceb.com
+5004009_MANUAL USUARIO LAV SEC CF 12 KG  18/07/2025   Revisión: 00

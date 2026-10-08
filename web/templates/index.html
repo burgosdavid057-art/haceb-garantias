@@ -1,0 +1,81 @@
+{% extends "base.html" %}
+{% block titulo %}Haceb · Electrodomésticos para el hogar (Demo){% endblock %}
+
+{% block contenido %}
+<section class="hero">
+  <div class="contenedor">
+    <h1>Tu electrodoméstico no termina<br>en la <em>compra</em>.</h1>
+    <p>
+      Diez años de garantía en el compresor. El acompañamiento debería durar lo mismo.
+      Pregúntale al asistente si tu equipo está cubierto, qué revisar cuando falla,
+      o por qué te cobraron un servicio.
+    </p>
+    <div class="hero-acciones">
+      <a href="/asistente"><button class="btn-primario">
+        <svg width="17" height="17" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.9">
+          <rect x="3" y="8" width="18" height="12" rx="3"/>
+          <circle cx="8.5" cy="14" r="1.3" fill="currentColor" stroke="none"/>
+          <circle cx="15.5" cy="14" r="1.3" fill="currentColor" stroke="none"/>
+          <path d="M12 8V4"/>
+        </svg>
+        Revisar mi garantía
+      </button></a>
+      <a href="/servicios"><button class="btn-secundario">Ver servicios</button></a>
+    </div>
+  </div>
+</section>
+
+<div class="contenedor">
+  <section class="seccion">
+    <h2>Categorías</h2>
+    <p class="subtitulo">Todo para tu hogar, con servicio y respaldo</p>
+    <div class="categorias">
+      <a class="categoria" href="/servicios"><div class="ico">🧊</div><b>Neveras</b><span>Desde $999.900</span></a>
+      <a class="categoria" href="/servicios"><div class="ico">🌀</div><b>Lavadoras</b><span>Desde $679.901</span></a>
+      <a class="categoria" href="/servicios"><div class="ico">❄️</div><b>Congeladores</b><span>Desde $1.010.900</span></a>
+      <a class="categoria" href="/servicios"><div class="ico">🔥</div><b>Cocción</b><span>Estufas y hornos</span></a>
+      <a class="categoria" href="/servicios"><div class="ico">🚿</div><b>Calentadores</b><span>Paso y acumulación</span></a>
+      <a class="categoria" href="/servicios"><div class="ico">🔧</div><b>Servicios</b><span>Instalación y repuestos</span></a>
+    </div>
+  </section>
+
+  <section class="seccion" style="border-top:1px solid var(--linea)">
+    <h2>Servicio Haceb</h2>
+    <p class="subtitulo">Lo que pasa después de la compra</p>
+    <div class="bandas">
+      <div class="banda">
+        <div class="ico">📋</div>
+        <div>
+          <h3>¿Tu servicio quedó al cobro?</h3>
+          <p>Adjunta tu orden en el asistente y te desglosamos línea por línea qué asume
+             Haceb y qué asumes tú. Sin sorpresas en la factura.</p>
+        </div>
+      </div>
+      <div class="banda">
+        <div class="ico">🛡️</div>
+        <div>
+          <h3>Garantía real, no promesas</h3>
+          <p>10 años en el compresor, 1 año en los demás componentes. El asistente lee los
+             términos publicados de tu equipo, no responde de memoria.</p>
+        </div>
+      </div>
+      <div class="banda">
+        <div class="ico">🔍</div>
+        <div>
+          <h3>Antes de llamar al técnico</h3>
+          <p>Cuéntale la falla y te guía con el manual oficial de tu referencia.
+             Si no hay dato que lo respalde, te lo dice y escala.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="seccion" style="border-top:1px solid var(--linea);text-align:center">
+    <h2>¿Tienes una orden de servicio a la mano?</h2>
+    <p class="subtitulo">
+      Tómale una foto. El asistente la lee, la busca en el sistema y te dice cuánto cubre tu garantía.
+    </p>
+    <a href="/asistente" style="display:block;width:fit-content;margin:0 auto"><button class="btn-primario">Empezar ahora</button></a>
+  </section>
+</div>
+{% endblock %}

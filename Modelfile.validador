@@ -1,0 +1,16 @@
+# Sub-agente validador.
+#
+#   ollama create haceb-validador -f Modelfile.validador
+#
+# Auditar no es razonar: es comparar las cifras de una respuesta contra el JSON
+# de evidencia que devolvieron las herramientas. Un 3B hace ese trabajo, y en un
+# chat en vivo la diferencia de segundos importa: el validador corre DESPUES del
+# agente, asi que su latencia se suma entera a la espera del usuario.
+#
+# La ventana se hornea aqui por lo mismo que en el Modelfile del agente: el
+# endpoint /v1 de Ollama ignora `options` y el modelo cargaria con 4096. La
+# evidencia de una orden de servicio con sus lineas pasa de eso.
+
+FROM qwen2.5:3b
+PARAMETER num_ctx 8192
+PARAMETER temperature 0

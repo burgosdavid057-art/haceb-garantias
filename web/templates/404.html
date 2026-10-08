@@ -1,0 +1,12 @@
+{% extends "base.html" %}
+{% block titulo %}Orden no encontrada · Haceb{% endblock %}
+{% block contenido %}
+<div class="contenedor" style="text-align:center;padding:80px 20px">
+  <h1 style="font-size:22px;margin:0 0 10px">No encontramos la orden {{ numero }}</h1>
+  <p style="color:var(--gris-claro);font-size:13px;margin:0 0 24px">
+    Verifica el número: en tu orden aparece como «Número de cita» (SA-…),
+    «Número de orden de trabajo» o «No. de recibo».
+  </p>
+  <button class="btn-primario" data-abrir-chat style="margin:0 auto">Preguntarle al asistente</button>
+</div>
+{% endblock %}

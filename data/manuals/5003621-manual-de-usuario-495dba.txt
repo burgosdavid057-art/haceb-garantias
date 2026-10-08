@@ -1,0 +1,838 @@
+MANUAL DE USUARIO HACEB
+Aplica a las referencias: 7704353462104, 9003059
+Productos: Congelador Haceb 251 litros blanco; Congelador Haceb 145 litros blanco
+Fuente: https://stmanualesdigitalesprod.z13.web.core.windows.net/DI/Manuales_Usuario/5003621_MANUAL%20DE%20USUARIO.pdf
+======================================================================
+
+www.haceb.com
+Lea detenidamente estas instrucciones de 
+uso e instalación antes de encender u 
+operar su producto y guárdelas como 
+referencia para el futuro.
+Manual
+de usuario
+congelador
+horizontal
+
+2
+Manual de usuario
+Congelador horizontal
+CONTENIDO
+GARANTÍA   (APLICA SÓLO PARA COLOMBIA) 3
+GLOSARIO 6
+PRECAUCIONES DE SEGURIDAD 6
+INSTRUCCIONES GENERALES 7
+DESCRIPCIÓN DEL PRODUCTO Y SUS PARTES 8
+INSTALACIÓN 9
+OPERACIÓN Y FUNCIONAMIENTO 12
+PREVENCIÓN Y CUIDADOS 15
+LIMPIEZA 16
+SOLUCIONES ANTES DE LLAMAR AL SERVICIO TÉCNICO 17
+
+3
+GARANTÍA   (APLICA SÓLO PARA COLOMBIA)
+1. Fabricante, descripción, vendedor, teléfono y fecha de compra: Determinados en la fac -
+tura de venta.
+2. Identificación del producto garantizado: En la placa de especificaciones que posee el producto.
+3. En caso de reventa del refrigerador, el periodo de validez de la garantía no sufrirá renova-
+ción o alteración alguna. Así mismo el Servicio directo de Fábrica o sus Talleres Autoriza-
+dos, podrán efectuar una revisión técnica del refrigerador previa a la orden de reparación 
+y/o sustitución del mismo.  Se advierte que la sustitución del producto solo procederá en 
+los casos previstos en la Ley.
+4. La garantía en el compresor y en los demás componentes que Haceb está ofreciendo se 
+refiere al buen funcionamiento del sistema de refrigeración y a la parte interna. Así mis -
+mo, para el aplique decorativo ubicado externamente en las puertas de su refrigerador 
+(aplica para algunas referencias) la garantía es de un (1) año cubriendo decoloración, 
+pérdida del adhesivo, amarillamiento y corrido del color; sí y sólo sí la limpieza del adhe-
+sivo se realiza con un paño húmedo (sólo con agua), no se usan detergentes ni abrasivos 
+y el refrigerador no se encuentra expuesto a los rayos solares.
+Garantía del producto: 
+El producto cuenta con un (1) año de garantía legal en todos sus componentes a partir de 
+la fecha de entrega por parte del establecimiento comercial. La garantía cubre cualquier 
+falla que se presente en el congelador, causada por defectos de fabricación o daños en los 
+materiales utilizados, de acuerdo con las indicaciones del Manual. La garantía no tiene costo 
+alguno y es aplicable siempre y cuando el producto se destine para uso doméstico.
+Las solicitudes de garantía deben realizarse directamente al servicio directo de fabrica – 
+Servicio Haceb – en los canales indicados en este Manual. Estos canales son válidos para 
+Colombia, en otros países, por favor consulte a su distribuidor, o almacén vendedor.
+Garantía Suplementaria
+Se otorga una garantía suplementaria a la legal sobre el componente Compresor. Esta ga -
+rantía suplementaria amplia y mejora la cobertura de la garantía legal de manera gratuita. 
+Dicha garantía es la siguiente y está regida por las condiciones que se indican a continuación: 
+Garantía Suplementaria del compresor:  Se otorga una garantía suplementaria sobre el 
+componente “Compresor” del producto, por un periodo de 2 años, contados a partir de la 
+fecha de finalización de la garantía legal del producto. 
+Términos y condiciones de la garantía suplementaria:
+1. La garantía suplementaria otorgada sobre el Compresor incluye: 
+ • La reparación de este componente, en caso de daño o falla del mismo, durante el término 
+otorgado de garantía suplementaria. Si al momento de la reparación se observan fallas 
+en componentes o repuestos diferentes al Compresor, la reparación o cambio de estos 
+debe ser asumido por el consumidor, así como la mano de obra
+ • En caso de que el Compresor no sea reparable y deba ser cambiado, en virtud de la 
+garantía suplementaria otorgada, Haceb realizará la entrega de un nuevo Compresor de 
+conformidad con las condiciones estipuladas en el numeral (3) tercero siguiente.
+La mano de obra asociada al cambio del Compresor, cuando el cambio se realice por parte 
+de Haceb, deberá ser asumida por el consumidor, así como cualquier repuesto adicional que 
+deba repararse o cambiarse en estos casos. Adicionalmente, el consumidor deberá asumir 
+cualquier otro costo o gasto asociado a la sustitución del Compresor.
+¡Importante! Se recomienda al consumidor realizar el cambio del Compresor con el servi -
+cio directo de fábrica de Haceb – Servicio Haceb – o en su defecto con personal experto y 
+calificado para la manipulación y cambio de este tipo de repuestos en Neveras. La garantía 
+suplementaria no cubre daños al repuesto o producto por parte de personal ajeno a Haceb.
+2. Término: La garantía suplementaria tendrá un término de vigencia único y en ningún caso 
+se renovará, ni siquiera cuando haya cambios o reparaciones del Compresor. En ese sentido, 
+cuando haya un cambio del Compresor, el nuevo compresor entregado únicamente tendrá 
+una garantía correspondiente al tiempo que reste a los años de garantía suplementaria ini -
+cialmente otorgados. 
+A modo de ejemplo, si el Compresor (que tiene 3 años de garantía total: 1 año de garantía legal 
++ 2 años de garantía suplementaria) llegase a dañarse a los 8 años de comprado el producto, 
+el Compresor nuevo que sea cambiado o entregado al consumidor, únicamente tendrá un año 
+restante de garantía suplementaria.
+A la garantía suplementaria restante se le aplicarán las mismas condiciones indicadas en 
+el presente Manual.
+
+4
+Manual de usuario
+Congelador horizontal
+3. Condiciones para que aplique la garantía suplementaria:
+a.  El consumidor deberá devolver el Compresor que presente la falla a Haceb. No se entregará 
+el nuevo componente a menos que el anterior haya sido devuelto.
+b.  La falla que presente el Compresor deberá estar originada en la calidad del repuesto. Haceb 
+no se hace responsable por los daños causados por uso inadecuado del consumidor, mante-
+nimiento incorrecto o daños de terceros.
+4. Exclusión de la responsabilidad de Haceb: Haceb no se hace responsable por los daños 
+que se causen en el producto o en el Compresor por reparaciones inadecuadas de terceros. 
+Así como por cualquier daño directo, indirecto o consecuencial causado por un procedi -
+miento incorrecto por parte de personal ajeno a Haceb.
+EXCLUSIONES DE LA GARANTÍA
+ • Cuando el refrigerador hubiera sido utilizado en condiciones distintas a las normales. (El 
+refrigerador no es para uso industrial o comercial).
+ • Cuando el refrigerador no hubiera sido instalado u operado de acuerdo con el Manual de Usuario.
+ • Cuando el refrigerador rotulado con un voltaje nominal de 115V, opera por fuera del rango 
+de 108 a 127 voltios.
+ • Cuando el refrigerador rotulado con un voltaje nominal de 220V ó 230V, opera por fuera del rango 
+de 210 a 240 voltios.
+ • Todo tipo de daño causado por sobrecargas de la red eléctrica usada para la alimenta-
+ción del refrigerador.
+ • Cuando el refrigerador ha sido dañado por fenómenos de la naturaleza como: Terre -
+motos, inundaciones, tormentas o descargas eléctricas, siniestros, temblores, etc. O por el 
+deterioro causado con el mal uso o mal trato que le de el usuario al producto.
+ • Intervención técnica del refrigerador por personal diferente al Servicio Directo de Fábrica o sus 
+Talleres Autorizados.
+ • Por la eliminación o modificación de la placa de especificaciones.
+ • Por la alteración o falsedad en relación con la información suministrada en este certificado.
+ • Por el vencimiento del término de la garantía.
+ • El período de garantía de fábrica ha expirado.
+ • El producto presenta el número de serie alterado ó removido.
+ • El producto presenta modificaciones no autorizadas en las especificaciones.
+ • Problemas causados en la instalación y/o reparación efectuada por personal no autori -
+zado por el fabricante o el comercializador.
+ • Artículo desconectado a la fuente de voltaje.
+ • Bombillo quemado o flojo posterior a su instalación.
+ • Cierre magnético con ajuste excesivo (adherencia), para esto se debe esperar como mí-
+nimo 20 segundos entre apertura de puertas.
+ • Conexiones eléctricas flojas o sueltas, después de un mes de uso.
+ • Calentamiento del compresor, condensador y laterales. Esto es normal.
+ • Manguera de desagüe obstruida por objetos extraños y por no realizar mantenimientos preventivos.
+ • Oxidación causada por golpes, rayas o producto expuesto a ambientes salinos y/o con humedad 
+relativa por encima del 70%.
+ • Problemas causados por operaciones o usos inadecuados, en forma incorrecta y/o dife-
+rente a lo especificado en el manual de usuario.
+ • Problemas causados por transporte inapropiado del equipo.
+ • Problemas causados por la invasión de cuerpos extraños al producto como insectos, ra-
+tones, similares, o falta de limpieza del producto.
+ • Problemas causados por condiciones accidentales o provocadas como incendios, fluc -
+tuaciones de voltaje, vandalismo, robo o similares.
+ • Problemas asociados con nivelación del producto. Este debe ser realizado por el usuario, 
+el manual lo especifica.
+ • Problemas con instrucciones de funcionamiento tales como: Poco frío que este asocia -
+do al manejo de perilla y de tarjeta, condensadores poco ventilados, obstrucción de las 
+salidas y retornos de aire, puertas mal ajustadas y ausencia total de frío por manejo de 
+perilla o falta de voltaje.
+ • Ruidos asociados con el normal funcionamiento de los componentes del sistema funcio-
+nal del producto.
+
+5
+ • Mal olor y sabor de los alimentos por causas asociadas a derrames y productos refrige -
+rados descubiertos.
+ • Por condensación interna que estén asociados a tiempos excesivos de apertura de puer-
+tas, alimentos no envueltos, descubiertos o calientes.
+Suministro de repuestos 
+La disponibilidad de repuestos está garantizada por un período de tres (3) años, a partir de la  
+fabricación del último lote, según el serial.
+Señor usuario: para la prestación del servicio en garantía se verificará el serial que está dis-
+puesto en la placa de especificaciones del producto.
+Advertencia: las visitas de nuestros técnicos por causas injustificadas, dan lugar al pago 
+por parte del usuario del valor correspondiente al transporte y tiempo del técnico. Rogamos 
+por lo tanto, antes de solicitar nuestro servicio, comprobar todos los puntos descritos en el 
+manual de usuario o instrucciones.
+NOTA IMPORTANTE: Para más información visita la página www.haceb.com
+ IMPORTANTE
+Lea cuidadosamente este manual antes de hacer uso de su congelador. En él encontrará 
+recomendaciones para su correcta instalación, buen manejo y cuidado, así, podrá cono-
+cer y operar su congelador, obteniendo un óptimo desempeño.
+
+6
+Manual de usuario
+Congelador horizontal
+GLOSARIO
+Condensación: Proceso mediante el cual el vapor de agua presente en el aire cambia a 
+líquido al tener contacto con una superficie a menor temperatura.
+Condensador: Componente funcional del sistema de refrigeración en el cual se produce el 
+intercambio térmico entre el refrigerante y el ambiente.
+Congelador: Compartimiento destinado para el almacenamiento de alimentos congelados.
+Conservador: Compartimiento diseñado para  mantener temperaturas de 0°C a 8 °C.
+Dispositivo de control de temperatura: Dispositivo que regula automáticamente el funcio -
+namiento del sistema de refrigeración de acuerdo con la temperatura límite que puede al -
+canzar el congelador.
+Escarcha: Se denomina escarcha a la capa de hielo formada al enfriar el vapor de agua 
+contenido en el aire hasta llevarlo al estado sólido. Generalmente, la escarcha se forma so -
+bre superficies solidas que se han enfriado lo suficiente como para provocar el cambio de 
+estado del agua.
+Evaporador: Componente funcional del sistema de refrigeración en el cual se produce el 
+intercambio térmico entre el espacio a refrigerar (congelador) y el gas refrigerante.
+R600a: Gas refrigerante.
+LED: Siglas en inglés de Light-Emitting Diode (diodo emisor de luz) es un dispositivo semi con-
+ductor (diodo) que emite luz cuasi-monocromática, es decir, con un espectro muy angosto, 
+cuando se polariza de forma directa y es atravesado por una corriente eléctrica.
+Sistema de enfriamiento: Está conformado por el evaporador, el condensador, el inter -
+cambiador y el motor o compresor. Este sistema es el encargado de realizar el proceso de 
+enfriamiento.
+PRECAUCIONES DE SEGURIDAD
+ • Antes de utilizar este producto, lea atentamente todas las instrucciones de seguridad.
+ • Antes de realizar la limpieza o mantenimiento asegúrese de desconectar el producto del 
+tomacorriente o red eléctrica.
+ • Si el cable de suministro eléctrico está dañado, debe ser reemplazado por personal au -
+torizado de Industrias Haceb S.A.
+ • Nunca deje que se presione el cable de energía por el mismo congelador o por otros ob-
+jetos pesados. Nunca doble el cable excesivamente. Si el cable se daña o se pela, puede 
+ser una causa de incendio y descarga eléctrica.
+ • No comparta el tomacorriente con otros electrodomésticos o dispositivos eléctricos.
+ • No hale el cable para desconectar el producto del tomacorriente; sujete bien el enchufe.
+ • Nunca use y almacene gases y/o líquidos inflamables en el congelador o cerca de éste.
+ • No almacene medicinas o muestras de investigación académica que requieran un con-
+trol de temperatura estricto.
+ • Nunca inserte sus dedos o manos en la parte inferior del congelador, especialmente las 
+partes laterales, podría lastimarse con bordes metálicos afilados o recibir una descarga 
+eléctrica.
+ • Asegúrese de verificar el ajuste del cierre magnético de la puerta. Situaciones como 
+entradas de aire al interior del producto, van en desventaja con el funcionamiento del 
+producto.
+ • Su congelador está diseñado para soportar una humedad relativa en el ambiente del 
+70% sin presentar escurrimiento de agua en la parte externa. Si la humedad relativa del 
+ambiente supera este valor se puede presentar escurrimiento de agua. Se considera nor-
+mal debido a que si el aire con humedad entra en contacto con una superficie a una 
+temperatura inferior a la temperatura a la cual se encuentra el aire, generará que éste 
+se enfríe y la humedad en forma de vapor cambiará a estado líquido, formando gotas 
+sobre las superficies.
+
+7
+ • No almacene alimentos que inician su proceso de descomposición, pueden deteriorar 
+otros alimentos.
+ • Los recipientes que contengan líquidos y que se colocan al interior de su congelador sin 
+tapar, pueden generar condensación o gotas de agua al interior de éste.
+ • No coloque botellas ni recipientes de vidrio en el congelador. Éstos pueden romperse y 
+causar lesiones cuando se utilice el producto en modo congelador.
+ • Este producto no debe ser usado y manipulado por niños sin la supervisión de un adulto. 
+Tampoco permita que los niños se cuelguen de la puerta del congelador, este podría 
+volcarse y provocar accidentes.
+ • No repare, desmonte o haga modificaciones al producto por su cuenta, existe riesgo de 
+accidentes o causar daños en el congelador.
+ • Nunca consuma comida en descomposición. Los alimentos almacenados por mucho 
+tiempo pueden deteriorarse o descomponerse.
+ • Cuando se deshaga de su congelador viejo asegúrese de retirar los empaques de la 
+puerta. Los niños pueden quedar atrapados o asfixiarse en el congelador abandonado.
+INSTRUCCIONES GENERALES
+ • No introduzca alimentos o líquidos descubiertos en su congelador; para su conservación 
+es importante guardarlos en recipientes con tapas ajustadas, cubiertos con papel alumi-
+nio o película plástica para evitar la contaminación entre ellos.
+ • Cuando el producto este trabajando en modo congelador, no almacene en él líquidos en 
+envases herméticos, o bebidas efervescentes como gaseosas, cervezas, etc, éstos pue -
+den reventarse ocasionando daños al congelador o accidentes.
+ • La elevación de la temperatura en los alimentos congelados durante una descongelación 
+provocada por una falla o interrupción de la energía reduce su vida de almacenamiento.
+ • Verifique siempre que la puerta del congelador esté completamente cerrada para evitar 
+un mal funcionamiento.
+ • Es normal que cuando se abra y se cierre dos veces consecutivamente la puerta de su 
+congelador, a la segunda vez se requerirá realizar un mayor esfuerzo para su apertura. 
+Este fenómeno no se presentará si usted entre aperturas espera un tiempo mínimo de 
+1minuto.
+ • Cuando almacene en su congelador alimentos de olores fuertes y penetrantes siempre 
+hágalo dentro de bolsas o recipientes herméticos para evitar que su olor contamine su 
+congelador y otros alimentos.
+ • No introduzca alimentos o líquidos calientes en el congelador.
+ • Para evitar descargas eléctricas, no instale su congelador en pisos húmedos o en lugares 
+que se puedan inundar fácilmente. Conecte además su congelador a un tomacorriente 
+con conexión a tierra.
+ IMPORTANTE
+Este producto no está diseñado para la conservación y almacenamiento de medicamentos, 
+Industrias Haceb S.A. no se responsabiliza por los daños causados a éstos o a personas y/o 
+animales a causa de usar este producto para este fin.
+
+8
+Manual de usuario
+Congelador horizontal
+DESCRIPCIÓN DEL PRODUCTO Y SUS PARTES
+Es muy importante conocer cada una de las partes que componen su producto, para enten-
+der cómo se instala, funciona y se usa para lograr un óptimo desempeño.
+ IMPORTANTE
+Las imágenes contenidas en este manual pueden ser diferentes al producto físico y su único 
+objetivo es ayudar a mejorar la comprensión del contenido escrito del mismo.
+1.  Puerta congelador 
+2.  Cierre magnético 
+3.  Iluminación LED
+4.  Bisagra
+5.  Canasta de almacenamiento
+6.  Cerradura
+7.  Panel de control 
+8.  Desagüe
+9.  Patas niveladoras 
+1 2
+3
+5
+6
+7
+9
+8
+4
+Figura 1.
+10
+11
+12
+Figura 2.
+13
+14
+Figura 3.
+10. Rejilla del sistema de refrigeración
+11. Cable de alimentación eléctrica 
+12. Rodachinas (Dependiendo del modelo) 
+13. Filtro secador      
+14. Compresor
+Accesorios
+1.  Manual de usuario 
+2. Llave cerradura 
+3. Kit de instalación manija (Dependiendo del modelo)
+
+9
+1
+Lea detenidamente 
+estas 
+instrucciones 
+de uso e 
+instalación 
+antes 
+de encender 
+u opera
+r su 
+producto 
+y guárdelas 
+como 
+referencia 
+para 
+el 
+futuro
+.
+CONGELADOR
+HORIZONTAL
+COH NIEVE 145 CE BL
+COH NIEVE 251 CE BL
+Figura 4.
+2
+Figura 5.
+INSTALACIÓN
+ IMPORTANTE
+ • Este producto debe ser instalado por personal calificado y certificado.
+ • Recuerde que los daños ocasionados por una instalación inadecuada no realizada por 
+Servicio Técnico Haceb o sus centros autorizados, no están cubiertos por la garantía.
+ • Para obtener un mejor y más eficiente funcionamiento de su congelador es importante 
+tener en cuenta las siguientes recomendaciones en el momento de realizar la instalación:
+ • Nunca instale el congelador en un piso húmedo o mojado, o donde el agua pueda 
+acumularse.
+ • El piso que va a soportar el congelador deberá ser lo suficientemente firme y plano, que 
+garantice un buen apoyo para que el congelador quede estable.
+Conexión eléctrica
+ • Para asegurar un buen funcionamiento del sistema eléctrico de su congelador verifique 
+que se cumplan las siguientes condiciones: Voltaje nominal 115 V~, Frecuencia 60 Hz. To -
+macorriente en buen estado y con puesta a tierra.
+ • El circuito de la instalación deberá estar protegido con un fusible o Breaker de 15 A.
+ • Para regiones en donde el voltaje varía fuera del rango de 108 V a 127 V, puede necesitarse 
+un regulador de voltaje.
+ • Si el cable eléctrico ha sufrido algún daño o necesita ser reemplazado, contacte a Ser -
+vicio Técnico Haceb, centros de servicio autorizados o personal calificado y certificado.
+ ADVERTENCIA
+Los circuitos recargados con varios productos y que además estén construidos con alam -
+bre de calibre menor a 14 AWG presentarán caídas de voltaje, que harán funcionar mal su 
+congelador provocando fallas en el compresor con pérdida de la garantía por tal concepto.
+ IMPORTANTE
+ • No compartir el tomacorriente con otros equipos eléctricos.
+ • En caso de interrupción frecuente o de variaciones temporales notables en el suministro 
+de energía, es prudente desconectar su congelador hasta que se normalice. (La desco -
+nexión debe ser mínimo por 5 minutos).
+Figura 6.
+3
+
+10
+Manual de usuario
+Congelador horizontal
+Preparación de la instalación
+ • Busque el lugar adecuado para instalación.
+ • Compruebe si el congelador puede pasar por la puerta de acceso al lugar de instalación.
+ IMPORTANTE
+El aparato debe instalarse lejos de fuentes de calor, como radiadores, calderas, la luz solar 
+directa, etc. Asegurarse de que el aire pueda circular libremente alrededor de la parte pos -
+terior del gabinete. 
+Espacio requerido
+Espacios libres mínimos recomendados alrededor del congelador
+ • Lados: 10 cm
+ • Atrás: 10 cm
+ • Arriba: 80 cm
+Norma Técnica
+Este producto ha sido revisado y comprobado su buen funcionamiento bajo condiciones 
+normales de uso y además fue evaluado bajo la norma NTC 5310.
+Instalación manija externa de la puerta
+1. Saque los 4 tornillos (1) y la base de la manija (2) de la bolsa de accesorios.
+ • Luego fije la base de la manija (2) con la puerta, por medio de los tornillos. (Ver Figura 10)
+Figura 10.
+1
+2
+80 cm
+10 cm
+10 cm
+10 cm
+Figura 9.
+95,4 cm
+61,6 cm
+84,5 cm
+Figura 8.
+COH 251 CE BL                                
+Figura 7.
+COH NIEVE 145 CE                                            
+56,6 cm
+84,5 cm
+70,5 cm
+
+11
+2. Inserte la cubierta de la manija en la base de la manija (2) hasta que escuche un click.
+3. Ensamble la traba de cierre (4) en el gabinete del congelador con los 2 tornillos anteriores 
+(1) (Ver Figura 11).
+1
+4
+Figura 11.
+Patas niveladoras
+ • Con el congelador ubicado en el lugar de instalación, balancear el congelador validando 
+que este bien soportado en ambas patas niveladoras. (Figura 12).
+ • Si el producto se mueve o se encuentra desnivelado, ajuste las patas niveladoras atorni-
+llando o desatornillándolas. (Figura 13).
+Figura 12. Figura 13.
+ • Al ajustar las patas niveladoras, el producto debe estar bien soportado y nivelado para 
+evitar ruidos extraños en la operación.
+
+12
+Manual de usuario
+Congelador horizontal
+OPERACIÓN Y FUNCIONAMIENTO
+COH NIEVE 145 CE
+Estableciendo la temperatura
+Ajuste el nivel de temperatura girando la perilla del control en sentido horario desde una 
+temperatura mínima hasta temperaturas de congelamiento. En el rango  Refrigerar el con-
+gelador funciona como un conservador. En el rango Congelar el congelador está en capaci-
+dad de congelar una capacidad máxima (en kg) descrita en la placa de especificaciones en 
+24 horas desde la temperatura ambiente. 
+ IMPORTANTE
+No almacene alimentos que desea o deba mantener congelados en el rango  Refrigerar del 
+control de temperatura.
+Estado de indicador LED
+Indicador LED de arranque (Color naranja): Cuando el compresor funciona se enciende la luz 
+LED del panel de control. Cuando el compresor está en reposo la luz LED permanece apagada.
+COH 251 CE BL
+Cuando el congelador se conecta
+ • Todos los indicadores LED se iluminan por 1 segundo cuando el congelador recibe alimen-
+tación eléctrica.
+Luz indicadora de congelación rápida
+Botón de ajuste
+de temperatura
+(Set)
+Luz indicadora de la temperatura
+Botón de 
+Endendido/Apagado
+(ON/OFF)
+Luz indicadora
+de arranque
+Figura 15.
+Figura 14.
+Tabla 1.
+RePosición del 
+control
+Temperatura de 
+trabajo [°C]
+Refrigerador 
+(Conservador) 0 a 8
+Normal 
+(posición 
+media perilla)
+-12± 2
+Máximo -25± 2
+
+13
+Posición de la tarjeta Temperatura de trabajo [°C]
+Refrigerar
+(Conservador)
+1 5± 2
+2 2± 2
+Congelar 3 -18± 2
+4 -19± 2
+5 -20± 2
+6 -21± 2
+7 -22± 2
+Máximo 8 -28± 2
+Tabla 2.
+Estableciendo la temperatura
+Pulsando el botón Temperatura  se ajusta la temperatura y el modo en que funciona el 
+congelador. De acuerdo con lo que se seleccione el congelador puede funcionar en uno de 
+tres modos: Refrigerar, Congelar y Máximo (Congelamiento rápido). La barra indicadora se 
+irá iluminando a medida que se vaya presionando el botón Temperatura  , mientras más 
+iluminado esté, significa que la potencia de congelación es mayor (Ver Figura 15).
+En el rango  Refrigerar el congelador funciona como un  conservador. En el rango  Congelar 
+el congelador está en capacidad de congelar una capacidad máxima (en kg) descrita en la 
+placa de especificaciones en 24 horas desde la temperatura ambiente.
+ IMPORTANTE
+No almacene alimentos que desea o deba mantener congelados en el rango  Refrigerar del 
+control de temperatura.
+Tipos de configuraciones de uso del congelador
+Estado de indicador LED:Cada modo de funcionamiento está indicado por el encendido de 
+los respectivos indicadores LED del panel. Si la luz correspondiente está apagada, significa 
+que ese modo no está activado.
+Indicador LED de arranque (color verde): Cuando el compresor funciona se enciende la luz 
+LED. Cuando el compresor está en reposo la luz LED permanece apagada. Cada 30 minutos 
+de operación la luz LED correspondiente se encenderá de forma tenue.
+Modo Refrigerar (Conservador) (2 Niveles)
+Modo Congelar (Desde el 3 en adelante)
+Modo Máximo (Modo de congelamiento rápido) 
+Niveles de temperatura
+81
+Figura 16.
+
+14
+Manual de usuario
+Congelador horizontal
+Función de memoria: Al volver a conectar el congelador la memoria mantiene la última con-
+figuración seleccionada. Esta es una función automática.
+Botón Encendido/apagado: Al mantener presionado el botón por tres segundos  el congela-
+dor se apaga y deja de funcionar.
+ IMPORTANTE
+ • En modo máximo, el compresor del congelador trabajará de forma continua durante 
+50hr, después de este tiempo el sistema regresará al modo congelar.
+ • La temperatura interior puede verse afectada por factores como el lugar de instalación 
+del congelador, la temperatura ambiente y la frecuencia con la que se abra la puerta.
+ • El compartimiento del congelador esta adecuado para congelar y conservar alimentos 
+frescos y el almacenamiento de alimentos congelados durante mucho tiempo.
+ • Coloque los alimentos frescos a congelar en las paredes del compartimento. 
+ • En la placa de características se especifica la cantidad máxima (en kg) de alimentos que 
+se pueden congelar en 24 horas.
+ • El proceso de congelación para la capacidad máxima de congelamiento dura 24 horas: 
+durante este período se recomienda no introducir más alimentos que excedan este límite.
+ • Por razones de higiene el interior y los accesorios del congelador, se deben limpiar con 
+regularidad.
+ ADVERTENCIA
+Sugerencias para almacenar alimentos
+ • Cuando pone el congelador en marcha por primera vez o después de un periodo de 
+inactividad, antes de cargar alimentos en el compartimiento, dejar que el congelador 
+funcione por lo menos 2 horas en los ajustes máximos de congelamiento del control de 
+temperatura.
+ • En caso de descongelación accidental, evite abrir la puerta y sacar lo almacenado si no 
+tiene disponible otro dispositivo para conservar sus alimentos.
+ • El producto no está diseñado para ser operado por niños, personas con capacidades 
+sensoriales o mentales reducidas.
+ • Si el congelador lo desea usar como Conservador, es decir en posición Refrigerar del con-
+trol de temperatura, tenga en cuenta que la cantidad de agua en el fondo de su congela-
+dor puede ser mayor debida a la condensación, especialmente en climas muy húmedos. 
+Se recomienda drenar constantemente su congelador cuando haya presencia de agua 
+en el fondo.
+Descongelando el congelador
+El compartimiento del congelador, se cubrirá progresivamente con escarcha. Cuando el es-
+pesor de la escarcha sea de  3 cm o mayor, se recomienda realizar el proceso de descon -
+gelamiento y la eliminación del agua producida por este. Nunca use utensilios metálicos  ni 
+plásticos como espátulas, ni elementos filosos como cuchillos o destornilladores para quitar 
+la escarcha del evaporador ya que podría dañarlo. Para realizar el proceso de descongela -
+miento del congelador se recomienda seguir los siguientes pasos:
+ • Desconecte de la conexión eléctrica el congelador y espere hasta que toda la escar -
+cha de las paredes interiores del congelador se descongele completamente. Si se desea 
+acelerar el proceso de descongelación, puede aplicar agua tibia o utilizar un secador a 
+temperatura media para descongelar la escarcha. Nunca aplicar fuentes de calor de alta 
+temperatura como sopletes o resistencias eléctricas para acelerar el proceso de descon-
+gelación, pues esto podría comprometer la integridad de su congelador.
+
+15
+ • Para drenar el agua resultante del proce -
+so de descongelación, coloque un reci -
+piente bajo el tapón de drenaje y proceda 
+a quitar, primero el tapón interno y luego el 
+externo. (Ver Figura 17).
+ • Gire el el tapón externo de drenaje (Ver Fi-
+gura 18). Esto permitirá que fluya el agua 
+a la bandeja. Cuando termine, finalmente 
+vuelva a introducir el tapón externo. Vuel -
+va a conectar el tapón interno.
+Nota: Supervisar el recipiente bajo el desagüe para evitar desbordamiento.
+ • Seque el interior del congelador y luego conecte el enchufe eléctrico a la toma eléctrica.
+ • Restablecer el control de temperatura al ajuste deseado.
+PREVENCIÓN Y CUIDADOS
+Aspectos ambientales
+Empaque: HACEB procura, en sus nuevos productos, utilizar empaques cu -
+yas partes sean fáciles de separar, así como materiales reciclables. Por lo 
+tanto, las piezas de los empaques (protectores de icopor, bolsas plásticas y 
+caja de cartón) deben ser desechadas de manera consciente, siendo desti-
+nadas, preferiblemente a recicladores.
+Producto: Este producto fue fabricado con materiales que pueden ser reci -
+clados y/o reutilizados. Entonces, al deshacerse de este producto, busque 
+compañías especializadas en desmontarlo correctamente.
+Eliminación: Al desechar este producto, al final de su vida útil, solicitamos 
+que sea obedecida la legislación local existente y vigente en su cuidad o 
+país, haciendo esto de la forma más correcta.
+Tenga en cuenta
+ • No use adaptadores para conectar el congelador a la electricidad. Si se requiere de una 
+extensión, usar una de cable calibre 14 que disponga con puesta a tierra.
+ • No permita que el cable de energía sea presionado por objetos pesados.
+ • Si usted escucha un sonido extraño o un fuerte olor químico o encuentra humo saliendo 
+del congelador después de conectarlo, desconecte inmediatamente y contacte al Ser -
+vicio Técnico Haceb, centros de servicio autorizados o personal calificado y certificado
+ • Si se presenta una desconexión eléctrica, espere cinco minutos antes de conectarlo nue-
+vamente con el fin de prevenir cualquier daño al compresor y partes eléctricas.
+ • Espere dos a tres horas hasta se estabilice en la temperatura deseada después de la pri-
+mera conexión, luego almacene los alimentos. Puede haber cierto olor a partes plásticas 
+en la operación inicial después de ser conectado, el cual va desapareciendo a medida 
+que el congelador trabaja.
+ • Nunca sostenga o conecte el cable con las manos húmedas. Nunca utilice un cable o 
+enchufe dañado. Hay riesgo de incendio, descarga eléctrica o daños serios.
+ • Nunca desconecte el congelador halando sólo del cable de energía. Siempre hágalo ha-
+lando firmemente el enchufe.
+ • Permita que el cable esté orientado hacia abajo en el tomacorriente. Si está dirigido hacia 
+arriba, el cable cerca del enchufe estará doblado y puede dañarse, lo que puede generar 
+una descarga eléctrica.
+ • No permita que el cable toque o pase cerca de equipos que generan calentamiento. El 
+cable de energía se puede dañar, dando como resultado riesgo de descarga eléctrica. 
+Cuando encuentre el cable eléctrico dañado o cortado, contacte al Servicio Técnico Ha -
+ceb, centros de servicio autorizados o personal calificado y certificado.
+Figura 17. Figura 18.
+
+16
+Manual de usuario
+Congelador horizontal
+ ADVERTENCIA
+ • Nunca ponga recipientes con agua o líquidos encima del congelador. Estos se pueden 
+verter en el congelador y causar peligro de descarga eléctrica o daño.
+ • Asegúrese de desconectar el congelador cuando no se utilice por un largo tiempo.
+Transporte del congelador
+Para transportar su congelador, tenga en cuenta los siguientes pasos:
+ • Desconecte el producto.
+ • Retire todos los alimentos.
+ • Si el producto se va a desplazar por un trayecto largo, asegure to-
+das las partes o accesorios internos ya que éstas pueden colisio -
+nar y romperse. Fije la puerta con cinta adhesiva para evitar que 
+se abran accidentalmente.
+ • Transportar el producto en posición horizontal. Nunca sobre los la-
+terales ni boca abajo ya que pueden producirse daños en su fun -
+cionamiento. (Ver Figura 19).
+ • Por seguridad es recomendable que el producto deba ser sujeta -
+do y transportado por dos personas.
+ • No sujete el producto de la manija. No sostenga la puerta entrea -
+bierta, pues provocará fallas en las bisagras. 
+ • Tenga cuidado al mover el congelador, las ruedas pueden dañar 
+o rayar el piso.
+ • Después de transportar el producto, dejarlo reposar por espacio 
+de una hora antes de conectarlo.
+LIMPIEZA
+ IMPORTANTE
+ • Desconecte el congelador de la red de suministro de energía antes de efectuar cualquier 
+tipo de limpieza.
+ • Limpie el interior del congelador al menos para mantener unas condiciones higiénicas de 
+almacenamiento de alimentos y de desodorización correctas.
+Si su congelador no va a ser utilizado por un tiempo prolongado, tome las siguientes 
+precauciones:
+ • Desconectar del tomacorriente.
+ • Retirar todos los alimentos.
+ • Limpiar su congelador.
+ • Colocar algún separador para que la puerta permanezca entreabierta y no haya acumu-
+lación de humedad.
+Limpieza interior: Para eliminar residuos secos adheridos a las superficies del congelador, 
+use un paño humedecido en agua con jabón con PH neutro y luego limpie nuevamente con 
+un paño humedecido con agua.
+Limpieza exterior: Use un paño no abrasivo humedecido en agua con jabón con PH neutro, 
+retire el jabón con un paño limpio ligeramente húmedo y finalmente use un paño seco.
+ IMPORTANTE
+ • Limpie el cierre magnético de la puerta con jabón con PH neutro.
+ • No se recomienda retirar el cierre magnético de la contrapuerta para su limpieza, éste 
+sólo se debe retirar en caso de que se requiera un cambio debido a una falla y debe ser 
+realizado por Servicio Técnico Haceb, centros de servicio autorizados o personal califica-
+do y certificado.
+ • En la zona lateral derecha donde se encuentra la rejilla del sistema de refrigeración  use 
+una aspiradora, o brocha suave para limpiar. Nunca vierta agua en esta zona.
+ • Es normal el calentamiento del motocompresor, y laterales del gabinete. No solicite aten-
+ción de Servicio Técnico HACEB por esta razón.
+ • Es normal que observe alguna condensación o “sudor” en las paredes interiores del 
+gabinete.
+ Correcto
+Incorrecto
+Figura 19.
+
+17
+ ADVERTENCIA
+ • Nunca utilice gasolina, benceno (benzol), disolventes entre otros para limpiar su conge -
+lador ya que pueden dañar las superficies.
+SOLUCIONES ANTES DE LLAMAR AL SERVICIO TÉCNICO
+¡Por favor revise las siguientes pautas de solución de problemas antes de llamar al Servicio 
+Técnico HACEB!
+Problema Posible causa Solución
+El congelador no 
+funciona
+El tomacorriente al 
+que está conectado 
+el congelador no está 
+energizado o está mal 
+colocado en el enchufe.
+Conecte el enchufe 
+del congelador a un 
+tomacorriente que esté 
+energizado y asegúrese 
+de que esté bien 
+conectado.
+El breaker que energiza 
+el tomacorriente al 
+que está conectado 
+el congelador está 
+disparado.
+Verifique la caja de 
+breakers de su casa/
+negocio y asegúrese 
+de que el breaker que 
+conecta el circuito 
+del tomacorriente al 
+que está conectando 
+el congelador esté 
+activado.
+El tomacorriente está 
+defectuoso.
+Las averías principales 
+han de ser corregidas 
+por un electricista.
+La tensión de la red 
+eléctrica es muy baja.
+Llame a su proveedor de 
+energía eléctrica.
+La temperatura del 
+congelador está 
+demasiado baja
+El congelador está 
+operando en la posición 
+máxima del control de 
+temperatura.
+Ajuste el regulador de 
+temperatura a una 
+posición menor.
+Acumulación de 
+escarcha en el cierre 
+magnético de la puerta
+El cierre de la puerta 
+no ajusta de forma 
+hermética.
+Ajuste correctamente 
+el cierre magnético a la 
+puerta. Retire cualquier 
+objeto extraño que 
+impida el correcto cierre 
+de la puerta.
+Ruidos inusuales
+El congelador está 
+haciendo contacto con 
+la pared u otros objetos
+ Mueva el congelador 
+de cualquier superficie 
+u objeto con el que esté 
+haciendo contacto.
+  Patas niveladoras 
+desajustadas.
+Ajuste las patas 
+niveladoras, garantizado 
+que el producto este 
+bien soportado y 
+nivelado.
+
+18
+Manual de usuario
+Congelador horizontal
+Los productos alma-
+cenados no están 
+lo suficientemente 
+congelados
+El control del congelador 
+está posicionado 
+en las funciones 
+de conservador 
+(Refrigerar).
+Por favor verificar que la 
+posición de temperatura 
+en el control sea la 
+adecuada.
+La puerta ha estado 
+abierta mas del tiempo 
+debido.
+No deje la puerta abierta 
+por periodos mayores a 
+1 minuto.
+Una gran cantidad 
+de comida ha sido 
+almacenada en las 
+últimas 24 horas.
+Ajuste el control de 
+temperatura a un nivel 
+más alto.
+El aparato está 
+demasiado cerca de 
+una fuente de calor.
+Ubique el congelador 
+de acuerdo a las 
+recomendaciones 
+descritas en este 
+manual.
+Otras situaciones
+Las partes frontales y laterales del congelador están tibias o calientes
+ • Este comportamiento es normal, pues el líquido refrigerante circula 
+por tuberías que están en contacto con las superficies externas del 
+congelador cuando esta a alta temperatura.
+La puerta no se abre fácilmente
+ • Cuesta abrir la puerta cuando la cierra y la vuelve a abrir inmediata-
+mente. La diferencia de presión hace que entre aire cálido. En dicho 
+caso espere un minuto antes de abrir.
+Se oye un sonido como si fluyera agua en el congelador
+ • Cuando el compresor empieza a funcionar o se detiene, el refrigeran-
+te que circula por las tuberías puede hacer dicho sonido.
+Se oyen sonidos al interior del congelador
+ • Las piezas internas se contraen y/o se expanden a causa de los cam-
+bios de temperatura. Cuando se enfría el interior o cuando se abre la 
+puerta se pueden producir dichos sonidos. 
+Aparece condensación o escarcha en las superficies de las paredes y/o 
+los contenedores de alimentos que se encuentran en el congelador.
+Se puede producir escarcha y/o condensación en los siguientes casos:
+ • Cuando hay una elevada temperatura y/o humedad alrededor del 
+congelador.
+ • Cuando la  puerta están abiertas demasiado tiempo.
+ • Cuando los alimentos con un alto contenido en agua se guardan 
+destapados y sin envolver.
+Tabla 3.
+
+19
+
+Llámanos gratis desde tu celular al #466 
+Comercializado por:
+INDUSTRIAS HACEB S.A
+Colombia
+Autopista Norte Calle 59 No. 55-80 km. 13,
+Ecuador
+Av. de las Américas, Aeropuerto  José Joaquín de Olmedo,
+Centro Comercial Aeroplaza, Local No.7
+Línea de servicio/Customer service line: 1800042232 Guayaquil
+Copacabana, Antioquia.
+www.haceb.com
+Correo electrónico: atencionpqr@haceb.com
+www.haceb.com
+REV: 02                         30/10/2025                  5003621_MANUAL USUARIO COH NIEVE 145 CE BL REV01

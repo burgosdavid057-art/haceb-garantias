@@ -1,0 +1,1407 @@
+MANUAL DE USUARIO HACEB
+Aplica a las referencias: 9002739, 9002923
+Productos: Nevera Haceb Frost 220 Litros Manija Integrada Titanio; Nevera Haceb Frost 250 Litros Manija Integrada Titanio
+Fuente: https://stmanualesdigitalesprod.z13.web.core.windows.net/DI/Manuales_Usuario/1011166_MANUAL%20DE%20USUARIO.pdf
+======================================================================
+
+Lea detenidamente estas instrucciones de 
+uso e instalación antes de encender u 
+operar su producto y guárdelas como 
+referencia para el futuro.
+www.haceb.com
+Manual
+de usuario
+refrigerador
+con escarcha
+Modelos
+H6161FT22 / H6251FT22 
+H6161FT25 / H6251FT25
+
+Manual de usuario
+refrigerador con escarcha
+1
+2
+CONTENIDO
+TIPS DE BUEN USO ....................................................................................................................3
+GARANTÍA (APLICA SÓLO PARA COLOMBIA) 3
+PREVENCIÓN Y CUIDADOS 6
+GLOSARIO 8
+PRECAUCIONES DE SEGURIDAD 9
+DESCRIPCIÓN DEL PRODUCTO Y SUS PARTES 10
+KIT ACCESORIOS - REFRIGERADORES CON ESCARCHA 14
+INSTALACIÓN 19
+CONEXIÓN ELÉCTRICA 21
+OPERACIÓN Y FUNCIONAMIENTO 22
+LIMPIEZA 26
+ASPECTOS IMPORTANTES 29
+SOLUCIONES ANTES DE LLAMAR A SERVICIO TÉCNICO 31
+TIPS DE BUEN USO
+ • Lea con atención las recomendaciones de uso y mantenimiento del manual.
+ • Verifica que las condiciones eléctricas de tu domicilio cumplan con las recomendaciones 
+del manual.
+ • No usar extensiones eléctricas. 
+ • No compartir el toma corriente con otros equipos eléctricos.
+ • No ubique sobre la nevera o cerca de ella elementos inflamables, veladoras tradicionales 
+y/o eléctricas.
+ • T enga precaución al realizar aseo en la parte posterior de la nevera para no deteriorar co-
+nexiones u otros elementos.
+
+3
+2
+GARANTÍA (APLICA SÓLO PARA COLOMBIA)
+1. Fabricante, descripción, vendedor, teléfono y fecha de compra: determinados en la factura 
+de venta.
+2. Identificación del producto garantizado: En la placa de especificaciones que posee el producto.
+3. En caso de reventa del refrigerador, el periodo de validez de la garantía no sufrirá renovación 
+o alteración alguna. Así mismo el Servicio directo de Fábrica o sus T alleres Autorizados, podrán 
+efectuar una revisión técnica del refrigerador previa a la orden de reparación y/o sustitución del 
+mismo.  Se advierte que la sustitución del producto solo procederá en los casos previstos en 
+la Ley.
+4. La garantía en el compresor y en los demás componentes que Haceb está ofreciendo se 
+refiere al buen funcionamiento del sistema de refrigeración y a la parte interna. Así mismo, 
+para el aplique decorativo ubicado externamente en las puertas de su refrigerador (aplica para 
+algunas referencias) la garantía es de un (1) año cubriendo decoloración, pérdida del adhesivo, 
+amarillamiento y corrido del color; sí y sólo sí la limpieza del adhesivo se realiza con un paño 
+húmedo (sólo con agua), no se usan detergentes ni abrasivos y el refrigerador no se encuentra 
+expuesto a los rayos solares.
+Garantía del producto
+El producto cuenta con un (1) año de garantía legal en todos sus componentes a partir de la 
+fecha de entrega por parte del establecimiento comercial. La garantía cubre cualquier falla que 
+se presente en la Nevera, causada por defectos de fabricación o daños en los materiales utiliza-
+dos, de acuerdo con las indicaciones del Manual. La garantía no tiene costo alguno y es aplicable 
+siempre y cuando el producto se destine para uso doméstico.
+Las solicitudes de garantía deben realizarse directamente al servicio directo de fabrica – Servicio 
+Haceb – en los canales indicados en este Manual. Estos canales son válidos para Colombia, en 
+otros países, por favor consulte a su distribuidor, o almacén vendedor.
+Garantía Suplementaria
+Para las líneas 611 CE en los modelos H6161FT22 y H616FT25, se otorga una garantía su -
+plementaria a la legal sobre el componente Compresor (consulta la referencia de tu Nevera 
+en la T abla 3). Esta garantía suplementaria amplia y mejora la cobertura de la garantía legal de 
+manera gratuita. Dicha garantía es la siguiente y está regida por las condiciones que se indican 
+a continuación:
+Garantía Suplementaria del compresor:  Se otorga una garantía suplementaria sobre el 
+componente “Compresor” del producto, por un periodo de 9 años, contados a partir de la 
+fecha de finalización de la garantía legal del producto.
+Términos y condiciones de la garantía suplementaria:
+1. La garantía suplementaria otorgada sobre el Compresor incluye: 
+ • La reparación de este componente, en caso de daño o falla del mismo, durante el tér -
+mino otorgado de garantía suplementaria. Si al momento de la reparación se observan 
+fallas en componentes o repuestos diferentes al Compresor, la reparación o cambio de 
+estos debe ser asumido por el consumidor, así como la mano de obra.
+ • En caso de que el Compresor no sea reparable y deba ser cambiado, en virtud de la 
+garantía suplementaria otorgada, Haceb realizará la entrega de un nuevo Compresor de 
+conformidad con las condiciones estipuladas en el numeral (3) tercero siguiente.
+La mano de obra asociada al cambio del Compresor, cuando el cambio se realice por parte de 
+Haceb, deberá ser asumida por el consumidor, así como cualquier repuesto adicional que deba 
+repararse o cambiarse en estos casos. Adicionalmente, el consumidor deberá asumir cualquier 
+otro costo o gasto asociado a la sustitución del Compresor.
+
+Manual de usuario
+refrigerador con escarcha
+1
+4
+¡Importante! Se recomienda al consumidor realizar el cambio del Compresor con el ser -
+vicio directo de fábrica de Haceb – Servicio Haceb – o en su defecto con personal experto 
+y calificado para la manipulación y cambio de este tipo de repuestos en Neveras. La garantía 
+suplementaria no cubre daños al repuesto o producto por parte de personal ajeno a Haceb.
+2. Término: La garantía suplementaria tendrá un término de vigencia único y en ningún caso se 
+renovará, ni siquiera cuando haya cambios o reparaciones del Compresor. En ese sentido, cuando 
+haya un cambio del Compresor, el nuevo compresor entregado únicamente tendrá una garantía 
+correspondiente al tiempo que reste a los años de garantía suplementaria inicialmente otorgados. 
+A modo de ejemplo, si el Compresor (que tiene 10 años de garantía total: 1 año de garantía legal 
++ 9 años de garantía suplementaria) llegase a dañarse a los 8 años de comprado el producto, el 
+Compresor nuevo que sea cambiado o entregado al consumidor, únicamente tendrá dos años 
+restantes de garantía suplementaria.
+A la garantía suplementaria restante se le aplicarán las mismas condiciones indi-
+cadas en el presente Manual.
+3. Condiciones para que aplique la garantía suplementaria:
+a.  El consumidor deberá devolver el Compresor que presente la falla a Haceb. No se entregará 
+el nuevo componente a menos que el anterior haya sido devuelto.
+b.  La falla que presente el Compresor deberá estar originada en la calidad del repuesto. Haceb no 
+se hace responsable por los daños causados por uso inadecuado del consumidor, mantenimiento 
+incorrecto o daños de terceros.
+4. Exclusión de la responsabilidad de Haceb: Haceb no se hace responsable por los 
+daños que se causen en el producto o en el Compresor por reparaciones inadecuadas de 
+terceros. Así como por cualquier daño directo, indirecto o consecuencial causado por un pro -
+cedimiento incorrecto por parte de personal ajeno a Haceb.
+4- EXCLUSIONES DE LA GARANTÍA
+ • Cuando el refrigerador hubiera sido utilizado en condiciones distintas a las normales. (El 
+refrigerador no es para uso industrial o comercial).
+ • Cuando el refrigerador no hubiera sido instalado u operado de acuerdo con el Manual de 
+Usuario.
+ • Cuando el refrigerador rotulado con un voltaje nominal de 115V , opera por fuera del rango 
+de 108 a 127 voltios.
+ • Cuando el refrigerador rotulado con un voltaje nominal de 220V ó 230V , opera por fuera 
+del rango de 210 a 240 voltios.
+ • T odo tipo de daño causado por sobrecargas de la red eléctrica usada para la alimentación 
+del refrigerador.
+ • Cuando el refrigerador ha sido dañado por fenómenos de la naturaleza como: T erremotos, 
+inundaciones, tormentas o descargas eléctricas, siniestros, temblores, etc. O por el deterio-
+ro causado con el mal uso o mal trato que le de el usuario al producto.
+ • Daño en el producto por Intervención o instalación técnica del refrigerador por personal 
+diferente al Servicio Directo de Fábrica,T alleres Autorizados o el comercializador.
+ • El producto presenta modificaciones o eliminación no autorizadas en la placa de 
+especificaciones.
+ • Por la alteración o falsedad en relación con la información suministrada en este manual de 
+usuario.
+ • Por el vencimiento del término de la garantía.
+
+5
+2
+ • El producto presenta el número de serie alterado ó removido.
+ • Artículo desconectado a la fuente de voltaje.
+ • Bombillo quemado o flojo posterior a su instalación.
+ • Cierre magnético con ajuste excesivo (adherencia), para esto se debe esperar como míni -
+mo 20 segundos entre apertura de puertas.
+ • Conexiones eléctricas flojas o sueltas, después de un mes de uso.
+ • Presenta fuga de agua por falta de mantenimiento en el sifón.
+ • Calentamiento del compresor, condensador, separador metálico y laterales. Esto es normal.
+ • Manguera de desagüe obstruida por objetos extraños y por no realizar mantenimientos 
+preventivos.
+ • Oxidación causada por golpes, rayas o producto expuesto a ambientes salinos y/o con 
+humedad relativa por encima del 70%.
+ • Problemas causados por operaciones o usos inadecuados, en forma incorrecta y/o diferente 
+a lo especificado en el manual de usuario.
+ • Problemas causados por transporte inapropiado del equipo por terceros.
+ • Problemas causados por la invasión de cuerpos extraños al producto como insectos, rato -
+nes, similares, o falta de limpieza del producto.
+ • Problemas causados por condiciones accidentales o provocadas como incendios, fluctuacio-
+nes de voltaje, vandalismo, robo o similares.
+ • Problemas asociados con nivelación del producto. Este debe ser realizado por el usuario, 
+el manual lo especifica.
+ • Problemas con instrucciones de funcionamiento tales como: Poco frío en conservador que 
+este asociado a manejo de perilla y de tarjeta, condensadores poco ventilados, obstrucción 
+de las salidas y retornos de aire, puertas mal ajustadas y ausencia total de frío por manejo 
+de perilla o falta de voltaje.
+ • Ruidos asociados con el normal funcionamiento de los componentes del sistema funcional 
+del producto.
+ • Mal olor y sabor de los alimentos por causas asociadas a derrames y productos refrigerados 
+descubiertos.
+ • Por condensación interna que estén asociados a tiempos excesivos de apertura de puertas, 
+alimentos no envueltos, descubiertos o calientes.
+ • Las puertas superior e inferior de su refrigerador tienen topes que limitan su grado de 
+apertura. Si alguna de las puertas es sometida a aperturas bruscas que venzan (deformen 
+permanentemente) estos topes, los complementos plásticos de las puertas pueden sufrir 
+daños que no son cubiertos por la garantía.
+PROCEDIMIENTO PARA HACER EFECTIVA LA GARANTÍA:
+Cuando el comprador o usuario considere que ha ocurrido alguno de los eventos amparados 
+por este manual de usuario, comuníquese desde su celular al #466 (Aplica para los operadores 
+Claro, Movistar y Tigo). En estas líneas se le darán indicaciones del procedimiento a seguir y los 
+sitios de operación o talleres autorizados.
+DECLARACIÓN DEL TIEMPO DE SUMINISTRO DE RESPUESTOS: 
+La disponibilidad de repuestos está garantizada por un período de cinco (5) años, a partir de la  
+fabricación del último lote según el serial.
+
+Manual de usuario
+refrigerador con escarcha
+1
+6
+SEÑOR USUARIO: Para la prestación del servicio en garantía se verificará el serial que está 
+dispuesto en la placa de especificaciones del producto.
+ADVERTENCIA:  Las visitas de nuestros técnicos por causas injustificadas, dan lugar al pago 
+por parte del usuario del valor correspondiente al transporte y tiempo del técnico. Rogamos 
+por lo tanto, antes de solicitar nuestro servicio, comprobar todos los puntos descritos en el 
+Manual de Instrucciones.
+NOTA IMPORTANTE: Para más información y activación de su garantía visita la página 
+www.haceb.com.
+PREVENCIÓN Y CUIDADOS
+ • Si nota que con la puerta del conservador abierta la luz no enciende, verifique que el bombi-
+llo se encuentre ajustado roscándolo hacia la derecha hasta el tope, si la falla persiste, aplique 
+el procedimiento de cambio de bombillo de iluminación. Ver manual de usuario.
+ • Evite aperturas de puertas prolongadas con su nevera encendida (superiores a 10 min), 
+esto afecta el funcionamiento del aparato, genera goteo de agua en varias zonas de su 
+refrigerador.
+ • Si nota algún deterioro en los sellos magnéticos instalados en las contrapuertas, debe solici-
+tar inmediatamente un servicio técnico para su remplazo, ya que esto disminuye la capaci -
+dad de su equipo, y aumenta el consumo de energía.
+ • No utilice papel aluminio o plástico para recubrir las parrillas o entrepaños, pues se restringe 
+o elimina la circulación del aire.
+ • No trate de desprender con ayuda de palancas, cuchillos u otras herramientas, las cubetas 
+con hielo o alimentos que se han adherido al congelador, pues podría provocar daño en 
+el circuito de refrigeración. (Si se llega a producir daños en circuito de refrigeración debe 
+desconectar y solicitar servicio de inmediato; la reparación no es cubierta por la garantía).
+ • No introduzca alimentos o líquidos descubiertos o calientes en su refrigerador, para su con-
+servación es importante guardarlos en recipientes con tapas ajustadas cubiertos con papel 
+aluminio o película plástica para evitar la contaminación.
+ • No almacene en el congelador, o compartimientos de baja temperatura, líquidos en envases 
+herméticos, o bebidas efervescentes como gaseosas, cervezas, etc. Éstos pueden reventar-
+se ocasionando daños al equipo o accidentes.
+ • La elevación de la temperatura en los alimentos congelados durante una descongela -
+ción provocada por una falla o interrupción prolongada de la energía, reduce su vida de 
+almacenamiento.
+ • No exceder el tiempo de almacenamiento recomendado por los fabricantes para comidas 
+rápidas congeladas en compartimientos marcados con el símbolo de: (Una estrella) y (dos 
+estrellas).
+ • Verifique siempre que las puertas estén completamente cerradas para evitar un funciona -
+miento irregular.
+ • No coloque objetos en el condensador (parrilla negra ubicada en la parte de atrás del refri-
+gerador), esto evita la disipación del calor y disminuye la eficiencia del refrigerador.
+ • Los recipientes que contengan líquidos y que se colocan al interior del refrigerador sin tapar, 
+pueden generar condensación o gotas de agua al interior de su refrigerador.
+ • Los alimentos que inician su proceso de descomposición pueden deteriorar otros alimen -
+tos, favor no almacenar dentro de su refrigerador.
+
+7
+2
+ • Alimentos como carnes frías, embutidos y quesos se deben almacenar en bolsas plásticas 
+para aumentar su tiempo de conservación.
+ • T enga en cuenta: El almacenamiento de alimentos congelados por más de 6 semanas tiene 
+como consecuencia la pérdida del valor nutricional.
+ • T ener presente que los entrepaños del conservador no deben cargarse con un peso supe-
+rior a los 18 Kg, y la bandeja de enfriamiento/Extra conservación con más de 5 Kg.
+ • En la placa también se especifica la cantidad de gas refrigerante que tiene el refrigerador en 
+su sistema de refrigeración, este gas (R600a) es inflamable, no obstante, el diseño y la can -
+tidad máxima permitida por la normatividad (150g) garantizan que no se tengan problemas 
+de seguridad con el usuario en caso que se presente algún daño o fuga en el sistema.
+ IMPORTANTE
+Lea cuidadosamente este manual antes de hacer uso de su refrigerador. En el encontrará reco-
+mendaciones para su correcta instalación, buen manejo y cuidado, así, podrá conocer y operar 
+su refrigerador, obteniendo un óptimo desempeño.
+El producto que acaba de adquirir se encuentra diseñado para uso doméstico. Una aplicación 
+diferente (industrial o comercial) altera el correcto funcionamiento del refrigerador e invalida el 
+reclamo de la garantía.
+Definición de uso doméstico:
+Es el uso normal al que se ve expuesto un equipo eléctrico que tiene como finalidad satisfacer 
+las necesidades de conservación de alimentos de una familia. No se recomienda para ser usada 
+en tiendas, almacenes, refrigeración de producto para la venta de alta rotación, cocinas indus -
+triales y demás establecimientos en los que se deba satisfacer las necesidades de conservación 
+de un grupo de personas que en su número es superior al recomendado en la tabla 1.
+Número de personas en la familia Litraje recomendado
+De 1 a 2 Litraje igual o mayor a 50 litros
+De 1 a 5 Litraje igual o mayor a 150 litros
+De 1 a 8 Litraje igual o mayor a 250 litros
+De 1 a 10 Litraje igual o mayor a 350 litros
+T abla 1. Recomendaciones de litraje según número de personas en la 
+familia
+
+Manual de usuario
+refrigerador con escarcha
+1
+8
+GLOSARIO
+Condensación: Proceso mediante el cual el aire a baja temperatura cambia a estado líquido al 
+tener contacto con una superficie de mayor temperatura.
+Congelador: Compartimiento destinado para el almacenamiento de alimentos congelados, 
+que se clasifica de acuerdo a su temperatura en compartimiento 1, 2 ó 3 estrellas.
+Compartimiento una estrella: T emperatura en el congelador (T emperatura de almacena-
+miento) ≤-6°C.
+Compartimiento dos estrellas: T emperatura en el congelador (T emperatura de almacena-
+miento) ≤-12°C.
+Compartimiento tres o cuatro estrellas: T emperatura en el congelador (T emperatura de 
+almacenamiento) ≤-18°C.
+Condensador: Componente funcional del sistema de refrigeración en el cual se produce el 
+intercambio térmico entre el refrigerante y el ambiente, se caracteriza por ser la única tubería 
+expuesta en el exterior del refrigerador, y siempre se encuentra ubicado en la parte posterior.
+Conservador: Compartimiento diseñado para mantener temperaturas de 0°C a 8°C, bajo 
+condiciones normales de temperatura ambiente según la clasificación climática del producto, 
+esto puede variar de acuerdo a la cantidad de alimentos almacenados y/o la cantidad de aper -
+tura de puertas.
+Descongelación semiautomática: Acción que inicia manualmente y termina automática -
+mente y mediante la cual se descongela la escarcha presente en el evaporador sin necesidad de 
+desconectar el refrigerador del toma corriente.
+Dispositivo de control de temperatura: Dispositivo que regula automáticamente el fun -
+cionamiento del sistema de refrigeración de acuerdo con la temperatura límite que puede al -
+canzar el congelador.
+Escarcha: Se denomina escarcha a la capa de hielo formada al enfriar el vapor de agua conte-
+nido en el aire hasta llevarlo al estado sólido. Generalmente, la escarcha se forma sobre superfi-
+cies sólidas que se han enfriado lo suficiente como para provocar el cambio de estado del agua.
+Evaporador: Componente funcional del sistema de refrigeración en el cual se produce el 
+intercambio térmico entre el espacio a refrigerar (congelador) y el gas refrigerante.
+Placa de especificaciones: Etiqueta que se encuentra en el interior del refrigerador, que 
+contiene información técnica del producto. 
+Refrigerador tipo “T”:  Refrigerador diseñado para trabajar en ambientes tropicales con 
+temperaturas entre +16°C y +43°C.
+Sistema convencional o con escarcha: sistema en el cual la escarcha se forma directamen-
+te sobre el evaporador y se debe retirar realizando un apagado del refrigerador o una acción 
+semiautomática de descongelación.
+
+9
+2
+PRECAUCIONES DE SEGURIDAD
+ • Antes de utilizar este producto, lea atentamente todas las instrucciones de seguridad.
+ • Antes de realizar la limpieza o mantenimiento asegúrese de desconectar el producto del 
+tomacorriente o red eléctrica.
+ • Si el cable de suministro eléctrico está dañado, se sugiere ser reemplazado por personal 
+autorizado de Industrias Haceb S.A.
+ • Nunca deje que se presione el cable de energía por el mismo congelador o por otros obje-
+tos pesados. Nunca doble el cable excesivamente. Si el cable se daña o se pela, puede ser 
+una causa de incendio y descarga eléctrica.
+ • No comparta el tomacorriente con otros electrodomésticos o dispositivos eléctricos.
+ • No hale el cable para desconectar el producto del tomacorriente; sujete bien el enchufe.
+ • Nunca use y almacene gases y/o líquidos inflamables en el congelador o cerca de éste.
+ • No almacene medicinas o muestras de investigación académica que requieran un control 
+de temperatura estricto.
+ • Nunca inserte sus dedos o manos en la parte inferior del congelador, especialmente las par-
+tes laterales, podría lastimarse con bordes metálicos afilados o recibir una descarga eléctrica.
+ • Asegúrese de verificar el ajuste del cierre magnético de las puertas. Situaciones como entra-
+das de aire al interior del producto, van en desventaja con el funcionamiento del producto.
+ • Su congelador está diseñado para soportar una humedad relativa en el ambiente del 72% 
+sin presentar escurrimiento de agua en la parte externa. Si la humedad relativa del ambiente 
+supera este valor se puede presentar escurrimiento de agua. Se considera normal debido a 
+que si el aire con humedad entra en contacto con una superficie a una temperatura inferior 
+a la temperatura a la cual se encuentra el aire, generará que éste se enfríe y la humedad en 
+forma de vapor cambiará a estado líquido, formando gotas sobre las superficies.
+ • No almacene alimentos que inician su proceso de descomposición, pueden deteriorar 
+otros alimentos.
+ • Los recipientes que contengan líquidos y que se colocan al interior de su congelador sin 
+tapar, pueden generar condensación o gotas de agua al interior de éste.
+ • No coloque botellas ni recipientes de vidrio en el congelador. Éstos pueden romperse y 
+causar lesiones.
+ • Este producto no debe ser usado y manipulado por niños sin la supervisión de un adulto. 
+T ampoco permita que los niños se cuelguen de las puertas del congelador, este podría vol-
+carse y provocar accidentes.
+ • No repare, desmonte o haga modificaciones al producto por su cuenta, existe riesgo de 
+accidentes o causar daños en el congelador.
+ • Nunca consuma comida en descomposición. Los alimentos almacenados por mucho tiem-
+po pueden deteriorarse o descomponerse.
+ • Cundo se deshaga o deseche su congelador viejo, hágalo responsablemente para que se 
+gestione como residuo y no lo deje abandonado, alguien podría quedar atrapado y asfixiarse.
+
+Manual de usuario
+refrigerador con escarcha
+1
+10
+ IMPORTANTE
+La rotura de tubos y cables o cualquier otro daño accidental, requiere de reparación que no 
+está cubierta por la garantía.
+T ransporte del refrigerador
+Cuando tenga que transportar su refrigerador debe ejecutar los siguientes pasos:
+ • Retirar todos los alimentos.
+ • Asegurar los accesorios internos.
+ • Fijar las puertas con cinta adhesiva para evitar que se 
+abran en el transcurso del acarreo.
+ • T ransportar su refrigerador en posición vertical, nunca 
+en forma horizontal, ya que el aceite del compresor 
+puede obstruir el circuito del gas. (Figura 1).
+ • Después de transportar su refrigerador, dejar reposar 
+por espacio de cuatro horas aproximadamente antes 
+de conectar.
+T ransporte manual
+ • Inclinar levemente de costado (hacia el lado contrario 
+de las bisagras de las puertas). (Figura 2).
+ • No sujete de las manijas, ni del condensador ni del 
+compresor.
+ • No sostenga de las puertas entreabiertas, pues provo-
+cará daño a las bisagras.
+ • T ener especial cuidado con los cables y tubos ubica-
+dos en la parte trasera, especialmente con el tubo más 
+delgado, llamado capilar.
+ ADVERTENCIA
+Los daños ocasionados por transporte incorrecto no los cubre la garantía.
+DESCRIPCIÓN DEL PRODUCTO Y SUS PARTES
+Para entender cómo se instala, cómo se pone a funcionar y qué medidas hay que tener pre -
+sentes para obtener un óptimo desempeño de su refrigerador, es muy importante que conozca 
+cada una de las partes que lo componen. (Ver figura 3, a la 9).
+NOTA: Las imágenes contenidas en este manual pueden ser diferentes al produc-
+to original y su único objetivo es ayudar a mejorar la comprensión del contenido 
+escrito del mismo.
+Transporte
+correcto
+Transporte incorrecto
+Figura 1
+Figura 2
+
+11
+2
+ IMPORTANTE
+Para tener claridad sobre los tipos de accesorios y las cantidades que tiene el Refrigerador que 
+acaba de adquirir, por favor remitirse a la página con la tabla de CANTIDAD DE ACCESORIOS. 
+Allí se describen las diferentes referencias de refrigeradores y los accesorios que cada una tiene.
+Aplica para modelos H6161FT22, H6261FT22, H6161FT25.
+11
+12
+14
+15
+18
+16
+17
+13
+4
+5
+6
+7
+8
+9
+10
+3
+1
+2
+Parte interior 1 puerta (ver figura 3).
+1. Compartimiento congelador
+2. Cubetas hielo
+3. Puerta evaporador
+4. Bandeja de enfriamiento/Extra Conservación
+5. Caja de control
+6. Entrepaños del conservador
+7. Compartimiento conservador 
+8. T apa bandeja de vegetales
+9. Bandeja de vegetales con control humedad
+10. T ornillo nivelador
+11. Manija
+12. T anque dispensador 
+13. T apa lácteos
+14. Cierre magnético
+15. Contra puerta 
+16. Porta huevos 
+17. Anaqueles 
+18. Anaquel multiusos
+Figura 3
+
+Manual de usuario
+refrigerador con escarcha
+1
+12
+ Parte interior (modelos con 1 puerta) (ver 
+figura 4).
+1. Compartimiento congelador
+2. Puerta evaporador
+3. Bandeja de enfriamiento/Extra Conservación
+4. Caja de control
+5.  Entrepaños del conservador
+6. Compartimiento conservador 
+7.  T apa bandeja de vegetales
+8.  Bandeja de vegetales con control humedad
+9.  T ornillo nivelador
+10. Manija
+11. Anaqueles
+12. T apa lácteos
+13. Cierre magnético
+14. Contra puerta
+Parte exterior (ver figura 5).
+19. Complemento manija
+20. T apa bisagra
+21. Dispensador de agua 
+22. Puerta
+23. Gabinete metálico
+Parte posterior (ver figura 6).
+24. Espaldar
+25. Condensador
+26. Filtro secador
+27. Intercambiador
+28. Capilar
+29. Base motor
+30. Compresor
+1
+2
+3
+5
+6
+7
+8
+9
+10
+11
+12
+14
+134
+19
+20
+21
+22
+23
+Figura 4
+Figura 5
+Figura 6
+24
+25
+26
+27
+28
+29 30
+28
+Detalle del 
+Capilar
+
+13
+2
+ACCESORIOS
+LINEA L611 CON ESCARCHA
+MODELO H6161FT22 H6251FT22 H6161FT22 H6161FT25 H6251FT25
+REFERENCIA
+NEV 220 CE TI R2
+N M 220 CE 1P DA TI MI EX
+N M 220 CE 1P DA NI ECU
+N 220 CE PLOMO
+N M 220 CE 1P DA INOX MI EX
+N M 220 CE 1P DA NE MI EX
+N M 220 CE 1P DA TI MI 220V EX  
+NEVERA M 220 CE 1P DA TI 220V MI ARG
+N M 212 CE 1P DA TI MI EX
+NEV 250 CE TI R2
+N M 250 CE 1P DA TI MI EX
+N 250 CE PLOMO
+N M 250 CE 1P TI MI 220V EX
+TIPO MANIJA N220 MI N212 MI N250 MI
+1 ENTREPAÑO CONGELADOR 0 0 0 0 0
+2 ENTREPAÑO CONSERVADOR 1 1 1 2 2
+3 PERFIL MULTIUSOS 0 0 0 0 0
+4 CUBETAS PLÁSTICAS 1 1 0 2 2
+5 ENTREPAÑO EN ALAMBRÓN 
+CONSERVADOR 0 0 0 0 0
+6 BANDEJA DE VEGETALES  1 1 1 1 1
+7 TAPA BANDEJA VEGETALES 1 1 1 1 1
+8 BANDEJA DE ENFRIAMIENTO/ EXTRA 
+CONSERVACIÓN 1 1 1 1 1
+9 PUERTA EVAPORADOR 1 1 1 1 1
+10 DISPENSADOR DE AGUA 1 1 1 1 1
+11 ANAQUEL PTA INF/SUP N611 2 2 1 2 2
+12 ANAQUEL PEQ CONSERVADOR 1 1 0 1 1
+13 TAPA LÁCTEOS 2 2 2 2 2
+14 PORTA HUEVOS COLOMBIA 0 1 0
+1
+0
+1
+15 PORTA HUEVOS EXPORTACIONES 1 1 1
+T abla 2
+
+Manual de usuario
+refrigerador con escarcha
+1
+14
+KIT ACCESORIOS - REFRIGERADORES CON ESCARCHA
+Lea cuidadosamente este instructivo antes de hacer uso de su Refrigerador; en el encontrará 
+recomendaciones para la correcta instalación, el ensamble según sea el caso y el nombre o 
+descripción de las diferentes piezas que conforman este Kit.
+ IMPORTANTE
+Las piezas y cantidades de cada Kit de Parrilla varia de acuerdo a la referencia de su Refrigerador. 
+Ver tabla 2 de cantidad de accesorios.
+Piezas que conforman el Kit de Accesorios
+T apa bisagra
+Cubierta o tapa que se utiliza para proteger la bisagra 
+de la puerta superior. Instalarla en la parte superior 
+del refrigerador a presión como se muestra en la 
+(Figura 11).
+ENTREPAÑO 
+CONSERVADOR 
+Curva trasera
+Curva 
+delantera 
+PORTAHUEVOS Si es en 
+alambrón:
+Si es 
+plástica:
+ENTREPAÑO 
+CONGELADOR 
+TAPA
+BISAGRA ANAQUEL 
+CONTRAPUERTA
+Figura 10
+ DIMENSIONES GENERALES 
+(SIN EMPAQUE)
+ DIMENSIONES POR MODELO
+H6161FT22 
+H6261FT22
+H6161FT25
+Manija Integrada Manija Integrada
+Alto (cm) 123,7 135,2
+Ancho (cm) 61,2 61,2
+Profundo (cm) 69,2 69,2
+ T abla 3
+Figura 11
+TAPA
+BISAGRA
+
+15
+2
+Entrepaño conservador (En alambrón o en poliestireno cristal, dependiendo del modelo). 
+Removibles para ser ubicados en las diferentes costillas o tabiques del compartimiento conser-
+vador de acuerdo a sus necesidades, excepto el caso del entrepaño en alambrón, el cual se 
+debe ubicar siempre en el primer nivel del conservador, debajo de la bandeja de enfriamiento/
+Extra Conservación. (Figura 12 - 13).
+Si es en 
+alambrón:
+Curva 
+trasera
+Curva
+delanteraSi es 
+plástica:
+ENTREPAÑOS CONSERVADOR
+   Figura 12
+I O II
+Figura 13
+T apa bandeja vegetales
+Entrepaño que se ubica sobre las costillas situadas 
+encima de la bandeja de vegetales, con el fin de faci-
+litar la conservación de las frutas y verduras. Su insta-
+lación se debe hacer teniendo presente que la curva 
+trasera quede al fondo del refrigerador (Figura 14).
+Portahuevos  
+(No aplica para modelos H6161FT22 / H6261FT22)
+Bandeja para almacenar los huevos en cualquiera de 
+los compartimientos de la contrapuerta al interior de 
+su Refrigerador (Figura 15).
+Figura 14
+Curva
+trasera
+Frente
+Figura 15
+
+Manual de usuario
+refrigerador con escarcha
+1
+16
+Partes del dispensador de agua
+ IMPORTANTE
+ • En caso de no usar la parrilla inferior del congelador para la ubicación de los alimentos puede 
+presentarse goteo de agua en la bandeja de enfriamiento/Extra Conservación. 
+ • Las cubetas de hielo deben ubicarse debajo de  la parrilla inferior del congelador para ace -
+lerar el proceso de fabricación de hielo.
+Compartimiento congelador
+Llamado también compartimiento de almacenamiento de productos congelados, según su cla-
+sificación (una o dos estrellas) puede alcanzar temperaturas entre -6°C y -12°C (Figura 17).
+Entrepaño congelador
+Para ser ubicado en los tabiques del compartimiento congelador y se puede remover de acuer-
+do a sus necesidades (Figura 18).
+Figura 17 Figura 20
+Figura 16
+Tapa base
+dispensadora
+Válvula
+Base 
+dispensador
+Tanque
+dispensador
+Tapa
+tanque
+Tapa tanque
+auxiliar
+
+17
+2
+Compartimiento conservador
+Compartimiento para almacenamiento de alimentos 
+frescos, diseñado para mantener un ambiente ade -
+cuado donde se conserven los alimentos por varios 
+días de acuerdo con su naturaleza, dotado de en -
+trepaños móviles que pueden ubicarse en diferentes 
+posiciones ; éstos no se deben cargar con más de 
+18 Kg  (Figura 19).
+Bulbo sensor
+Se encuentra en la parte superior del conservador, 
+encima de la bandeja de enfriamiento/Extra Conser-
+vación, debe permanecer siempre en su posición 
+original y no puede ser cubierto por ningún tipo de 
+elemento o paquete, ya que esto puede afectar el 
+buen funcionamiento de su refrigerador.
+Caja de control
+Dotada de una perilla con la cual podrá graduar la 
+temperatura interna del producto, allí se ilustran las 
+posiciones de enfriamiento mínima, media y máxi -
+ma, también se encuentra el botón de descongela -
+ción semiautomática (Figura 20).
+Contrapuerta del conservador
+Con diferentes compartimientos diseñados para 
+múltiples usos de almacenamiento, en ella se en -
+cuentra el tanque dispensador (Figura 21).
+T ornillos niveladores
+Ubicados en la parte inferior frontal del refrigerador, 
+permiten la nivelación que éste requiere en el mo -
+mento de ser instalado (Figura 22).
+            Figura 19
+           Figura 20
+           Figura 21
+         Figura 22
+
+Manual de usuario
+refrigerador con escarcha
+1
+18
+Bandeja de vegetales
+Para conservar las frutas y verduras a una tempe -
+ratura apropiada. La bandeja tiene en su superficie 
+frontal superior una perilla de movimiento lateral 
+que pueden abrir o cerrar  completamente los ori -
+ficios del control de humedad, con esta perilla se 
+puede realizar un control de la humedad al interior 
+de su bandeja. Si la perilla cierra las aperturas en la 
+tapa, se cierra la circulación del aire al interior de 
+la bandeja y el volumen de la bandeja conserva la 
+humedad que en ese momento tiene, si los orifi -
+cios del control de humedad permanecen abiertas 
+hay circulación de aire y el volumen de la bandeja 
+pierde humedad. Con este sistema no se garantiza 
+que exista un control de la humedad con el 100% 
+de efectividad, para saber que vegetales y frutas se 
+conservan mejor en ambientes húmedos o en am -
+bientes secos se debe consultar con el proveedor 
+de los alimentos (Figura 23).
+Separador de vegetales (aplica para algunas 
+referencias)
+Sirve para clasificar y optimizar el espacio de la 
+bandeja de vegetales. Instálelo haciendo presión 
+sobre la bandeja de vegetales como se muestra 
+en la (Figura 24).
+ IMPORTANTE
+Los refrigeradores poseen una bandeja con control de humedad, lo que le permitirá conservar 
+mejor sus frutas y vegetales, para lo cual tenga en cuenta lo siguiente:
+ • La bandeja de vegetales con control de humedad cuando está en uso normal con carga en 
+su superficie, debe de permanecer cubriendo la bandeja de vegetales posición para la cual 
+fue diseñada.
+ • Para proporcionar el alto nivel de humedad recomendado para la mayoría de los vegetales 
+se debe cerrar completamente los orificios del control de humedad. Esto puede generar 
+condensación en la tapa bandeja (Ver Figura 23).
+Bandeja de enfriamiento/
+Extra Conservación
+Sirve para almacenar productos cárnicos a tempe -
+raturas entre  2°C y -3°C. Igualmente, sirve como 
+recolectora del agua, producto del proceso de des -
+congelación de su refrigerador. No se debe cargar 
+con más de 5 Kg  (Figura 25).
+        Figura 23
+Derecha
+Accione hacia la derecha para cerrar
+los controles de humedad 
+y para abrirlos hacia la izquierda.
+Izquierda
+       Figura 24
+Atrás
+Frente
+            Figura 25
+
+19
+2
+INSTALACIÓN
+Para obtener un mejor y más eficiente funcionamiento de su refrigerador es importante que 
+tenga en cuenta las siguientes recomendaciones en el momento de realizar la instalación:
+ IMPORTANTE
+Este producto debe ser instalado por personal calificado.
+Recuerde que los daños ocasionados por una instalación inadecuada no realizada por Servicio 
+Técnico Haceb o sus centros autorizados, no están cubiertos por la garantía.
+ • Evite colocar su refrigerador cerca a fuentes de 
+calor como estufas, hornos, calentadores, o ex -
+ponerla a los rayos directos del sol (Figura 26).
+ • Asegúrese de cumplir durante la instalación 
+de este producto con las distancias requeri -
+das para la libre apertura de las puertas co -
+mo lo muestra la figura (Figura 27 y T abla 4).
+Modelo
+Medidas en Centímetros
+X Y Altura*
+H6161FT22  
+H6251FT22 79,2 61,2
+*La altura 
+aplica a las 
+dimensiones 
+sin empaque 
+rotuladas en la 
+tabla 3.
+H6161FT25
+H6251FT25 79,2 61,2
+  X= Profundidad   Y= Ancho
+ • Entre la pared y la  parte posterior de su refrigera-
+dor (condensador), le recomendamos dejar una 
+separación mínima de aproximadamente 10 cm, con 
+el propósito de permitir una correcta evacuación  
+del  calor   que  esta  rejilla  debe  liberar (Figura 28).
+T abla 4
+       Figura 26
+              Figura 27
+X
+Y
+10         cm.
+Pared
+138°
+     Figura 28
+10 cm
+
+Manual de usuario
+refrigerador con escarcha
+1
+20
+ • El piso que va a soportar el refrigerador deberá ser 
+lo suficientemente firme, plano y seco que garanti -
+ce un buen apoyo y permita ajustar los niveladores 
+para que el refrigerador quede estable  (Figura 29).
+ • El refrigerador viene por defecto con el tornillo nivelador plástico completamen -
+te roscado a una altura de 45mm con respecto al suelo, y una inclinación de 2°. Estas 
+especificaciones son las óptimas por diseño, desempeño y seguridad, si el usuario deci -
+de modificar estas dimensiones, lo podrá realizar bajo su responsabilidad (Figura 30).
+ • Si se requiere realizar algún ajuste en la altura del tornillo, simplemente gire manualmente 
+el tornillo en sentido anti horario hasta la posición deseada; siempre y cuando no supere los 
+52 mm de altura total o 3° de inclinación  (Figura 31 y 32). 
+Figura 30
+52 3°
+45 2°
+Figura 32Figura 31
+     Figura 29
+T ornillo nivelador
+
+21
+2
+CONEXIÓN ELÉCTRICA
+Para asegurar un buen funcionamiento del sistema eléctrico de su refrigerador verifique que se 
+cumplan las siguientes condiciones:
+Para refrigeradores que operan a 115 V
+ • Voltaje nominal 115 V . Frecuencia 60 Hz.
+ • T oma-corriente en buen estado.
+ • Para regiones en donde el voltaje varía fuera del rango entre 108 y 127 voltios, puede nece-
+sitarse un regulador de voltaje, Industrias Haceb S.A recomienda usar un regulador de 1000 
+W (para referencias hasta 350 L) y de 1500 W (para referencias 420 L).
+ • El circuito de la instalación deberá estar protegido con un fusible o «Breaker» de 15 A.
+ • Si el cable de alimentación esta dañado, el fabricante o su agente de ventas o una persona 
+igualmente calificada, lo debe remplazar para evitar riesgos.
+ • El cambio del bombillo o tarjeta LED debe ser realizado por parte de Servicio técnico Ha -
+ceb, centro de servicios autorizados o personal calificado. Si el usuario decide realizar este 
+procedimiento es bajo su responsabilidad.
+Para refrigeradores que operan a 220 V
+ • Voltaje nominal 220 V . Frecuencia 60 Hz.
+ • T oma-corriente en buen estado y con puesta a tierra.
+ • Para regiones en donde el voltaje varía fuera del rango entre 210 y 230 voltios, puede 
+necesitarse un regulador de voltaje, el fabricante recomienda usar un regulador de 1000 W 
+(para referencias hasta 350 L) y de 1500 W (para referencias 420 L).
+ • El circuito de la instalación deberá estar protegido con un fusible o «Breaker» de 15 A.
+ • Si el cable de alimentación esta dañado, el fabricante o su agente de ventas o una persona 
+igualmente calificada, lo debe remplazar para evitar riesgos.
+ • El cambio del bombillo o tarjeta LED debe ser realizado por parte de Servicio técnico Ha -
+ceb, centro de servicios autorizados o personal calificado. Si el usuario decide realizar este 
+procedimiento es bajo su responsabilidad.
+ ADVERTENCIA
+ • Los circuitos recargados con varios productos y 
+que además estén construidos con alambre de 
+calibre menor a No 14 pueden presentar fallas 
+eléctricas, que harán funcionar mal su refrige -
+rador provocando fallas en el compresor con 
+pérdida de la garantía por tal concepto (Figura 
+33).
+ • Los refrigeradores convencionales tienen 
+en su parte posterior un cable de color ver -
+de, el cual posee un extremo sin aislamien -
+to, con el fin de que el usuario lo pueda 
+conectar al sistema de puesta a tierra de la re -
+sidencia, esta conexión debe ser realizada por 
+un electricista con el fin de garantizar su eficacia.
+      Figura 33
+  Correcto        Incorrecto
+
+Manual de usuario
+refrigerador con escarcha
+1
+22
+ • En zonas donde la interrupción de energía  sea constante, puede presentarse un mal fun -
+cionamiento y condensación al interior de la bbandeja de enfriamiento/Extra Conservación.
+ IMPORTANTE
+ • No compartir el tomacorriente con otros equipos eléctricos (Ver Figura 33 página 21).
+ • En caso de interrupción frecuente o de variaciones temporales notables en el suministro de 
+energía, es prudente desconectar su refrigerador hasta que se normalice. (La desconexión 
+debe ser mínimo por 8 minutos).
+ •
+OPERACIÓN Y FUNCIONAMIENTO
+Regulación de temperatura
+Su refrigerador sale de la fábrica con la perilla de la caja de control en posición med (ME -
+DIA), es conveniente que la graduación del control de temperatura se haga de acuerdo a sus 
+necesidades:
+Posición “máxima” más frío, posición “mínima” me -
+nos frío (Figura 34).
+Se sugiere el siguiente protocolo para que usted de-
+cida cual es la posición ideal de su refrigerador la cual 
+es propia de cada usuario:
+ • Deje la perilla en la posición que viene de fábrica 
+(posición med). MEDIA (Figura 35).
+ • Cargue su nevera con comida como lo haría 
+usualmente.
+ • Haga uso del refrigerador como lo haría 
+usualmente.
+ • Realice seguimiento al grado de satisfacción de 
+los usuarios del refrigerador (miembros de la 
+familia).
+ • Si el resultado de la encuesta a los usuarios es 
+que el producto se conserva el tiempo necesario 
+y la temperatura en el momento de consumir 
+bebidas y otros alimentos que se consuman fríos 
+es satisfactoria, el refrigerador está en una posi -
+ción ideal de acuerdo a los requerimientos de 
+conservación que se tienen en su hogar.
+ • Si el grado de satisfacción no cumple con lo re -
+querido y el refrigerador se siente caliente o de-
+masiado frío, al punto que los alimentos que se 
+encuentran en el compartimiento para almace -
+namiento de alimentos frescos se congelan, pue-
+de variar la posición de la perilla gradualmente y 
+realizar el procedimiento anterior hasta encon -
+trar la posición ideal.
+              Figura 34
+Menos frio
+Más frio
+            Figura 35
+
+23
+2
+ • Si se percibe el refrigerador muy frío al punto que los alimentos que se encuentran en 
+el compartimiento para almacenamiento de alimentos frescos se congelan, y la posición 
+de la perilla esta en mínima debe de evaluar si el refrigerador esta dimensionado para el 
+uso que se le esté dando, o solicite un servicio por exceso de frío en el conservador.
+Circulación de aire
+Los refrigeradores convencionales están diseñados 
+para que el flujo de aire circule de arriba hacia abajo 
+a través de un espacio ubicado entre la parte poste-
+rior del conservador y los entrepaños tal y como lo 
+muestra la (Figura 36), evite almacenar sus alimen -
+tos de modo tal que obstruya dichos espacios, de lo 
+contrario su refrigerador perderá eficiencia.
+Descongelación semiautomática
+El Refrigerador convencional, cuenta con un sistema 
+de refrigeración en el cual la transferencia de calor 
+o enfriamiento se puede dar por circulación natural, 
+la descongelación del compartimiento para almace -
+namiento de productos congelados se debe reali -
+zar de forma semiautomática. Ver procedimiento a 
+continuación.
+Se debe descongelar el refrigerador cada diez (10) 
+días de funcionamiento continuo, o cuando se ob -
+serve que el nivel de escarcha alcanza la marca ubi -
+cada en la parte posterior del congelador o la cubra 
+en su totalidad (Figura 37), si la escarcha supera este 
+nivel, la eficiencia del refrigerador se verá afectada, y 
+pueden presentarse problemas para abrir la puerta 
+del congelador.
+Procedimiento de descongelación
+ • Retire los productos almacenados en la bandeja 
+de enfriamiento/Extra Conservación y el compar-
+timiento congelador. (Figura 38) estos pueden ser 
+almacenados en los entrepaños del conservador, 
+empacados en recipientes cerrados para evitar 
+derrames producto de la descongelación de los 
+mismos.
+      
+Figura 36
+Figura 37
+Marca de nivel de escarcha
+Compartimiento
+congelador
+Bandeja de
+carnes
+       Figura 38
+
+Manual de usuario
+refrigerador con escarcha
+1
+24
+ • Oprimir el botón ubicado en el centro de la pe -
+rilla de la caja control hasta que haga click y luego 
+cierre la puerta de su refrigerador  (Figura 39).
+ • El tiempo de descongelación del refrigerador va-
+ria según la siguiente tabla:
+T emperatura ambiente Tiempo de descongelación
+Climas fríos y templados inferiores a 32°C 10 horas
+Climas cálidos, superiores a 32°C 8 horas
+T abla 5
+Es posible identificar que el proceso de descongelación ha terminado cuando ocurra alguna de 
+las siguientes situaciones:
+1. Cuando se observe que no hay presencia de escarcha en las paredes del congelador.
+2. Cuando se perciba que el compresor ha 
+comenzado a trabajar nuevamente.
+3. Cuando se perciba que el congelador está 
+enfriando nuevamente.
+ • Luego de terminado el proceso de descongela -
+ción, se deberá retirar con cuidado la bandeja de 
+enfriamiento y botar el agua que se acumuló en 
+ella (Figura 40).
+ • En caso que se haya excedido el nivel de escar -
+cha recomendado para realizar la descongela -
+ción, es posible que presente rebose de agua en 
+la bandeja de enfriamiento/Extra Conservación.
+ IMPORTANTE
+ • Se recomienda llevar a cabo la limpieza del refrigerador en cada proceso de descongelación, 
+de no hacerlo se pueden presentar malos olores.
+ • El refrigerador se encenderá automáticamente luego de terminado el proceso de 
+descongelación.
+Puerta congelador
+Las neveras cuentan con una puerta en el congelador, en climas tropicales con alta humedad y 
+temperatura ambiente, es normal que se observe una leve sudoración (condensación) en dicha 
+puerta, también es normal la presencia de escarcha en los alrededores del marco de la puerta, 
+sin embargo el crecimiento de esta escarcha debe ser controlado por medio de las acciones de 
+descongelación semiautomática cada 10 días, de lo contrario se pueden presentar daños en la 
+puerta no cubiertos por la garantía (Figura 41).
+Botón azul para 
+descongelación semiautomática
+ubicado en la perilla de la caja de control
+           Figura 39
+            Figura 40
+
+25
+2
+Uso del dispensador de agua
+ • Antes de llenar su tanque, asegúrese que éste 
+se encuentre en una posición estable asentado 
+totalmente contra la contrapuerta. (Figura 42).
+ • Deslice la pestaña superior de izquierda a de -
+recha asegurándose de abrir el compartimien -
+to completamente. (Figura 43).
+ • Ingrese el agua potable asegurándose de estar 
+apuntando en la zona requerida, este dispen -
+sador de agua está diseñado para funcionar 
+únicamente con agua potable.
+ • Llene hasta nivel máximo (Figura 44).
+ • Deslice la pestaña superior de derecha a iz -
+quierda asegurándose de cerrar el comparti -
+miento completamente. (Figura 45).
+ • Para utilizar el dispensador haga presión hacia 
+adentro con el vaso sobre la válvula, después 
+de llenar la cantidad de agua requerida man -
+tenga el vaso por 2 segundos más sin presionar 
+para evitar goteos (Figura 46).
+Figura 41
+Figura 42
+Figura 43
+ABRIR
+Figura 44
+Nivelmáximo
+Figura 45
+CERRAR
+Figura 46
+
+Manual de usuario
+refrigerador con escarcha
+1
+26
+ IMPORTANTE
+ • El dispensador se debe usar sólo con agua.
+ • Cuando surta por primera vez el tanque de su dispensador de agua deseche por la válvula 
+del dispensador los primeros tres o cuatro vasos, con esto garantiza una limpieza de los 
+conductos del tanque y de la válvula.
+ • Coloque adecuadamente el tanque del dispensador y ciérrelo herméticamente con su tapa 
+después de ser retirado por algún motivo.
+ • Cierre las puertas de su refrigerador con cuidado para evitar derrames de agua debidos al 
+movimiento.
+ • Si utiliza agua hervida previamente para surtir el dispensador, debe de esperar a que ésta 
+esté a temperatura ambiente antes de ingresarla al interior del refrigerador, con esto se 
+asegura más eficiencia y menos consumo de energía de su refrigerador y durabilidad de los 
+conductos de agua del dispensador.
+ • En climas de alta humedad relativa puede producirse condensación (gotas de agua) en el 
+cuerpo de la válvula y la rejilla del dispensador aparecerá con agua.
+ • Antes de solicitar un servicio por válvula con mala estanqueidad (goteo en la válvula) asegú-
+rese que la humedad en la rejilla no es producida por un proceso normal de condensación.
+LIMPIEZA
+Su nevera ha sido construida con materiales de optima 
+calidad que igual requieren los siguientes pasos para ga-
+rantizar la apariencia del producto y estado de la pintura:
+INTERIOR:  Para eliminar residuos secos dentro del 
+refrigerador, use un paño humedecido en agua con 
+jabón neutro y luego limpie nuevamente con un pa -
+ño humedecido con agua.  (Figura 47 numeral A).
+EXTERIOR:  
+ • Use un paño no abrasivo humedecido en agua 
+con jabón neutro, luego enjuague con agua, fi -
+nalmente use un paño seco (Figura 47, numeral 
+B).
+ • Abra la puerta de la nevera usando siempre la ma -
+nija, no la abra desde un costado y asegúrese de 
+tener las manos limpias para no generar manchas 
+en la superficie.
+ • Al momento de realizar la limpieza use agua 
+y jabón neutro, otros productos podrían generar manchas en la pintura o deteriorar su 
+apariencia.
+ • Use un paño de algodón, franela o toallas de limpieza, para secar o remover la espuma 
+generada por el jabón neutro.
+ • No use esponjas abrasivas, desengrasantes, detergentes alcalinos, ácidos o a base de sol -
+ventes para limpiar la nevera.
+A.
+B.
+         Figura 47
+
+27
+2
+ • Bajo ninguna condición utilice detergentes en pol-
+vo a base de sílice, soda caustica.
+ • No utilice productos tóxicos, ni abrasivos, ni disol-
+ventes (Figura 48).
+ • Por la parte de atrás use una aspiradora, o brocha 
+suave para limpiar los tubos del condensador, con-
+servando así la eficiencia de su refrigerador (Figura 
+49).
+ • Realice el procedimiento de limpieza interior ca -
+da vez que ejecute una acción de descongelación 
+semiautomática, recuerde evacuar el agua de la 
+bandeja de enfriamiento, producto de la descon -
+gelación (Figura 50).
+ • Por ningún motivo acelere el proceso de des -
+congelación o remoción de escarcha con ele -
+mentos metálicos puntiagudos, esto puede 
+causar el daño permanente e irreparable de su 
+refrigerador.
+ • Si desconecta o apaga el refrigerador, no vuelva 
+a conectar hasta que pasen ocho minutos por 
+lo menos.
+ • Es normal el calentamiento del Motocompresor, 
+condensador y separador metálico, no solicite 
+servicio técnico por esta razón.
+ • Es normal que observe alguna condensación o 
+sudor en las paredes interiores del gabinete, en 
+la puerta del congelador, y en la bandeja de en -
+friamiento, esta condensación varía de acuerdo 
+con la frecuencia y duración de la apertura de 
+puertas y con la cantidad de líquidos y alimentos 
+que no estén debidamente almacenados. 
+Condensador
+Figura 49
+          Figura 48
+Figura 50
+Figura 51
+Cierre magnético
+No intente manipular o retirar 
+el cierre magnético de su refrigerador
+          Figura 52
+          Figura 53
+
+Manual de usuario
+refrigerador con escarcha
+1
+28
+Instrucciones para retirar, limpiar, instalar y llenar el tanque dispensador de agua
+ • Solo retire el tanque dispensador hasta que no haya flujo de agua por la válvula (Figura 52).
+ • Con ambas manos en el lado derecho del tanque, hale con suficiente fuerza en dirección 
+hacia usted, luego del lado izquierdo del tanque hale nuevamente en la misma dirección, y 
+retírelo completamente (Figura 53, 54).
+ • Retire la tapa del tanque en dirección hacia arriba (Figura 55).
+ • Mezcle agua con vinagre y con un paño húmedo limpie toda la superficie de la tapa y la base.
+ • Para colocar el tanque cerciórese primero en introducir la válvula en el orificio de la contra-
+puerta hasta que éste haga tope con la puerta (Figura 56).
+ • Presione el lado izquierdo (Ver Figura 57 A) del tanque con suficiente fuerza hasta que en -
+caje perfectamente, luego presione el lado derecho (Ver Figura 57 B) del tanque y verifique 
+que quede bien instalado (Figura 57).
+Figura 54 Figura 55
+Figura 56 Figura 57
+Embolo
+A
+B
+ IMPORTANTE
+Luego de haber hecho la limpieza del dispensador de agua instale las piezas  en el mismo orden 
+que se quitaron y tenga en cuenta las indicaciones de uso  del dispensador de agua (Ver página 
+27, Figura 45 a la 49).
+
+29
+2
+ASPECTOS IMPORTANTES
+ IMPORTANTE
+Las imágenes contenidas en este instructivo y en el manual de usuario pueden ser diferentes al 
+producto original y su único objetivo es ayudar a mejorar la comprensión del contenido escrito 
+del mismo.
+ • Después de transportar su refrigerador, déjelo reposar por cuatro horas antes de conectar.
+ • Evitar usar extensión eléctrica.
+ • No compartir el toma corriente con otros equipos eléctricos (Ver Figura 58).
+ • Evite que el cable de alimentación o de energía quede tensionado o en contacto con parte 
+trasera (parrilla o condensador de la nevera) para prevenir daños (Ver Figura 59).
+ • Para evitar la tensión en el cable de energía, si el tomacorriente está ubicado detrás del 
+ancho de la nevera, se sugiere que no esté a más de 110cm desde la base del producto. Si 
+tiene dudas de la instalación, por favor comunicarse con Servicio Técnico Haceb.
+ • El dispensador se debe usar sólo con agua. 
+   
+Control T emperatura
+Su refrigerador sale de fábrica con la perilla de la caja de control en la siguiente posición:
+ • La perilla en posición  med. (T emperatura media).
+ • Es conveniente que la graduación del control de  temperatura se haga de acuerdo a sus 
+necesidades: Posición máx. (Más frío), posición min. (Menos frío).
+ ADVERTENCIA
+ • Durante ciertas épocas del año, es normal que se pro -
+duzcan gotas de agua en el gabinete o condensación, 
+esta se debe retirar con una paño seco.
+ • No coloque objetos en el condensador (parrilla negra 
+ubicada en la parte de atrás del refrigerador), esto evita 
+la disipación del calor y disminuye la eficiencia del refri -
+gerador (Figura 60).
+  Correcto        Incorrecto Sin polo a tierra
+para refrigeradores
+con escarcha
+Conectar a 
+115 Voltios
+Breaker de
+15 amperios
+Figura 58
+Figura 59
+              Figura 60
+Condensador
+
+Manual de usuario
+refrigerador con escarcha
+1
+30
+ IMPORTANTE
+1. Asegúrese de verificar el ajuste perfecto del cierre magnético a la puerta inferior y /o supe-
+rior. Situaciones como entradas de aire al interior del refrigerador, van en desventaja con el 
+funcionamiento del producto.
+2. No almacene en el congelador o compartimientos de 
+baja temperatura líquidos en envases herméticos, o be-
+bidas efervescentes como gaseosas, cervezas, etc, éstos 
+pueden reventarse ocasionando daños al refrigerador o 
+accidentes.
+ • Nunca trate de desprender con ayuda de palancas, cu -
+chillos u otras herramientas, las cubetas con hielo o ali -
+mentos que se han adherido al congelador, pues podría 
+provocar daño no cubierto por la garantía (Figura 61).
+ • Se recomienda realizar una descongelación cada 10 
+días, si antes de que pase este tiempo percibe una disminución en la capacidad de enfria -
+miento del refrigerador por efecto del aumento en nivel de escarcha del congelador, acelere 
+el proceso de descongelación. Ver procedimiento en el manual de usuario (Figura 62).
+ • Para conservar el sabor de los alimentos y líquidos, recuerde cubrirlos bien antes de guar -
+darlos en el refrigerador (Figura 63).
+ • Los refrigeradores convencionales están diseñados para que el flujo de aire circule de arriba 
+hacia abajo a través de un espacio ubicado entre la parte posterior del conservador y los 
+entrepaños; evite almacenar sus alimentos de modo tal que obstruya dichos espacios, de lo 
+contrario su refrigerador perderá eficiencia (Figura 64).
+Figura 63 Figura 64Figura 62
+              Figura 61
+
+31
+2
+SOLUCIONES ANTES DE LLAMAR A SERVICIO TÉCNICO
+SITUACIÓN POSIBLE CAUSA SOLUCIÓN
+Demasiado 
+frío en el 
+conservador
+Control frío en posición 
+máxima (máx).
+• Posición de la perilla del automático en una 
+posición menor (mín).
+Control frío directo.
+• Ubique la perilla en posición de apagado (OFF) 
+y si el motor sigue trabajando solicite nuestro 
+servicio.
+Poco frío en el 
+conservador
+Control frío en posición 
+mínimo (mín).
+• Ponga la perilla entre la posición Media (Med) y la 
+Máxima (Máx).
+Condensadores poco 
+ventilados.
+• Corrija la ubicación del refrigerador. No seque 
+ropa en el condensador.
+Obstruidas las salidas y 
+retornos de aire.
+• Distribuya los alimentos de modo que pueda 
+circular el aire frío.
+Puertas no cierran bien.
+• Verifique que la contrapuerta no esté 
+obstaculizada. Observe el cierre magnético, si 
+está defectuoso solicite nuestro servicio.
+Ausencia total 
+de frío
+Automático en posición 
+apagado (OFF).
+• Gire la perilla de la caja de control a la posición 
+adecuada medio (med) o máximo (máx).
+No hay voltaje.
+• Revise la ausencia de voltaje en otros lugares, 
+si este no existe, puede ser un breaker o 
+interruptor disparado de la caja principal de 
+energía.
+Ruido
+T ermostato.
+• Al iniciar y terminar los ciclos de descanso se 
+escucha el accionar de un swiche automático, 
+esto es normal.
+Refrigerante. • Es normal que se escuche la expansión del 
+refrigerante en el evaporador.
+Mal olor
+Falta de limpieza, 
+residuos orgánicos en 
+descomposición.
+• Desocupar y limpiar el equipo según 
+instrucciones anteriores.
+Productos refrigerados 
+descubiertos.
+• Mantener los productos en recipientes cubiertos 
+con fundas de celofán o con bolsas plásticas.
+El equipo no 
+arranca
+Está desconectado. • Conecte el equipo.
+Breaker (interruptor) 
+desconectados.
+• Revise conexiones eléctricas buscando un posible 
+corto; de lo contrario active de nuevo el breaker 
+o interruptor de la caja principal de energía.
+Voltaje insuficiente • Modifique el circuito de alimentación eléctrica.
+Control de temperatura. • Verifique que la perilla de la caja de control no 
+esté en posición apagado (OFF).
+Presencia de 
+agua en el 
+conservador
+Bandeja de enfriamiento 
+llena de agua producto de la 
+descongelación.
+• Evacúe manualmente el agua de la bandeja de 
+enfriamiento/Extra Conservación, séquela e 
+introdúzcala de nuevo.
+Puerta del 
+congelador no 
+abre
+Exceso de escarcha en el 
+marco de la puerta debido 
+a la no descongelación 
+semiautomática dentro del 
+tiempo  sugerido en este 
+manual.
+• Realizar el proceso de descongelación 
+semiautomática cada 10 días.
+
+Manual de usuario
+refrigerador con escarcha
+1
+32
+SITUACIÓN POSIBLE CAUSA SOLUCIÓN
+Goteo en la 
+bandeja de 
+enfiamiento 
+/ Extra 
+Consevación
+Falla del fluido eléctrico. • Verifique que exista flujo eléctrico y que el cable 
+de alimentación está correctamente conectado.
+No utilización de la parrilla 
+inferior del congelador.
+• Ubique sus alimentos sobre la parrilla inferior del 
+congelador, a excepción de las cubetas de hielo.
+No haber hecho 
+descongelación 
+semiautomática en un 
+periodo inferior a 15 días 
+o superada la marca del 
+congelador para esta acción.
+• Realice descongelación semiautomática según 
+instrucciones del manual.
+Altas temperaturas en el 
+conservador.
+• Aumente la posición de la perilla para asegurar 
+mayor frío en el conservador.
+Uso del refrigerador para uso 
+comercial.
+• Utilice el refrigerador solo para uso doméstico, 
+no utilice el artefacto como fabricador de hielo 
+industrial.
+Alta frecuencia de aperturas. • Aumento de perilla a posición máxima
+Apertura de puerta en 
+Periodos prolongados.
+• Evite periodos de apertura de puertas superiores 
+a 20 segundos.
+Derrame de alimentos en el 
+congelador.
+• Evacua manualmente el liquido derramado y 
+seque tanto la bandeja de enfriamiento / Extra 
+Conservación como el congelador.
+T abla 6
+
+33
+2
+
+Manual de usuario
+refrigerador con escarcha
+1
+34
+
+35
+2
+
+1 01 1 1 66
+Llámanos gratis desde tu celular al #466 
+Comercializado por:
+INDUSTRIAS HACEB S.A
+Colombia
+Autopista Norte Calle 59 No. 55-80 km. 13,
+Ecuador
+Av. de las Américas, Aeropuerto  José Joaquín de Olmedo,
+Centro Comercial Aeroplaza, Local No.7
+Línea de servicio/Customer service line: 1800042232 Guayaquil
+Copacabana, Antioquia.
+www.haceb.com
+Correo electrónico: atencionpqr@haceb.com
+www.haceb.com
+REV: 01         06/10/2025             COD. MP: 1011166_MANUAL USUARIO N611CE HCB MLN 2506/10

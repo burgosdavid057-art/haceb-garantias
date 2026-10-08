@@ -1,0 +1,168 @@
+/* Página dedicada del asistente Haceb (/asistente). Usa la paleta de haceb.css. */
+
+/* En esta página, el chat ES la página: se oculta el widget flotante. */
+.pagina-asistente .fab-bot,
+.pagina-asistente .chat { display: none !important; }
+
+.as-hero {
+  background: linear-gradient(120deg, #f7f9e9 0%, #eef6f4 100%);
+  border-bottom: 1px solid var(--linea);
+  padding: 34px 0 30px;
+}
+.as-hero .contenedor { max-width: var(--ancho); margin: 0 auto; padding: 0 20px; }
+.as-eyebrow {
+  display: inline-block; font-size: 12px; font-weight: 700; letter-spacing: .08em;
+  text-transform: uppercase; color: var(--teal-osc); margin-bottom: 10px;
+}
+.as-hero h1 { font-size: 27px; line-height: 1.2; color: var(--carbon); margin: 0 0 10px; max-width: 20ch; }
+.as-hero p { color: var(--gris); max-width: 62ch; font-size: 15px; line-height: 1.6; margin: 0; }
+
+.as-marco {
+  max-width: var(--ancho); margin: 24px auto 48px; padding: 0 20px;
+  display: grid; grid-template-columns: 340px 1fr; gap: 22px; align-items: start;
+}
+
+/* --- Panel lateral (las "varias cositas") --- */
+.as-panel { display: flex; flex-direction: column; gap: 16px; }
+.as-tarjeta {
+  background: var(--blanco); border: 1px solid var(--linea);
+  border-radius: 10px; padding: 16px; box-shadow: var(--sombra);
+}
+.as-tarjeta h3 { font-size: 14px; margin: 0 0 12px; color: var(--carbon); }
+.as-h-ico { display: flex; align-items: center; gap: 8px; }
+.as-h-ico svg { width: 18px; height: 18px; color: var(--teal-osc); flex-shrink: 0; }
+
+.as-accion {
+  display: flex; align-items: center; gap: 11px; width: 100%; text-align: left;
+  background: var(--fondo-suave); border: 1px solid var(--linea);
+  border-radius: 8px; padding: 10px 12px; margin-bottom: 8px; cursor: pointer;
+  transition: border-color .15s, background .15s, transform .05s;
+}
+.as-accion:last-child { margin-bottom: 0; }
+.as-accion:hover { border-color: var(--lima); background: #fbfdf0; }
+.as-accion:active { transform: translateY(1px); }
+.as-ic {
+  width: 38px; height: 38px; flex-shrink: 0; border-radius: 9px;
+  background: var(--lima-claro); color: var(--carbon);
+  display: grid; place-items: center;
+  transition: background .15s ease, color .15s ease;
+}
+.as-ic svg { width: 20px; height: 20px; }
+.as-accion:hover .as-ic { background: var(--lima); }
+.as-accion b { display: block; font-size: 13.5px; color: var(--carbon); }
+.as-accion em { display: block; font-style: normal; font-size: 12px; color: var(--gris-claro); margin-top: 1px; }
+
+.as-orden { background: linear-gradient(160deg, #fbfdf0, #fff); border-color: var(--lima-claro); }
+.as-orden p { font-size: 12.5px; color: var(--gris); margin: 0 0 12px; line-height: 1.5; }
+.as-btn-orden {
+  width: 100%; background: var(--lima); color: var(--negro); font-weight: 700;
+  border: none; border-radius: 8px; padding: 10px; cursor: pointer; font-size: 14px;
+}
+.as-btn-orden:hover { background: var(--lima-osc); }
+
+.as-caso { display: flex; gap: 8px; }
+.as-caso input {
+  flex: 1; border: 1px solid var(--linea); border-radius: 8px; padding: 9px 11px;
+  font-size: 13px; outline: none; min-width: 0;
+}
+.as-caso input:focus { border-color: var(--teal); }
+.as-caso button {
+  background: var(--carbon); color: #fff; border: none; border-radius: 8px;
+  padding: 0 14px; cursor: pointer; font-size: 13px; font-weight: 600;
+}
+
+.as-nota {
+  display: flex; gap: 10px; align-items: flex-start;
+  background: #eef6f4; border-radius: 10px; padding: 13px 14px;
+}
+.as-nota-ic { color: var(--teal-osc); flex-shrink: 0; line-height: 0; margin-top: 1px; }
+.as-nota-ic svg { width: 18px; height: 18px; }
+.as-nota p { margin: 0; font-size: 12px; color: var(--gris); line-height: 1.5; }
+
+/* --- Chat principal --- */
+.as-chat {
+  background: var(--blanco); border: 1px solid var(--linea); border-radius: 12px;
+  box-shadow: var(--sombra); display: flex; flex-direction: column;
+  height: calc(100vh - 190px); min-height: 520px; overflow: hidden;
+}
+.as-chat-top {
+  display: flex; align-items: center; gap: 11px;
+  padding: 13px 18px; border-bottom: 1px solid var(--linea); background: var(--fondo-suave);
+}
+.as-av {
+  width: 38px; height: 38px; border-radius: 50%; background: var(--carbon); color: var(--lima);
+  display: grid; place-items: center; flex-shrink: 0;
+}
+.as-av.grande { width: 60px; height: 60px; margin: 0 auto 14px; }
+.as-n { font-weight: 700; font-size: 14.5px; color: var(--carbon); }
+.as-s { font-size: 12px; color: var(--teal-osc); }
+
+.as-cuerpo { flex: 1; overflow-y: auto; padding: 20px; display: flex; flex-direction: column; gap: 12px; background: #fafafa; }
+
+.as-bienvenida { margin: auto; text-align: center; color: var(--gris); padding: 20px; }
+.as-bienvenida h2 { font-size: 19px; color: var(--carbon); margin: 0 0 6px; }
+.as-bienvenida p { font-size: 14px; margin: 0; }
+
+.as-burbuja {
+  max-width: 78%; padding: 11px 14px; border-radius: 12px; font-size: 14.5px;
+  line-height: 1.5; white-space: pre-wrap; word-wrap: break-word;
+}
+.as-burbuja svg { vertical-align: -2px; }
+.as-burbuja.yo { align-self: flex-end; background: var(--lima); color: var(--negro); border-bottom-right-radius: 3px; }
+.as-burbuja.bot { align-self: flex-start; background: var(--blanco); border: 1px solid var(--linea); color: var(--texto); border-bottom-left-radius: 3px; }
+.as-img { max-height: 180px; border-radius: 8px; margin-top: 8px; display: block; }
+
+.as-escribiendo { align-self: flex-start; font-size: 13px; color: var(--gris-claro); font-style: italic; padding: 2px 4px; }
+
+/* Desglose de cobertura — el corazón visual */
+.as-desglose {
+  align-self: flex-start; width: 100%; max-width: 92%; background: var(--blanco);
+  border: 1px solid var(--linea); border-radius: 10px; overflow: hidden; box-shadow: var(--sombra);
+}
+.as-cabeza { padding: 9px 14px; font-weight: 700; font-size: 13px; color: #fff; }
+.as-cabeza.total    { background: var(--teal-osc); }
+.as-cabeza.parcial  { background: var(--ambar); }
+.as-cabeza.ninguna  { background: var(--rojo); }
+.as-cabeza.revision { background: var(--gris); }
+.as-linea { display: flex; align-items: center; gap: 10px; padding: 9px 14px; border-top: 1px solid var(--linea); }
+.as-marca { width: 20px; height: 20px; border-radius: 50%; display: grid; place-items: center; color: #fff; flex-shrink: 0; }
+.as-marca svg { width: 13px; height: 13px; }
+.as-marca.si { background: var(--teal-osc); }
+.as-marca.no { background: var(--rojo); }
+.as-marca.duda { background: var(--ambar); }
+.as-que { flex: 1; min-width: 0; }
+.as-que b { display: block; font-size: 13px; color: var(--carbon); }
+.as-que span { display: block; font-size: 11.5px; color: var(--gris-claro); }
+.as-val { font-size: 13px; font-weight: 600; color: var(--carbon); white-space: nowrap; font-variant-numeric: tabular-nums; }
+.as-val.tachado { text-decoration: line-through; color: var(--gris-claro); font-weight: 400; }
+.as-totales { border-top: 2px solid var(--linea); padding: 10px 14px; background: var(--fondo-suave); }
+.as-totales > div { display: flex; justify-content: space-between; font-size: 13px; padding: 2px 0; color: var(--gris); font-variant-numeric: tabular-nums; }
+.as-totales .pagas { font-weight: 800; color: var(--carbon); font-size: 15px; margin-top: 4px; }
+
+.as-confianza { align-self: flex-start; max-width: 92%; font-size: 11.5px; color: var(--gris); background: #f0f6ee; border-radius: 8px; padding: 8px 11px; }
+.as-confianza.alerta { background: #fbe7e7; color: #8a2f2f; }
+.as-confianza b { display: inline-flex; align-items: center; gap: 5px; margin-bottom: 3px; }
+.as-confianza b svg { width: 13px; height: 13px; flex-shrink: 0; }
+.as-chip { display: inline-block; background: var(--blanco); border: 1px solid var(--linea); border-radius: 20px; padding: 1px 8px; margin: 3px 4px 0 0; font-size: 10.5px; color: var(--gris); }
+
+.as-barra { display: flex; gap: 8px; padding: 13px 16px; border-top: 1px solid var(--linea); background: var(--blanco); }
+.as-barra input {
+  flex: 1; border: 1px solid var(--linea); border-radius: 22px; padding: 11px 16px;
+  font-size: 15px; outline: none;
+}
+.as-barra input:focus { border-color: var(--lima); }
+.as-clip, #asEnviar {
+  width: 44px; height: 44px; border-radius: 50%; border: none; cursor: pointer;
+  display: grid; place-items: center; flex-shrink: 0;
+}
+.as-clip { background: var(--fondo); color: var(--gris); }
+.as-clip:hover { background: var(--linea); }
+#asEnviar { background: var(--lima); color: var(--negro); }
+#asEnviar:hover { background: var(--lima-osc); }
+#asEnviar:disabled { opacity: .5; cursor: default; }
+
+@media (max-width: 880px) {
+  .as-marco { grid-template-columns: 1fr; }
+  .as-chat { height: 72vh; order: -1; }
+  .as-hero h1 { font-size: 22px; }
+}

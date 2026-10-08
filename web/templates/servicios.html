@@ -1,0 +1,84 @@
+{% extends "base.html" %}
+{% block titulo %}Servicios Haceb: Mantenimiento y Reparación · Demo{% endblock %}
+
+{# Los siete primeros servicios son los reales publicados en
+   haceb.com/repuestos-y-accesorios/servicios, con sus precios e imágenes.
+   El resto completa la grilla de 13 que muestra el sitio. #}
+
+{% set servicios = [
+  ('Instalación Calentador de paso 5.5 Lts Haceb', 161999, '180257'),
+  ('Instalación Calentadores Haceb Tiro Natural - Tiro Forzado', 185000, '180255'),
+  ('Instalación de Lavavajillas Haceb', 189900, '180251'),
+  ('Instalación de Campana recirculadora Haceb', 99991, '180247'),
+  ('Instalación de cubiertas Haceb', 139000, '180253'),
+  ('Instalación Horno Eléctrico Haceb', 99991, '180245'),
+  ('Instalación Aire Acondicionado Cero Metros - Haceb', 464500, '180246'),
+  ('Mantenimiento preventivo Nevera Haceb', 129900, '180257'),
+  ('Mantenimiento preventivo Lavadora Haceb', 119900, '180255'),
+  ('Revisión y diagnóstico en domicilio', 99991, '180253'),
+  ('Instalación Estufa de piso Haceb', 149000, '180247'),
+  ('Extragarantía 2 años Línea Blanca', 239900, '180245'),
+  ('Instalación Secadora Haceb', 159000, '180246')
+] %}
+
+{% block contenido %}
+<div class="contenedor">
+  <div class="migas">
+    <a href="/">Haceb</a> / <a href="#">Repuestos y Accesorios</a> / <b>Servicios</b>
+  </div>
+
+  <h1 class="titulo-pagina">Servicios</h1>
+
+  <div class="layout-catalogo">
+    <aside class="filtros">
+      <h3>Rangos de precio</h3>
+      <div class="rango-linea"></div>
+      <div class="rango-valores">$ 99.991 &nbsp;–&nbsp; $ 464.500</div>
+
+      <div class="filtro-grupo">
+        <h3>Categoría</h3>
+        <label><input type="checkbox" checked> Instalaciones</label>
+        <label><input type="checkbox"> Mantenimiento</label>
+        <label><input type="checkbox"> Repuestos</label>
+        <label><input type="checkbox"> Extragarantías</label>
+      </div>
+
+      <div class="filtro-grupo">
+        <h3>¿Tienes una garantía?</h3>
+        <p style="font-size:12px;color:var(--gris);line-height:1.5;margin:0 0 12px">
+          Adjunta tu orden de servicio en el asistente y te decimos exactamente qué cubre
+          tu garantía y qué no.
+        </p>
+        <button class="btn-primario" data-abrir-chat style="width:100%;justify-content:center;padding:10px">
+          Revisar mi garantía
+        </button>
+      </div>
+    </aside>
+
+    <div>
+      <div class="barra-catalogo">
+        <div class="conteo">{{ servicios|length }} productos</div>
+        <div class="orden">Ordenar Por: <b>Relevancia ⌄</b></div>
+      </div>
+
+      <div class="grid-productos">
+        {% for nombre, precio, img in servicios %}
+        <article class="producto">
+          <div class="corazon">♡</div>
+          <div class="imagen">
+            <img src="{{ url_for('static', filename='img/servicios/' ~ img ~ '.jpg') }}"
+                 alt="{{ nombre }}" loading="lazy">
+          </div>
+          <div class="cuerpo">
+            <div class="nombre">{{ nombre }}</div>
+            <div class="vendedor">Vendido por <b>Industrias Haceb S.A.</b></div>
+            <div class="precio">$ {{ '{:,.0f}'.format(precio).replace(',', '.') }}</div>
+            <button class="btn-ver">Ver producto</button>
+          </div>
+        </article>
+        {% endfor %}
+      </div>
+    </div>
+  </div>
+</div>
+{% endblock %}

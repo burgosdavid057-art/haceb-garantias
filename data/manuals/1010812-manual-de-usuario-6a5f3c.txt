@@ -1,0 +1,1834 @@
+MANUAL DE USUARIO HACEB
+Aplica a las referencias: 7704353452938
+Productos: Nevera Haceb No Frost 271 Litros Manija Integrada Inox
+Fuente: https://stmanualesdigitalesprod.z13.web.core.windows.net/DI/Manuales_Usuario/1010812_MANUAL%20DE%20USUARIO.pdf
+======================================================================
+
+CONTENIDO
+GARANTÍA (APLICA PARA COLOMBIA Y ECUADOR)                    1
+INFORMACIÓN GENERAL DEL PRODUCTO                                  3
+GLOSARIO                                                                                 3
+PRECAUCIONES Y RECOMENDACIONES                                     4
+INSTALACIÓN                                                                            6
+DESCRIPCIÓN DEL PRODUCTO Y SUS PARTES                             8
+OPERACIÓN Y FUNCIONAMIENTO                                            12
+USO DE ALGUNOS COMPONENTES DE SU REFRIGERADOR       15
+PREVENCIÓN Y CUIDADOS ASPECTOS AMBIENTALES               18
+MANTENIMIENTO Y LIMPIEZA                                                  18
+SOLUCIONES ANTES DE LLAMAR AL SERVICIO TÉCNICO           22
+GARANTÍA  (APLICA PARA COLOMBIA Y ECUADOR)
+1. Fabricante, descripción, vendedor, teléfono y fecha de compra: Determinados en la 
+factura de venta.
+2. Identificación del producto garantizado: En la placa de especificaciones que posee el producto.
+3. En  caso  de  reventa  del  refrigerador,  el  periodo  de  validez  de  la  garantía  no  sufrirá 
+renovación o alteración alguna. Así mismo el Servicio directo de Fábrica o sus Talleres 
+Autorizados, podrán efectuar una revisión tpcnica del refrigerador previa a la orden de 
+reparación y/o sustitución del mismo.  Se advierte que la sustitución del producto solo 
+procederá en los casos previstos en la Ley.
+4. La garantía en el compresor y en los demás componentes que Haceb está ofreciendo 
+se refiere al buen funcionamiento del sistema de refrigeración y a la parte interna. Así 
+mismo, para el aplique decorativo ubicado externamente en las puertas de su refrige-
+rador (aplica para algunas referencias) la garantía es de un (1) año cubriendo decolo-
+ración, pprdida del adhesivo, amarillamiento y corrido del color; sí y sólo sí la limpieza 
+del adhesivo se realiza con un paño h~medo (sólo con agua), no se usan detergentes 
+ni abrasivos y el refrigerador no se encuentra expuesto a los rayos solares.
+Garantía del producto: 
+El producto cuenta con un (1) año de garantía legal en todos sus componentes a partir de la fecha de 
+entrega por parte del establecimiento comercial. La garantía cubre cualquier falla que se presente en la 
+Nevera, causada por defectos de fabricación o daños en los materiales utilizados, de acuerdo con las 
+indicaciones del Manual. La garantía no tiene costo alguno y es aplicable siempre y cuando el producto 
+se destine para uso doméstico.
+Las solicitudes de garantía deben realizarse directamente al servicio directo de fabrica – Servicio Haceb 
+– en los canales indicados en este Manual. Estos canales son válidos para Colombia, en otros países, 
+por favor consulte a su distribuidor, o almacén vendedor.
+Garantía Suplementaria
+Para las líneas 611 SE y 700 SE, excepto el modelo H7163NT40, se otorga una garantía suplementaria 
+a la legal sobre el componente Compresor (consulta la referencia de tu Nevera en la T abla 3). Esta 
+garantía suplementaria amplia y mejora la cobertura de la garantía legal de manera gratuita. Dicha 
+garantía es la siguiente y está regida por las condiciones que se indican a continuación: 
+Garantía Suplementaria del compresor:  Se otorga una garantía suplementaria sobre el 
+componente “Compresor” del producto, por un periodo de 9 años, contados a partir de la 
+fecha de finalización de la garantía legal del producto. 
+Lea detenidamente estas instrucciones de 
+uso e instalación antes de encender u 
+operar su producto y guárdelas como 
+referencia para el futuro.
+Manual
+de usuario
+refrigerador
+sin escarcha
+Manual de usuario
+refrigerador sin escarcha
+2
+Términos y condiciones de la garantía suplementaria:
+1. La garantía suplementaria otorgada sobre el Compresor incluye: 
+ • La reparación de este componente, en caso de daño o falla del mismo, durante el 
+término otorgado de garantía suplementaria. Si al momento de la reparación se 
+observan fallas en componentes o repuestos diferentes al Compresor, la reparación 
+o cambio de estos debe ser asumido por el consumidor, así como la mano de obra
+ • En caso de que el Compresor no sea reparable y deba ser cambiado, en virtud de 
+la garantía suplementaria otorgada, Haceb realizará la entrega de un nuevo ComJ
+presor de conformidad con las condiciones estipuladas en el numeral (3) tercero 
+siguiente.
+La mano de obra asociada al cambio del Compresor, cuando el cambio se realice por parte 
+de Haceb, deberá ser asumida por el consumidor, así como cualquier repuesto adicional 
+que deba repararse o cambiarse en estos casos. Adicionalmente, el consumidor deberá 
+asumir cualquier otro costo o gasto asociado a la sustitución del Compresor.
+¡Importante! Se recomienda al consumidor realizar el cambio del Compresor con el servicio di-
+recto de fábrica de Haceb ² Servicio Haceb ² o en su defecto con personal experto y calificado para 
+la manipulación y cambio de este tipo de repuestos en Neveras. La garantía suplementaria no cubre 
+daños al repuesto o producto por parte de personal ajeno a Haceb.
+2. Término: La garantía suplementaria tendrá un término de vigencia único y en ningún caso se reno-
+vará, ni siquiera cuando haya cambios o reparaciones del Compresor. En ese sentido, cuando haya un 
+cambio del Compresor, el nuevo compresor entregado únicamente tendrá una garantía correspondien-
+te al tiempo que reste a los años de garantía suplementaria inicialmente otorgados. 
+A modo de ejemplo, si el Compresor (que tiene 10 años de garantía total: 1 año de garantía legal + 9 
+años de garantía suplementaria) llegase a dañarse a los 8 años de comprado el producto, el Compresor 
+nuevo que sea cambiado o entregado al consumidor, únicamente tendrá dos años restantes de garantía 
+suplementaria.
+A la garantía suplementaria restante se le aplicarán las mismas condiciones indicadas 
+en el presente Manual.
+3. Condiciones para que aplique la garantía suplementaria:
+a.  El consumidor deberá devolver el Compresor que presente la falla a Haceb. No se entregará el nuevo 
+componente a menos que el anterior haya sido devuelto.
+b.  La falla que presente el Compresor deberá estar originada en la calidad del repuesto. Haceb no se 
+hace responsable por los daños causados por uso inadecuado del consumidor, mantenimiento incorrec-
+to o daños de terceros.
+4. Exclusión de la responsabilidad de Haceb: Haceb no se hace responsable por los daños que 
+se causen en el producto o en el Compresor por reparaciones inadecuadas de terceros. Así como 
+por cualquier daño directo, indirecto o consecuencial causado por un procedimiento incorrecto por 
+parte de personal ajeno a Haceb.
+EXCLUSIONES DE LA GARANTÍA
+ • Cuando el refrigerador hubiera sido utilizado en condiciones distintas a las normales. 
+(El refrigerador no es para uso industrial o comercial).
+ • Cuando el refrigerador no hubiera sido instalado u operado de acuerdo con el Manual de Usuario.
+ • Cuando el refrigerador rotulado con un voltaje nominal de 115V, opera por fuera del 
+rango de 108 a 127 voltios.
+ • Cuando el refrigerador rotulado con un voltaje nominal de 220V ó 230V, opera por fuera del 
+rango de 210 a 240 voltios.
+ • Todo tipo de daño causado por sobrecargas de la red eléctrica usada para la alimen-
+tación del refrigerador.
+ • Cuando el refrigerador ha sido dañado por fenómenos de la naturaleza como: T HUUHPR-
+tos, inundaciones, tormentas o descargas eléctricas, siniestros, temblores, etc. O por el 
+deterioro causado con el mal uso o mal trato que le de el usuario al producto.
+ • Intervención técnica del refrigerador por personal diferente al Servicio Directo de Fábrica o 
+sus T alleres Autorizados.
+ • Por la eliminación o modificación de la placa de especificaciones.
+ • Por la alteración o falsedad en relación con la información suministrada en este certificado.
+ • Por el vencimiento del término de la garantía.
+ • El período de garantía de fábrica ha expirado.
+ • El producto presenta el n~mero de serie alterado ó removido.
+ • El producto presenta modificaciones no autorizadas en las especificaciones.
+ • Problemas causados en la instalación y/o reparación efectuada por personal no autori-
+zado por el fabricante o el comercializador.
+ • Artículo desconectado a la fuente de voltaje.
+ • Bombillo quemado o flojo posterior a su instalación.
+ • Cierre magnético con ajuste excesivo (adherencia), para esto se debe esperar como 
+mínimo 20 segundos entre apertura de puertas.
+ • Conexiones elpctricas flojas o sueltas, despups de un mes de uso.
+ • Presenta fuga de agua por falta de mantenimiento en el sifón.
+ • Calentamiento del compresor, condensador, separador metálico y laterales. Esto es normal.
+ • Manguera de desage obstruida por objetos extraños y por no realizar mantenimientos preventivos.
+ • Oxidación causada por golpes, rayas o producto expuesto a ambientes salinos y/o con humedad 
+relativa por encima del 70%.
+
+3
+ • Problemas causados por operaciones o usos inadecuados, en forma incorrecta y/o dife-
+rente a lo especificado en el manual de usuario.
+ • Problemas causados por transporte inapropiado del equipo.
+ • Problemas causados por la invasión de cuerpos extraños al producto como insectos, 
+ratones, similares, o falta de limpieza del producto.
+ • Problemas causados por condiciones accidentales o provocadas como incendios, flucJ
+tuaciones de voltaje, vandalismo, robo o similares.
+ • Problemas asociados con nivelación del producto. Este debe ser realizado por el usuaJ
+rio, el manual lo especifica.
+ • Problemas con instrucciones de funcionamiento tales como: Poco frío en conservador 
+que este asociado a manejo de perilla y de tarjeta, condensadores poco ventilados, 
+obstrucción de las salidas y retornos de aire, puertas mal ajustadas y ausencia total de 
+frío por manejo de perilla o falta de voltaje.
+ • No se cubre la garantía cuando se cae el fabricador de hielo.
+ • Ruidos asociados con el normal funcionamiento de los componentes del sistema fun-
+cional del producto.
+ • Mal olor y sabor de los alimentos por causas asociadas a derrames y productos refri-
+gerados descubiertos.
+ • Por condensación interna que estén asociados a tiempos excesivos de apertura de puer-
+tas, alimentos no envueltos, descubiertos o calientes.
+ • Las puertas superior e inferior de su refrigerador tienen topes que limitan su grado 
+de  apertura.  Si  alguna  de  las  puertas  es  sometida  a  aperturas  bruscas  que  venzan 
+(deformen permanentemente) estos topes, los complementos plásticos de las puertas 
+pueden sufrir daños que no son cubiertos por la garantía.
+PROCEDIMIENTO PARA HACER EFECTIVA LA GARANTÍA
+Cuando el comprador o usuario considere que ha ocurrido alguno de los eventos am-
+parados  por  este  certificado,  deberá  ponerse  en  contacto  con  nuestra  /ÌNEA  NACIONAL 
+GRATUITA 01 8000 511000 ó desde Medellín al 2552100.
+SUMINISTRO DE REPUESTOS 
+Se  garantiza  disponibilidad  de  repuestos  para  un  tiempo  máximo  de  5  años  contados  a 
+partir del año de fabricación del producto seg~n el serial.
+SEÑOR USUARIO: Para la prestación del servicio en garantía se verificará el serial que está 
+dispuesto en la placa de especificaciones del producto.
+ADVERTENCIA: Las  visitas  de  nuestros  tpcnicos  por  causas  injustificadas,  dan  lugar  al 
+pago por parte del usuario del valor correspondiente al transporte y tiempo del técnico. 
+Rogamos por lo tanto, antes de solicitar nuestro servicio, comprobar todos los puntos 
+descritos en el manual de usuario o instrucciones.
+NOTA IMPORTANTE: Para más información visita la página www.haceb.com
+INFORMACIÓN GENERAL DEL PRODUCTO
+El producto que acaba de adquirir es un refrigerador doméstico sin escarcha que 
+opera con un sistema por compresión de vapor; cuenta con un compartimiento diseña-
+do para conservar alimentos congelados o congelar alimentos según la referencia, y un 
+compartimiento para la conservación de alimentos no congelados. 
+Este producto fue diseñado y manufacturado en Colombia y cuenta con los requisitos de 
+seguridad requeridos para su comercialización.
+ IMPORTANTE
+ • Lea cuidadosamente este manual antes de hacer uso de su refrigerador. En él encontrará reco-
+mendaciones para su correcta instalación, buen manejo y cuidado, así, podrá conocer y operar 
+su refrigerador, obteniendo un óptimo desempeño.
+GLOSARIO
+Compartimiento una estrella: T emperatura en el compartimiento para almacenar 
+alimentos congelados (T emperatura de almacenamiento) ≤•&
+Compartimiento dos estrellas: T emperatura en el compartimiento para almace-
+nar alimentos congelados (T emperatura de almacenamiento) ≤•&
+Compartimiento tres estrellas: T emperatura en el compartimiento para almace-
+nar alimentos congelador (T emperatura de almacenamiento ≤ -18°&
+Compartimiento cuatro estrellas:  Compartimiento para congelar y almacenar 
+alimentos congelados (T emperatura de almacenamiento    ≤ -18°&
+Manual de usuario
+refrigerador sin escarcha
+4
+Condensación: Proceso mediante el cual el vapor de agua presente en el aire cam-
+bia a líquido al tener contacto con una superficie a menor temperatura.
+Condensador: Componente funcional del sistema de refrigeración en el cual se 
+produce el intercambio de calor entre el refrigerante y el ambiente, se caracteriza 
+por ser la única tubería expuesta en el exterior del refrigerador, y normalmente se 
+encuentra ubicado en la parte posterior.
+Congelador: Compartimiento adecuado para congelar alimentos a temperaturas 
+≤ -18°&
+`onserv~dorW  Compartimiento  diseñado  para  mantener  temperaturas  de  •C  a 
+•C, bajo condiciones normales de temperatura ambiente seg~n la clasificación cliJ
+mática del producto, esto puede variar de acuerdo a la cantidad de alimentos alma-
+cenados y/o la cantidad de apertura de puertas.
+Dispositivo de control de temperatura: Dispositivo para regular el funciona-
+miento del sistema de refrigeración de acuerdo con las necesidades de almacena-
+miento que requiera el usuario.
+Escarcha: Se denomina escarcha a la capa de hielo que se forma en el congelador.
+Evaporador: Componente funcional del sistema de refrigeración encargado de en-
+friar los espacios de almacenamiento de alimentos al interior de la nevera. 
+Placa de especificaciones: Etiqueta que se encuentra en el interior del refrigera-
+dor, que contiene información técnica del producto. 
+Refrigerador tipo “T”: Refrigerador diseñado para trabajar en ambientes tropica-
+les con temperaturas entre +16°C y +43°&
+Refrigerador tipo “ST”: Refrigerador diseñado para trabajar en ambientes subtro-
+picales con temperaturas entre +16°C y +38°&
+Sistema sin escarcha: En los sistemas sin escarcha (No frost), la escarcha se forma 
+directamente sobre el evaporador, la cual es retirada por un sistema de deshielo 
+automático. Este sistema funciona cada cierto período de tiempo dependiendo del 
+uso que se de al refrigerador.
+Uso doméstico: Uso que se le da a un artefacto dentro de una vivienda para satis-
+facer las necesidades de una familia. 
+Entrepaño: Estante utilizado para dividir  el espacio de almacenamiento del refrige-
+rador y ubicar los alimentos. 
+PRECAUCIONES Y RECOMENDACIONES
+Precauciones
+ • Este producto no está diseñado para ser usado por personas con problemas físicos, 
+sensoriales o mentales, o que carecen de experiencia y conocimiento, a menos que se 
+les esté brindando supervisión o instrucción con respecto al uso del producto por parte 
+de una persona responsable. 
+ • No trate de desprender con ayuda de palancas, cuchillos u otras herramientas las cube-
+tas con hielo o alimentos que se han adherido en el compartimiento de baja tempera-
+tura, pues podría provocar daños permanentes en el producto.
+ • Tener presente que los entrepaños del conservador no deben cargarse con un peso 
+superior a los 18 kg. Y la bandeja de enfriamiento (seg~n aplique) con más de 5 kg
+ • Tenga en cuenta que este producto funciona con un refrigerante amigable con el me-
+dio ambiente y a su vez inflamable, por tal motivo cualquier intervención en su sistema 
+de refrigeración debe ser realizada por parte de Servicio tpcnico Haceb, servicio directo 
+de fábrica o de sus talleres Autorizados.
+ • Use productos de limpieza no inflamables.  
+Recomendaciones 
+ • Evite aperturas de puertas prolongadas con su nevera en operación normal  (superior a 
+30 segundos) esto afecta el funcionamiento del producto.
+ • No introduzca alimentos o líquidos descubiertos o calientes en su refrigerador, para su 
+conservación es importante guardarlos en recipientes con tapas ajustadas, cubiertos 
+con papel aluminio o película plástica para evitar la contaminación. 
+ • No almacene en el congelador o compartimientos de baja temperatura líquidos en envases 
+hermpticos, o bebidas efervescentes como gaseosas, cervezas etc. Estos pueden reventarse 
+ocasionando daños al producto o accidentes. 
+ • Alimentos como carnes frías, embutidos y quesos se deben almacenar en bolsas plásticas 
+para aumentar su tiempo de conservación.
+ • Para la bandeja de enfriamiento o Extra Congelación, tenga en cuenta que bebidas tie-
+nen puntos de congelación dentro del rango de temperatura entre 2°C y -3°C como: la 
+leche, el agua, bebidas gaseosas, productos lácteos pueden presentar congelamiento si 
+permanecen por mucho tiempo en esta bandeja. Adicionalmente, las frutas y algunos 
+tipos de hortalizas son sensibles al frío y por lo tanto no es apropiado almacenarlas en 
+este compartimiento, la bandeja de enfriamiento o Extra Congelación no aplica para el 
+modelo (H7163NT40).
+ • Para el funcionamiento de su refrigerador sin escarcha, por ning~n motivo obstruJ
+ya los orificios o perforaciones de salidas y entradas de aire en los compartimientos
+
+5
+del producto. Igualmente, evite obstruir el espacio entre los entrepaños y la pared 
+posterior del refrigerador con alimentos, bolsas y elementos que impidan la circulación 
+del aire.
+ • Cuando almacene en su refrigerador alimentos de olores fuertes y penetrantes como 
+la cebolla, hágalo siempre dentro de bolsas o recipientes herméticos para evitar que su 
+olor contamine su refrigerador u otros alimentos. 
+ • Aseg~rese de verificar el ajuste del cierre magnptico a la puerta inferior y/o superior. 
+Situaciones como entradas de aire al interior del refrigerador, van en desventaja con el 
+funcionamiento del producto. Por lo anterior, verifique siempre que las puertas estpn 
+completamente cerradas.
+ • Los alimentos que inician su proceso de descomposición pueden deteriorar otros ali-
+mentos, favor no almacenar dentro de su refrigerador. 
+ • Los recipientes que contengan líquidos y que se colocan al interior de su refrigerador 
+sin tapar, pueden generar condensación o gotas de agua al interior de su refrigerador.
+ • No exceder el tiempo de almacenamiento de los alimentos establecido por el fabri-
+cante, se recomienda revisar las fechas de vencimiento de los productos almacenados. 
+ • Los productos congelados pueden acortar su tiempo de vida ~til si sufren aumentos de 
+temperatura durante su almacenamiento. 
+ • No coloque objetos en el condensador (parrilla negra ubicada en la parte posterior del 
+refrigerador) esto evita la disipación del calor y disminuye la eficiencia del refrigerador
+ • Es normal que cuando se abra y se cierre dos veces consecutivas una de las puertas 
+de  su  refrigerador  a  la  segunda  vez  se  requiera  realizar  un  mayor  esfuerzo  para  su 
+apertura. Este fenómeno no se presentará si usted entre aperturas espera un tiempo 
+mínimo de 20 segundos. 
+ • Si nota alg~n deterioro en los sellos magnpticos instalados en las contrapuertas debe solicitar 
+inmediatamente un servicio tpcnico para su reemplazo, ya que esto disminuye la capacidad 
+de su equipo y aumenta el consumo de energía.
+ • En  zonas  donde  la  interrupción  de  energía  es  frecuente,  puede  presentarse  un  mal 
+funcionamiento (aumento de la temperatura de los alimentos y condensación en la 
+parte interna de la nevera).
+ • En caso de interrupción frecuente o de variaciones temporales notables en el suministro 
+de energía, es prudente desconectar su refrigerador hasta que se normalice (la desco-
+nexión debe ser mínimo por 8 minutos).
+ • En caso de una suspensión prolongada de energía o daño del artefacto, se recomienda 
+consumir todo el producto que se tenga congelado, o almacenarlo en otro congelador 
+que se encuentre en funcionamiento. 
+ • Los circuitos recargados con varios productos y que además estén construidos con 
+alambre de calibre menor a Nº 14 presentarán caídas de voltaje, que harán funcionar 
+mal su refrigerador provocando fallas en el compresor con pérdida de la garantía por 
+tal concepto. 
+ ADVERTENCIA
+ • La rotura de tubos y cables o cualquier otro daño accidental, requiere de reparación 
+inmediata por servicio directo de fábrica o de sus talleres autorizados.
+ • Use dos o más personas para mover e instalar el refrigerador. El incumplimiento de 
+esta instrucción puede resultar en lesiones en la espalda u otras.
+ IMPORTANTE
+Los daños ocasionados por el transporte incorrecto no los cubre la garantía  
+Cuando tenga que transportar su refrigerador debe ejecutar los siguientes 
+pasos: 
+Transporte
+correcto
+Transporte incorrecto
+Figura 1
+ • Retirar todos los alimentos.
+ • Asegurar los accesorios internos. 
+ • Fijar las puertas con cinta adhesiva para evitar que 
+se abran en el transcurso del acarreo. 
+ • Transportar su refrigerador en posición vertical, nunca 
+en forma horizontal, ya que el aceite del compresor 
+puede obstruir el circuito de gas (Ver figura 1).
+ • Después de transportar su refrigerador, dejar repo-
+sar por espacio de cuatro horas aproximadamente 
+antes de conectar. 
+Manual de usuario
+refrigerador sin escarcha
+6
+TRANSPORTE MANUAL
+ • Inclinar levemente de costado (hacia el lado contrario de 
+las bisagras de las puertas (Ver figura 2).
+ • No sujete de las manijas, ni del condensador ni del 
+compresor.
+ • No sostenga de las puertas entreabiertas, pues provo-
+cará daño a las bisagras.
+ • Tener especial cuidado con los cables y tubos ubica-
+dos en la parte trasera, especialmente con el tubo 
+más delgado. 
+INSTALACIÓN
+Para obtener la mejor condición de funcionamiento de su refrigerador es im-
+portante tener en cuenta las siguientes recomendaciones en el momento de 
+realizar la instalación:
+ • Recordar que el refrigerador debe de tener un tiempo de reposo mínimo de cuatro horas 
+antes de conectarse.
+ • Conecte  el  cable  de  alimentación  del  refrigerador  de  toma  corriente.  Verifique  que  el 
+toma corriente cuente con una descarga a puesta tierra.(Ver figura 3).
+ • Deje vacío su refrigerador y con las puertas cerradas por lo menos tres horas
+ • Proceda a introducir los alimentos realizando una buena distribución.
+Conector tipo F
+(220V / 230V)
+Clavija Tipo B (115V ) Clavija Tipo I
+( 220V / 230V)
+Conector tipo A 
+(220V/230 V)
+Conector a tierra
+Figura 3
+ IMPORTANTE
+Este producto debe ser instalado por personal calificado y certificado.
+Recuerde que los daños ocasionados por una instalación inadecuada no rea-
+lizada por el servicio directo de fábrica o de sus talleres autorizados, no están 
+cubiertos por la garantía.
+Figura 2
+X
+Y
+Y
+Y
+10         cm.
+Pared
+Figura 4
+ • Seg~n  la  referencia  del  producto  adquirido 
+garantice las dimensiones de la tabla 1 que 
+corresponden a la (Figura 4).  
+ • Entre la pared y la parte posterior del refri-
+gerador se recomienda dejar una separación 
+de aproximadamente 10 cm con el propósi-
+to de permitir una correcta evacuación del 
+calor que esta parrilla debe liberar (Figura 4).
+ • El piso que va a soportar el refrigerador de-
+berá  ser  lo  suficientemente  firme  y  plano 
+que garantice un buen apoyo y permita ajus-
+tar los niveladores para que el refrigerador 
+quede estable.
+Dimensiones 
+Generales 
+(Sin 
+Empaque)
+cm
+T abla 1.  Dimensiones por Modelo
+H6164NT24A
+H6164NT24 
+H6254NT24
+H6164NT27A 
+H6164NT27
+H6254NT27
+H6164NT29A 
+H6164NT29 
+H6254NT29
+H6164NT31 /
+H6254NT31 
+H6254NT31A
+ H7163NT40 / 
+H7164NT40A/ 
+H7164NT40/ 
+H7254NT40
+ H7164NT44A/
+H7164NT44/ 
+H7254NT44
+Tipo de 
+manija
+Manija 
+Interna
+Manija 
+Externa
+Manija 
+Interna
+Manija 
+Externa
+Manija Externa
+Manija 
+Interna
+Manija 
+Externa
+Manija Externa Manija Externa
+Alto 148,5 160,5 169,5 177,6 172,8 184,2
+Ancho 62,0 62,0 62,0 62,0 70,2 70,2
+Profundidad 69,2 69,2 69,2 69,2 73,1 73,1
+
+7
+ ADVERTENCIA
+El refrigerador viene por defecto con el tornillo nivelador plástico  a una altura de 47mm con 
+respecto al suelo. Estas especificaciones son las óptimas por diseño, desempeño, seguridad y 
+estabilidad, por fuera de estas especificaciones existe el riesgo de volcamiento del producto. 
+En caso de requerir subir este valor, puede hacerlo hasta 50mm. (Figura 5).47 mm
+Figura 5
+Para asegurar un buen funcionamiento del sistema elpctrico de su refrigerador verifique 
+que se cumplan las siguientes condiciones:
+CONEXIÓN ELÉCTRICA
+Para refrigeradores que operan a 115 VAC (Ver placa de especificaciones 
+en el producto adquirido)
+ • Voltaje nominal 115 VAC. Frecuencia 60 Hz.
+ • Tomacorriente en buen estado y con puesta a tierra.
+ • Para regiones en donde el voltaje varía fuera del rango entre 108 y 127 voltios, pue-
+de necesitarse un regulador de voltaje el fabricante recomienda usar un regulador de 
+1000 W (Para referencias hasta 350 litros) y de 1500 W (Para referencias mayores a 
+350 litros).
+ • El circuito de la instalación deberá estar protegido con un fusible o «Breaker» de 15 A.
+ • Si el cable de alimentación esta dañado, el fabricante o su agente de ventas o una 
+persona igualmente calificada, lo debe remplazar para evitar riesgos.
+ • El cambio del bombillo o tarjeta LED debe ser realizado por parte de Servicio Directo de 
+Fábrica o de sus T alleres Autorizados. Si el usuario decide realizar este procedimiento 
+es bajo su responsabilidad.
+Para refrigeradores que operan a 220 VAC (Ver placa de especificaciones 
+en el producto adquirido)
+ • Voltaje nominal 220 VAC. Frecuencia 50/60 Hz.
+ • Tomacorriente en buen estado y con puesta a tierra.
+ • Para regiones en donde el voltaje varía fuera del rango entre 210 y 240 voltios, puede 
+necesitarse un regulador de voltaje, el fabricante recomienda usar un regulador de 
+1000 W (Para referencias hasta 350 litros) y de 1500 W (Para referencias mayores a 
+350 litros).
+ • El circuito de la instalación deberá estar protegido con un fusible o «Breaker» de 15 A.
+ • Si el cable de alimentación esta dañado, el fabricante o su agente de ventas o una 
+persona igualmente calificada, lo debe remplazar para evitar riesgos.
+ • El cambio del bombillo o tarjeta LED debe ser realizado por parte de Servicio Directo de 
+Fábrica o de sus T alleres Autorizados. Si el usuario decide realizar este procedimiento es 
+bajo su responsabilidad.
+DESCRIPCIÓN DEL PRODUCTO 
+ IMPORTANTE
+ • No compartir el tomacorriente con otros 
+equipos elpctricos (Ver figura 6).
+ • Evitar usar extensión eléctrica.
+ • Evite que el cable de alimentación o de 
+energía quede tensionado o en contacto 
+con parte trasera (parrilla o condensador 
+de la nevera) para prevenir daños (Ver 
+figura 6).
+ • Para evitar la tensión en el cable de 
+energía, si el tomacorriente está ubicado 
+detrás del ancho de la nevera, se sugiere 
+que no esté a más de 110 cm desde la 
+base del producto. Si tiene dudas de la 
+instalación, por favor comunicarse con servicio técnico Haceb.
+  Correcto        Incorrecto
+Figura 6
+Manual de usuario
+refrigerador sin escarcha
+8
+Y SUS PARTES
+NOTA: Las imágenes contenidas en este manual pueden ser diferentes al producto 
+original y su único objetivo es ayudar a mejorar la comprensión del contenido escrito 
+del mismo.
+PARTES DEL REFRIGERADOR
+T abla 2. Componentes
+1
+Control de temperatura 
+(compartimiento 
+inferior)
+9 Interruptor iluminación 
+compartimiento inferior 17 Compresor
+2 Tapa fondo 10 Cierre magnético puerta 
+inferior 18 Tapa bisagra
+3 Perilla de control de 
+temperatura 11 Condensador 19 Puerta congelador
+4 Cierre magnético puerta 
+superior 12 Marco calefactor 20 Panel Digital 
+externo
+5 Contrapuerta puerta 
+superior 13 Cable de alimentación 
+eléctrica 21 Manija superior
+6 Interruptor iluminación 
+compartimiento superior 14 Sifón de desagüe 22 Manija inferior
+7 Separador metálico 15 Bandeja recolectora 23 Dispensador de 
+agua
+8 T ornillo nivelador 16 Filtro secador 24 Puerta 
+conservador
+25 Gabinete metálico
+ LÍNEA 611 SE    LÍNEA 700 SE   
+1
+ 2
+ 6  37  5
+3
+26
+29
+8
+7
+34
+28
+4
+38
+36
+10
+27
+9
+36
+32
+35
+33
+27
+30
+31
+Figura 7
+14
+16
+11
+12
+13 17
+15
+Figura 9
+18
+25
+19
+24
+23
+20
+21
+22
+Figura 8
+ACCESORIOS
+LINEA T abla 3. LINEA 611 SE
+MODELO H6164NT24 H6164NT24A H6254NT24 H6164NT27 H6164NT27A H6254NT27 H6164NT29 H6164NT29A H6254NT29 H6164NT31 H6254NT31A H6254NT31 H6164NT31*
+REFERENCIA
+NEV 243 SE MI TI R2
+NEV 243 SE MI NE R2
+N M 243 SE MI TI EX
+N M 243 SE MI NI ECU
+N 243 SE MI PLOMO
+N M 243 SE MI TI ECU
+NEV 243 SE ME NE R2
+NEV 243 SE ME TI R2
+N M 243 SE ME TI EX
+N M 243SE ME NI ECU
+N M 243 SE ME TI ECU  N M 243 SE ME NE EX
+NEV 243 SE ME NE R1
+N M 243 SE ME TI CR  N M 243 SE ME NE EX CA
+N M 243 SE ME TI 220V EX  NEVERA M 243 SE ME TI 220V ARG
+NEV 271 SE MI TI R2
+NEV 271 SE MI NI R2
+NEV 271 SE MI NE R2
+NEV 271 SE MI IN R2
+NEV 271 SE MI INOX R2
+N M 271 SE MI TI EX
+N M 271 SE MI NI ECU                        
+NEV 271 SE MI PLOMO
+N M 271 SE MI TI ECU  
+N M 271 SE MI INOX ECU 
+NEV 271 SE ME IN R2
+NEV 271 SE ME TI R2
+NEV 271 SE ME NE R2
+N M 271 SE ME TI EX
+N M 271 SE ME NI ECU                          
+N M 271 SE ME INOX EX                        
+N M 271 SE ME NE EX
+N M 271 SE ME TI ECU
+N M 271 SE ME TI CR   
+N M 271 SE ME INOX EX CA
+N M 271 SE ME NE EX CA
+N M 271 SE ME TI 220V EX
+N M 290 SE ME TI EX                             
+N M 290 SE ME INOX EX
+N M 290 SE ME NE EX
+N M 290 SE ME TI CR
+N M 290 SE ME INOX EX CA
+N M 290 SE ME NE EX CA
+N M 290 SE ME TI 220V EX
+NEV 311 SE MI TI R2
+NEV 311 SE MI IN R2
+NEV 311 SE MI NE R2
+N M 311 SE MI TI EX
+N M 311 SE MI NI ECU
+N M 311 SE MI TI ECU
+NEV 311 SE ME NE R2
+NEV 311 SE ME INOX R2
+NEV 311 SE ME TI R2
+N M 311 SE ME TI EX
+N 311 SE ME PLOMO
+NEV 311 SE ME PD NE R2
+NEV 311 SE ME PD INOX R2
+NEV 311 SE ME PD IN R2
+N M 311 SE ME INOX EX
+N M 311 SE ME NE EX
+N M 311 SE ME TI CR
+N M 311 SE ME INOX EX CA
+N M 311 SE ME NE EX CA
+N M 311 SE ME TI 220V EX  NEVERA M 311 SE ME TI 220V ARG
+*NEV 310 SE ME NI R2
+TIPO 
+MANIJA N243 MI N243 ME N271 MI N271 ME N290 ME N311 MI N311 ME N310 ME
+26 ENTREPAÑO CONGELADOR 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+27 FABRICADOR HIELO 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+28 ANAQUEL PUERTA INFERIOR/
+SUPERIOR N611 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3
+29 BANDEJA DE ENFRIAMIENTO /
+EXTRA CONSERVACIÓN 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+30 ENTREPAÑO CONSERVADOR 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2
+31 TAPA BANDEJA VEGETALES 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+32 BANDEJA DE VEGETALES 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+33 SEPARADOR BANDEJA 0 0 0 0 0 1 1 1 1 1 1 0 1 1 1 0
+34 DISPENSADOR  AGUA 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+35
+PORTA HUEVOS (COLOMBIA) 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0PORTA HUEVOS 
+(EXPORTACIÓN) 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+36 ANAQUEL PEQUEÑO 
+CONSERVADOR 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0
+ACCESORIOS
+LINEA T abla 3. LINEA 700 SE
+MODELO H7163NT40 H7164NT40 H7164NT40A H7164NT40 H7164NT40A H7254NT40 H7164NT44 H7164NT44A H7254NT44
+REFERENCIA
+NEV 403 SE NI R2
+N 403 SE PLOMO  
+NEV 404 SE TI R2
+N M 404 SE DA TI ME EX
+N M 404 SE DA ME NI ECU
+N 404 SE PLOMO
+N M 404 SE DA INOX ME EX
+N M 404 SE DA NE ME EX
+N M 404 SE DA TI ME ECU
+N M 404 SE DA TI ME CR
+N M 404 SE DA INOX ME EX CA
+N M 404 SE DA NE ME EX CA
+NEV 404 SE PD NE R2
+NEV 404 SE PD IN R2
+NEV 404 SE PD INOX R2
+N M 404 SE PD TI ME EX
+NEV 404 SE IN PD R1
+N M 404 SE PD TI ME CR
+N M 404 SE PD TI 220V 
+50-60HZ ME EX
+NEV 448 SE TI R2
+N M 448 SE DA TI ME EX
+N M 448 SE DA ME NI ECU
+N M 448 SE INOX ME EX
+N 448 SE PLOMO
+N M 448 SE DA TI ME ECU
+N M 448 SE INOX ME ECU
+NEV 448 SE PD INOX R2
+NEV 448 SE PD NE R2
+NEV 448 SE PD IN R2
+N M 448 SE PD TI ME EX
+N M 448 SE PD INOX ME EX
+N M 448 SE PD INOX ME ECU
+N M 448 SE DA TI ME CR
+N M 448 SE PD TI ME CR
+N M 448 SE PD TI 220V 
+50-60HZ ME EX
+TIPO MANIJA N 403 PDI N404 PDI N404 PDE N448 PDI N448 PDE
+26 ENTREPAÑO CONGELADOR 1 1 1 1 1 1 1 1 1 1
+27 FABRICADOR HIELO 1 1 1 1 1 1 1 1 1 1
+28 ANAQUEL PUERTA INFERIOR/SUPERIOR N611 1 1 1 1 1 1 1 1 1 1
+29 BANDEJA DE ENFRIAMIENTO /EXTRA CONSERVACIÓN 0 1 1 1 1 1 1 1 1 1
+30 ENTREPAÑO CONSERVADOR 2 2 2 2 2 2 2 2 2 2
+31 TAPA BANDEJA VEGETALES 1 1 1 1 1 1 1 1 1 1
+32 BANDEJA DE VEGETALES 1 2 2 2 2 2 2 2 2 2
+34 DISPENSADOR  AGUA 1 1 1 1 1 1 1 1 1 1
+35
+PORTA HUEVOS COLOMBIA
+0
+0 0 0
+0 1
+0 0 0
+1
+PORTA HUEVOS EXPORTACIONES 1 1 1 1 1 1
+36 ANAQ PEQUEÑO CONSERVADOR 0 1 1 1 1 1 1 1 1 1
+37 ANAQUEL PEQUEÑO PUERTA SUPERIOR N700 1 1 1 1 1 1 1 1 1 1
+38 ANAQUEL PUERTA INF N700 2 2 2 2 2 3 3 3 3
+
+9
+ACCESORIOS
+LINEA T abla 3. LINEA 611 SE
+MODELO H6164NT24 H6164NT24A H6254NT24 H6164NT27 H6164NT27A H6254NT27 H6164NT29 H6164NT29A H6254NT29 H6164NT31 H6254NT31A H6254NT31 H6164NT31*
+REFERENCIA
+NEV 243 SE MI TI R2
+NEV 243 SE MI NE R2
+N M 243 SE MI TI EX
+N M 243 SE MI NI ECU
+N 243 SE MI PLOMO
+N M 243 SE MI TI ECU
+NEV 243 SE ME NE R2
+NEV 243 SE ME TI R2
+N M 243 SE ME TI EX
+N M 243SE ME NI ECU
+N M 243 SE ME TI ECU  N M 243 SE ME NE EX
+NEV 243 SE ME NE R1
+N M 243 SE ME TI CR  N M 243 SE ME NE EX CA
+N M 243 SE ME TI 220V EX  NEVERA M 243 SE ME TI 220V ARG
+NEV 271 SE MI TI R2
+NEV 271 SE MI NI R2
+NEV 271 SE MI NE R2
+NEV 271 SE MI IN R2
+NEV 271 SE MI INOX R2
+N M 271 SE MI TI EX
+N M 271 SE MI NI ECU                        
+NEV 271 SE MI PLOMO
+N M 271 SE MI TI ECU  
+N M 271 SE MI INOX ECU 
+NEV 271 SE ME IN R2
+NEV 271 SE ME TI R2
+NEV 271 SE ME NE R2
+N M 271 SE ME TI EX
+N M 271 SE ME NI ECU                          
+N M 271 SE ME INOX EX                        
+N M 271 SE ME NE EX
+N M 271 SE ME TI ECU
+N M 271 SE ME TI CR   
+N M 271 SE ME INOX EX CA
+N M 271 SE ME NE EX CA
+N M 271 SE ME TI 220V EX
+N M 290 SE ME TI EX                             
+N M 290 SE ME INOX EX
+N M 290 SE ME NE EX
+N M 290 SE ME TI CR
+N M 290 SE ME INOX EX CA
+N M 290 SE ME NE EX CA
+N M 290 SE ME TI 220V EX
+NEV 311 SE MI TI R2
+NEV 311 SE MI IN R2
+NEV 311 SE MI NE R2
+N M 311 SE MI TI EX
+N M 311 SE MI NI ECU
+N M 311 SE MI TI ECU
+NEV 311 SE ME NE R2
+NEV 311 SE ME INOX R2
+NEV 311 SE ME TI R2
+N M 311 SE ME TI EX
+N 311 SE ME PLOMO
+NEV 311 SE ME PD NE R2
+NEV 311 SE ME PD INOX R2
+NEV 311 SE ME PD IN R2
+N M 311 SE ME INOX EX
+N M 311 SE ME NE EX
+N M 311 SE ME TI CR
+N M 311 SE ME INOX EX CA
+N M 311 SE ME NE EX CA
+N M 311 SE ME TI 220V EX  NEVERA M 311 SE ME TI 220V ARG
+*NEV 310 SE ME NI R2
+TIPO 
+MANIJA N243 MI N243 ME N271 MI N271 ME N290 ME N311 MI N311 ME N310 ME
+26 ENTREPAÑO CONGELADOR 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+27 FABRICADOR HIELO 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+28 ANAQUEL PUERTA INFERIOR/
+SUPERIOR N611 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3
+29 BANDEJA DE ENFRIAMIENTO /
+EXTRA CONSERVACIÓN 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+30 ENTREPAÑO CONSERVADOR 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2
+31 TAPA BANDEJA VEGETALES 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+32 BANDEJA DE VEGETALES 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+33 SEPARADOR BANDEJA 0 0 0 0 0 1 1 1 1 1 1 0 1 1 1 0
+34 DISPENSADOR  AGUA 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+35
+PORTA HUEVOS (COLOMBIA) 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0PORTA HUEVOS 
+(EXPORTACIÓN) 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+36 ANAQUEL PEQUEÑO 
+CONSERVADOR 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0
+ACCESORIOS
+LINEA T abla 3. LINEA 700 SE
+MODELO H7163NT40 H7164NT40 H7164NT40A H7164NT40 H7164NT40A H7254NT40 H7164NT44 H7164NT44A H7254NT44
+REFERENCIA
+NEV 403 SE NI R2
+N 403 SE PLOMO  
+NEV 404 SE TI R2
+N M 404 SE DA TI ME EX
+N M 404 SE DA ME NI ECU
+N 404 SE PLOMO
+N M 404 SE DA INOX ME EX
+N M 404 SE DA NE ME EX
+N M 404 SE DA TI ME ECU
+N M 404 SE DA TI ME CR
+N M 404 SE DA INOX ME EX CA
+N M 404 SE DA NE ME EX CA
+NEV 404 SE PD NE R2
+NEV 404 SE PD IN R2
+NEV 404 SE PD INOX R2
+N M 404 SE PD TI ME EX
+NEV 404 SE IN PD R1
+N M 404 SE PD TI ME CR
+N M 404 SE PD TI 220V 
+50-60HZ ME EX
+NEV 448 SE TI R2
+N M 448 SE DA TI ME EX
+N M 448 SE DA ME NI ECU
+N M 448 SE INOX ME EX
+N 448 SE PLOMO
+N M 448 SE DA TI ME ECU
+N M 448 SE INOX ME ECU
+NEV 448 SE PD INOX R2
+NEV 448 SE PD NE R2
+NEV 448 SE PD IN R2
+N M 448 SE PD TI ME EX
+N M 448 SE PD INOX ME EX
+N M 448 SE PD INOX ME ECU
+N M 448 SE DA TI ME CR
+N M 448 SE PD TI ME CR
+N M 448 SE PD TI 220V 
+50-60HZ ME EX
+TIPO MANIJA N 403 PDI N404 PDI N404 PDE N448 PDI N448 PDE
+26 ENTREPAÑO CONGELADOR 1 1 1 1 1 1 1 1 1 1
+27 FABRICADOR HIELO 1 1 1 1 1 1 1 1 1 1
+28 ANAQUEL PUERTA INFERIOR/SUPERIOR N611 1 1 1 1 1 1 1 1 1 1
+29 BANDEJA DE ENFRIAMIENTO /EXTRA CONSERVACIÓN 0 1 1 1 1 1 1 1 1 1
+30 ENTREPAÑO CONSERVADOR 2 2 2 2 2 2 2 2 2 2
+31 TAPA BANDEJA VEGETALES 1 1 1 1 1 1 1 1 1 1
+32 BANDEJA DE VEGETALES 1 2 2 2 2 2 2 2 2 2
+34 DISPENSADOR  AGUA 1 1 1 1 1 1 1 1 1 1
+35
+PORTA HUEVOS COLOMBIA
+0
+0 0 0
+0 1
+0 0 0
+1
+PORTA HUEVOS EXPORTACIONES 1 1 1 1 1 1
+36 ANAQ PEQUEÑO CONSERVADOR 0 1 1 1 1 1 1 1 1 1
+37 ANAQUEL PEQUEÑO PUERTA SUPERIOR N700 1 1 1 1 1 1 1 1 1 1
+38 ANAQUEL PUERTA INF N700 2 2 2 2 2 3 3 3 3
+Manual de usuario
+refrigerador sin escarcha
+10
+ACCESORIOS
+LINEA T abla 3. LINEA 611 SE
+MODELO H6164NT24 H6164NT24A H6254NT24 H6164NT27 H6164NT27A H6254NT27 H6164NT29 H6164NT29A H6254NT29 H6164NT31 H6254NT31A H6254NT31 H6164NT31*
+REFERENCIA
+NEV 243 SE MI TI R2
+NEV 243 SE MI NE R2
+N M 243 SE MI TI EX
+N M 243 SE MI NI ECU
+N 243 SE MI PLOMO
+N M 243 SE MI TI ECU
+NEV 243 SE ME NE R2
+NEV 243 SE ME TI R2
+N M 243 SE ME TI EX
+N M 243SE ME NI ECU
+N M 243 SE ME TI ECU  N M 243 SE ME NE EX
+NEV 243 SE ME NE R1
+N M 243 SE ME TI CR  N M 243 SE ME NE EX CA
+N M 243 SE ME TI 220V EX  NEVERA M 243 SE ME TI 220V ARG
+NEV 271 SE MI TI R2
+NEV 271 SE MI NI R2
+NEV 271 SE MI NE R2
+NEV 271 SE MI IN R2
+NEV 271 SE MI INOX R2
+N M 271 SE MI TI EX
+N M 271 SE MI NI ECU                        
+NEV 271 SE MI PLOMO
+N M 271 SE MI TI ECU  
+N M 271 SE MI INOX ECU 
+NEV 271 SE ME IN R2
+NEV 271 SE ME TI R2
+NEV 271 SE ME NE R2
+N M 271 SE ME TI EX
+N M 271 SE ME NI ECU                          
+N M 271 SE ME INOX EX                        
+N M 271 SE ME NE EX
+N M 271 SE ME TI ECU
+N M 271 SE ME TI CR   
+N M 271 SE ME INOX EX CA
+N M 271 SE ME NE EX CA
+N M 271 SE ME TI 220V EX
+N M 290 SE ME TI EX                             
+N M 290 SE ME INOX EX
+N M 290 SE ME NE EX
+N M 290 SE ME TI CR
+N M 290 SE ME INOX EX CA
+N M 290 SE ME NE EX CA
+N M 290 SE ME TI 220V EX
+NEV 311 SE MI TI R2
+NEV 311 SE MI IN R2
+NEV 311 SE MI NE R2
+N M 311 SE MI TI EX
+N M 311 SE MI NI ECU
+N M 311 SE MI TI ECU
+NEV 311 SE ME NE R2
+NEV 311 SE ME INOX R2
+NEV 311 SE ME TI R2
+N M 311 SE ME TI EX
+N 311 SE ME PLOMO
+NEV 311 SE ME PD NE R2
+NEV 311 SE ME PD INOX R2
+NEV 311 SE ME PD IN R2
+N M 311 SE ME INOX EX
+N M 311 SE ME NE EX
+N M 311 SE ME TI CR
+N M 311 SE ME INOX EX CA
+N M 311 SE ME NE EX CA
+N M 311 SE ME TI 220V EX  NEVERA M 311 SE ME TI 220V ARG
+*NEV 310 SE ME NI R2
+TIPO 
+MANIJA N243 MI N243 ME N271 MI N271 ME N290 ME N311 MI N311 ME N310 ME
+26 ENTREPAÑO CONGELADOR 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+27 FABRICADOR HIELO 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+28 ANAQUEL PUERTA INFERIOR/
+SUPERIOR N611 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3
+29 BANDEJA DE ENFRIAMIENTO /
+EXTRA CONSERVACIÓN 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+30 ENTREPAÑO CONSERVADOR 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2
+31 TAPA BANDEJA VEGETALES 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+32 BANDEJA DE VEGETALES 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+33 SEPARADOR BANDEJA 0 0 0 0 0 1 1 1 1 1 1 0 1 1 1 0
+34 DISPENSADOR  AGUA 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+35
+PORTA HUEVOS (COLOMBIA) 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0PORTA HUEVOS 
+(EXPORTACIÓN) 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+36 ANAQUEL PEQUEÑO 
+CONSERVADOR 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0
+ACCESORIOS
+LINEA T abla 3. LINEA 700 SE
+MODELO H7163NT40 H7164NT40 H7164NT40A H7164NT40 H7164NT40A H7254NT40 H7164NT44 H7164NT44A H7254NT44
+REFERENCIA
+NEV 403 SE NI R2
+N 403 SE PLOMO  
+NEV 404 SE TI R2
+N M 404 SE DA TI ME EX
+N M 404 SE DA ME NI ECU
+N 404 SE PLOMO
+N M 404 SE DA INOX ME EX
+N M 404 SE DA NE ME EX
+N M 404 SE DA TI ME ECU
+N M 404 SE DA TI ME CR
+N M 404 SE DA INOX ME EX CA
+N M 404 SE DA NE ME EX CA
+NEV 404 SE PD NE R2
+NEV 404 SE PD IN R2
+NEV 404 SE PD INOX R2
+N M 404 SE PD TI ME EX
+NEV 404 SE IN PD R1
+N M 404 SE PD TI ME CR
+N M 404 SE PD TI 220V 
+50-60HZ ME EX
+NEV 448 SE TI R2
+N M 448 SE DA TI ME EX
+N M 448 SE DA ME NI ECU
+N M 448 SE INOX ME EX
+N 448 SE PLOMO
+N M 448 SE DA TI ME ECU
+N M 448 SE INOX ME ECU
+NEV 448 SE PD INOX R2
+NEV 448 SE PD NE R2
+NEV 448 SE PD IN R2
+N M 448 SE PD TI ME EX
+N M 448 SE PD INOX ME EX
+N M 448 SE PD INOX ME ECU
+N M 448 SE DA TI ME CR
+N M 448 SE PD TI ME CR
+N M 448 SE PD TI 220V 
+50-60HZ ME EX
+TIPO MANIJA N 403 PDI N404 PDI N404 PDE N448 PDI N448 PDE
+26 ENTREPAÑO CONGELADOR 1 1 1 1 1 1 1 1 1 1
+27 FABRICADOR HIELO 1 1 1 1 1 1 1 1 1 1
+28 ANAQUEL PUERTA INFERIOR/SUPERIOR N611 1 1 1 1 1 1 1 1 1 1
+29 BANDEJA DE ENFRIAMIENTO /EXTRA CONSERVACIÓN 0 1 1 1 1 1 1 1 1 1
+30 ENTREPAÑO CONSERVADOR 2 2 2 2 2 2 2 2 2 2
+31 TAPA BANDEJA VEGETALES 1 1 1 1 1 1 1 1 1 1
+32 BANDEJA DE VEGETALES 1 2 2 2 2 2 2 2 2 2
+34 DISPENSADOR  AGUA 1 1 1 1 1 1 1 1 1 1
+35
+PORTA HUEVOS COLOMBIA
+0
+0 0 0
+0 1
+0 0 0
+1
+PORTA HUEVOS EXPORTACIONES 1 1 1 1 1 1
+36 ANAQ PEQUEÑO CONSERVADOR 0 1 1 1 1 1 1 1 1 1
+37 ANAQUEL PEQUEÑO PUERTA SUPERIOR N700 1 1 1 1 1 1 1 1 1 1
+38 ANAQUEL PUERTA INF N700 2 2 2 2 2 3 3 3 3
+
+11
+Descripción de algunas partes
+Partes del dispensador de agua
+Tanque
+dispensador
+Tapa
+tanque
+Tapa tanque
+auxiliarTapa base
+dispensadora
+Válvula
+Base 
+dispensador
+Figura 10
+Cubetas
+Carcasa
+N611 N700
+Perilla
+Estación de hielos
+Tanque de
+agua
+Partes del fabricador de hielo 
+Figura 11
+Compartimiento congelador 
+ • Adecuado para la conservación de alimentos congelados.
+ • Con parrilla o entrepaño removible que se puede colocar a diferentes alturas o retirarse 
+si se desea.
+ • El fabricador de hielo manual ubicado en la puerta, cuenta con un extractor de hielo 
+por torsión mecánica y la carga del agua se debe de hacer manualmente. 
+ • En la parte interior de la puerta se encuentra la contrapuerta la cual está provista de 
+un anaquel y un fabricador de hielo. Ver ítem 27 y 28  de la tabla de accesorios L611 / 
+L700 para identificar la cantidad de estos accesorios.
+Bandeja de enfriamiento/Extra Conservación
+Ubicada en el conservador. Sirve para enfriar rápidamente bebidas y carnes. Hale 
+hacia el exterior para sacar la bandeja. (No aplica en H7163NT40). Ver ítem 30  de 
+La tabla de accesorios L611 / L700.
+Bandeja de vegetales
+Espacio destinado para el almacenamiento de frutas y verduras que requieren 
+condiciones especiales de humedad y temperatura para su conservación. Algu-
+nas referencias cuentan con un control de humedad. Ver figura 12.
+Accione hacia la derecha para tener mayor humedad y hacia la izquierda para tener menor humedad. 
+Izquierda
+Derecha
+Izquierda
+Derecha
+Figura 12
+ IMPORTANTE
+ • La tapa bandeja de vegetales está diseñado para soportar un peso máximo de 10 kg. Ésta no debe 
+ser removida de su lugar.
+Entrepaños
+Los refrigeradores poseen en-
+trepaños móviles, que pueden 
+ubicarse en diferentes posi-
+ciones en la parte interna del 
+conservador.  (Figura 13), por 
+lo tanto tenga en cuenta la si-
+guiente recomendación: 
+ • En el momento de cargar su 
+refrigerador tenga cuidado 
+que los entrepaños que se 
+colocan en el conservador 
+no deben de cargar más de 
+18 kg y la carga debe ser 
+uniformemente distribuida.
+ACCESORIOS
+LINEA T abla 3. LINEA 611 SE
+MODELO H6164NT24 H6164NT24A H6254NT24 H6164NT27 H6164NT27A H6254NT27 H6164NT29 H6164NT29A H6254NT29 H6164NT31 H6254NT31A H6254NT31 H6164NT31*
+REFERENCIA
+NEV 243 SE MI TI R2
+NEV 243 SE MI NE R2
+N M 243 SE MI TI EX
+N M 243 SE MI NI ECU
+N 243 SE MI PLOMO
+N M 243 SE MI TI ECU
+NEV 243 SE ME NE R2
+NEV 243 SE ME TI R2
+N M 243 SE ME TI EX
+N M 243SE ME NI ECU
+N M 243 SE ME TI ECU  N M 243 SE ME NE EX
+NEV 243 SE ME NE R1
+N M 243 SE ME TI CR  N M 243 SE ME NE EX CA
+N M 243 SE ME TI 220V EX  NEVERA M 243 SE ME TI 220V ARG
+NEV 271 SE MI TI R2
+NEV 271 SE MI NI R2
+NEV 271 SE MI NE R2
+NEV 271 SE MI IN R2
+NEV 271 SE MI INOX R2
+N M 271 SE MI TI EX
+N M 271 SE MI NI ECU                        
+NEV 271 SE MI PLOMO
+N M 271 SE MI TI ECU  
+N M 271 SE MI INOX ECU 
+NEV 271 SE ME IN R2
+NEV 271 SE ME TI R2
+NEV 271 SE ME NE R2
+N M 271 SE ME TI EX
+N M 271 SE ME NI ECU                          
+N M 271 SE ME INOX EX                        
+N M 271 SE ME NE EX
+N M 271 SE ME TI ECU
+N M 271 SE ME TI CR   
+N M 271 SE ME INOX EX CA
+N M 271 SE ME NE EX CA
+N M 271 SE ME TI 220V EX
+N M 290 SE ME TI EX                             
+N M 290 SE ME INOX EX
+N M 290 SE ME NE EX
+N M 290 SE ME TI CR
+N M 290 SE ME INOX EX CA
+N M 290 SE ME NE EX CA
+N M 290 SE ME TI 220V EX
+NEV 311 SE MI TI R2
+NEV 311 SE MI IN R2
+NEV 311 SE MI NE R2
+N M 311 SE MI TI EX
+N M 311 SE MI NI ECU
+N M 311 SE MI TI ECU
+NEV 311 SE ME NE R2
+NEV 311 SE ME INOX R2
+NEV 311 SE ME TI R2
+N M 311 SE ME TI EX
+N 311 SE ME PLOMO
+NEV 311 SE ME PD NE R2
+NEV 311 SE ME PD INOX R2
+NEV 311 SE ME PD IN R2
+N M 311 SE ME INOX EX
+N M 311 SE ME NE EX
+N M 311 SE ME TI CR
+N M 311 SE ME INOX EX CA
+N M 311 SE ME NE EX CA
+N M 311 SE ME TI 220V EX  NEVERA M 311 SE ME TI 220V ARG
+*NEV 310 SE ME NI R2
+TIPO 
+MANIJA N243 MI N243 ME N271 MI N271 ME N290 ME N311 MI N311 ME N310 ME
+26 ENTREPAÑO CONGELADOR 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+27 FABRICADOR HIELO 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+28 ANAQUEL PUERTA INFERIOR/
+SUPERIOR N611 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3
+29 BANDEJA DE ENFRIAMIENTO /
+EXTRA CONSERVACIÓN 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+30 ENTREPAÑO CONSERVADOR 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2
+31 TAPA BANDEJA VEGETALES 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+32 BANDEJA DE VEGETALES 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+33 SEPARADOR BANDEJA 0 0 0 0 0 1 1 1 1 1 1 0 1 1 1 0
+34 DISPENSADOR  AGUA 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+35
+PORTA HUEVOS (COLOMBIA) 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0PORTA HUEVOS 
+(EXPORTACIÓN) 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+36 ANAQUEL PEQUEÑO 
+CONSERVADOR 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0
+ACCESORIOS
+LINEA T abla 3. LINEA 700 SE
+MODELO H7163NT40 H7164NT40 H7164NT40A H7164NT40 H7164NT40A H7254NT40 H7164NT44 H7164NT44A H7254NT44
+REFERENCIA
+NEV 403 SE NI R2
+N 403 SE PLOMO  
+NEV 404 SE TI R2
+N M 404 SE DA TI ME EX
+N M 404 SE DA ME NI ECU
+N 404 SE PLOMO
+N M 404 SE DA INOX ME EX
+N M 404 SE DA NE ME EX
+N M 404 SE DA TI ME ECU
+N M 404 SE DA TI ME CR
+N M 404 SE DA INOX ME EX CA
+N M 404 SE DA NE ME EX CA
+NEV 404 SE PD NE R2
+NEV 404 SE PD IN R2
+NEV 404 SE PD INOX R2
+N M 404 SE PD TI ME EX
+NEV 404 SE IN PD R1
+N M 404 SE PD TI ME CR
+N M 404 SE PD TI 220V 
+50-60HZ ME EX
+NEV 448 SE TI R2
+N M 448 SE DA TI ME EX
+N M 448 SE DA ME NI ECU
+N M 448 SE INOX ME EX
+N 448 SE PLOMO
+N M 448 SE DA TI ME ECU
+N M 448 SE INOX ME ECU
+NEV 448 SE PD INOX R2
+NEV 448 SE PD NE R2
+NEV 448 SE PD IN R2
+N M 448 SE PD TI ME EX
+N M 448 SE PD INOX ME EX
+N M 448 SE PD INOX ME ECU
+N M 448 SE DA TI ME CR
+N M 448 SE PD TI ME CR
+N M 448 SE PD TI 220V 
+50-60HZ ME EX
+TIPO MANIJA N 403 PDI N404 PDI N404 PDE N448 PDI N448 PDE
+26 ENTREPAÑO CONGELADOR 1 1 1 1 1 1 1 1 1 1
+27 FABRICADOR HIELO 1 1 1 1 1 1 1 1 1 1
+28 ANAQUEL PUERTA INFERIOR/SUPERIOR N611 1 1 1 1 1 1 1 1 1 1
+29 BANDEJA DE ENFRIAMIENTO /EXTRA CONSERVACIÓN 0 1 1 1 1 1 1 1 1 1
+30 ENTREPAÑO CONSERVADOR 2 2 2 2 2 2 2 2 2 2
+31 TAPA BANDEJA VEGETALES 1 1 1 1 1 1 1 1 1 1
+32 BANDEJA DE VEGETALES 1 2 2 2 2 2 2 2 2 2
+34 DISPENSADOR  AGUA 1 1 1 1 1 1 1 1 1 1
+35
+PORTA HUEVOS COLOMBIA
+0
+0 0 0
+0 1
+0 0 0
+1
+PORTA HUEVOS EXPORTACIONES 1 1 1 1 1 1
+36 ANAQ PEQUEÑO CONSERVADOR 0 1 1 1 1 1 1 1 1 1
+37 ANAQUEL PEQUEÑO PUERTA SUPERIOR N700 1 1 1 1 1 1 1 1 1 1
+38 ANAQUEL PUERTA INF N700 2 2 2 2 2 3 3 3 3
+Conservador línea N700Conservador línea N611
+Figura 13
+Manual de usuario
+refrigerador sin escarcha
+12
+OPERACIÓN Y FUNCIONAMIENTO
+Funcionamiento
+El dispositivo de control de temperatura de su refrigerador varía seg~n el moJ
+delo que usted adquirió. De acuerdo a su elección puede encontrar uno de las 
+siguientes modelos con control Interno o Externo: 
+Modelo A Modelo B Modelo C
+Control electrónico ubicado 
+en el lateral derecho del 
+gabinete plástico inferior.
+Control 
+electrónico 
+ubicado en 
+el lateral 
+derecho del 
+gabinete 
+plástico 
+inferior.
+Control ubicado en la manija 
+externa de la puerta superior.
+Ver ítem 1 (Partes del refrigerados / Componentes) Ver ítem 20 (Partes del refrigerados / 
+Componentes)
+Tabla 4
+La posición adecuada del control de temperatura al interior de su refrigerador, 
+dependerá de sus necesidades y de los siguientes aspectos:
+ • Frecuencia de apertura de las puertas
+ • La temperatura ambiente
+ • La cantidad de alimentos
+ • Ubicación del producto 
+Modelo A y B:
+ • Posición 1: Posición más cálida.
+ • Posición 5: Posición media.
+ • Posición 9: Posición más fría.
+ • Cuando conecte por primera vez su refrigerador empezará su funcionamiento en la posición 4.
+ • El control de temperatura puede ser manipulado para diferentes condiciones de con-
+servación de los alimentos.
+ • La temperatura del refrigerador puede ser ajustada presionando el botón de “selección 
+de temperatura” desde la posición 1 hasta la posición 9 (Figura 15).
+ • Ajuste el control de temperatura de acuerdo con su necesidad (Tabla 5).
+ • Tenga en cuenta que, el o los LEDs encendidos, indican en que posición de temperatura 
+se encuentra el producto.
+ • El refrigerador en las posiciones (1) y (2) tiene menor capacidad de enfriamiento y 
+en las posiciones (8) y (9) tiene mayor capacidad de enfriamiento. Regule la posición 
+dependiendo de su uso.
+ • La indicación de nivel de temperatura será temporal (1minuto).
+ • En caso de presentarse un fallo en el sensor del conservador, se mostrará ~nicamente 
+el LED #4 (por desconexión) o el LED#3 (fallo interno del sensor) activado de forma in-
+termitente. Para visualizar la temperatura seleccionada, es necesario presionar el botón. 
+Después de 5 segundos se apagan los LEDs y solamente se mostrará el fallo en sensor. 
+(Contactar a servicio tpcnico o centros de servicio especializados).
+ • En caso de presentarse un fallo en el sensor del evaporador, se mostrará ~nicamente el 
+LED #2 activado de forma intermitente. Para visualizar la temperatura seleccionada, es 
+necesario presionar el botón.
+ • Después de 5segundos se apagan los LEDs y solamente se mostrará el fallo en sensor. 
+(Contactar a servicio tpcnico o centros de servicio especializados).
+
+13
+.
+CARACTERÍSTICAS ESPECIALES
+Alarma de puerta abierta:
+ • Si la puerta inferior se queda abierta por un periodo superior a 1 minuto, se accionará 
+una alarma sonora en conjunto con el LED N•1, el cual mostrará una luz intermitente 
+hasta que la puerta sea cerrada (Aplica para el modelo A y B).
+ • De no cerrarse la puerta la alarma se cancelará a los 4 minutos, sin embargo, el indica-
+dor N°1 continuará de forma intermitente (Aplica para el modelo A y B).
+ • Cuando se activa la alarma de puerta abierta, se desactivan los LEDs que indican la 
+temperatura seleccionada (Aplica para el modelo A).
+ • El LED N°1se activa de forma intermitente cada 0,5 segundos y la alarma auditiva activa 
+cada segundo(Aplica para el modelo A).
+ • Si se presiona el botón, se muestra la temperatura seleccionada y después de 5 segun-
+dos se apagan los LEDs que muestran el nivel de temperatura y se activa nuevamente el 
+LED de manera intermitente que indica la alarma de puerta abierta (LED N°1) (Aplica 
+para el modelo A).
+Congelamiento rápido / Enfriamiento rápido (Congelar rápido): Presione el bo-
+tón de selección de temperatura por 5 segundos. Escuchará un sonido y luego 
+se observará que los LED se activan de manera secuencial, en orden ascendente 
+de 1 a 4. Ver Figura 15. Pulse de nuevo el mismo botón por 5 segundos para 
+detener dicha función. 
+NOTA: Cuando desactive manualmente la función “Congelamiento rápido” 
+(Congelar rápido), verifique la posición de temperatura en el panel de control. 
+Es necesario seleccionar la temperatura adecuada para el correcto funciona-
+miento de su refrigerador.
+NIVEL #1 
+Intermitente Encendido Apagado
+NIVEL #2 
+NIVEL #3 
+NIVEL #4
+NIVEL #5
+NIVEL #6
+NIVEL #7
+NIVEL #8
+NIVEL #9 
+Ejemplo: Control de 
+temperatura
+Botón de selección de 
+nivel de temperatura.
+Posición 1Posición 4
+Posición 9
+(todas las luces encendidas)
+Botón de selección de 
+nivel de temperatura.
+Posición 9Posición 1
+(todas las luces encendidas)
+Figura 15
+Figura 14
+Manual de usuario
+refrigerador sin escarcha
+14
+Panel digital externo
+ • Posición 1: Posición más cálida.
+ • Posición 5: Posición media.
+ • Posición 9: Posición más fría.
+ • El panel de control se encuentra ubicado en la puerta superior de su refrigerador. 
+ • La temperatura es ajustada presionando el botón “temperatura” hasta la posición 
+deseada. 
+ • Puerta abierta: Al abrir las puertas de su refrigerador, el símbolo de puerta abierta 
+se enciende en el panel de control. En caso de que la puerta se quede abierta por más 
+de 2 minutos, la alarma de puerta abierta será accionada, luego la alarma se desactiva 
+al cerrar la(s) puerta(s).
+Niveles de
+Temperatura
+Función
+Puerta abierta
+Funciones
+Especiales
+Función panel
+Bloqueado
+PANEL EXTERNO
+Ejemplo:  Niveles de 
+control de temperatura
+Intermitente Encendido Apagado
+NIVELES
+#1 #2 #3 #4 #5 #6 #7 #8 #9 Figura 16
+Funciones especiales
+ • Congelamiento rápido (Congelar rápido):  Ajuste de la temperatura que 
+permite maximizar el rendimiento del producto. Cuando el botón de ´congelamiento 
+UiSLGRµ (Congelar rápido) es accionado, la luz que indica la posición de temperatura se 
+apaga y la señal de “Congelamiento rápido” (Congelar rápido) se mantiene encendida. 
+Al final del ciclo del congelamiento rápido (Congelar rápido), se escuchará un sonido 
+indicando que la función ha terminado. Una vez finalizada la función, vuelve a aparecer 
+el ~ltimo ajuste de temperatura (Figura 16). 
+ • Congelamiento rápido (Congelar rápido) para el panel externo : 4 horas.
+ • Mercado/Compras: Esta función, al ser accionada, proporciona una mejor recu-
+peración de la temperatura de los alimentos almacenados. Ajusta la temperatura del 
+producto a la posición máximo durante 2 horas. Al final del ciclo del mercado/viaje, 
+se escuchará un sonido indicando que la función ha terminado. Una vez finalizada la 
+función, vuelve a aparecer el ~ltimo ajuste de temperatura. 
+ •  Viaje: Al ser seleccionado esta función, ajusta la temperatura del producto para el 
+funcionamiento en óptimas condiciones debido a que no se realizan aperturas de puerJ
+tas, hasta la próxima interacción del usuario con el producto. Tiene como objetivo 
+ahorrar energía durante un periodo en el que el refrigerador no se usa. Este modo es 
+ilimitado, esta función solo cambiará si el usuario después de desbloquear el panel, 
+presiona alg~n botón o si el usuario abre la puerta despups de dos horas de ser accioJ
+nado. Cuando el modo de ´YLDMHµ es desactivado, la interfaz de usuario vuelve al ~ltimo 
+ajuste de temperatura.
+
+15
+ALGUNOS COMPONENTES DE SU REFRIGERADOR
+Uso del dispensador de agua (aplica según referencia)
+ • Antes  de  llenar  su  tanque,  aseg~rese  que  pste  se  encuentre  en  una  posición  estable  asentado 
+totalmente contra la contrapuerta. (Figura 18).
+ • Deslice la pestaña superior de izquierda a derecha asegurándose de abrir el compartimiento comJ
+pletamente (Figura 19).
+ • Ingrese el agua potable asegurándose de 
+estar  apuntando  en  la  zona  requerida,  HV-
+te dispensador de agua está diseñado para 
+funcionar ~nicamente con agua potable.
+ • Llene hasta nivel máximo (Figura 20).
+ • Deslice la pestaña superior de derecha a izJ
+quierda asegurándose de cerrar el comparti-
+miento completamente.
+ 
+La iluminación del nivel de temperatura se desactiva automáticamente cuando se selecciona 
+alguna de las funciones especiales (Mercado/compras, viaje o congelamiento rápido).
+ IMPORTANTE
+ •  Panel externo:
+ • Para accionar las funciones especiales, se debe desbloquear el panel de con-
+trol presionando el botón de desbloqueo por 3 segundos y después presione 
+el botón “Funciones especiales” hasta seleccionar la función deseada. Cada 
+una de las funciones especiales poseen un LED que mostraran su respectiva 
+activación (Cuando el LED está encendido) o su desactivación (cuando el LED 
+está apagado).
+ • Para desactivar alguna de estas funciones especiales, se debe desbloquear el 
+panel de control y luego presionar el botón de funciones especiales hasta que 
+se apaguen los íconos. También las funciones especiales se desactivan cuando 
+se presiona el botón “Temperatura”.
+Control manual de temperatura en línea N611 / N700
+Adicionalmente su refrigerador posee una perilla en el compartimiento superior 
+que regula el nivel de temperatura en los compartimientos, seg~n se muestra 
+en la (Figura 17).
+Figura 18
+Posición C 
+Más cálido congelador:
+Más frío en el
+conservador
+Posición A
+Más frío congelador:
+Menos frío en el
+conservador
+Posición B
+Media Templado:
+Posición intermedia
+(Mitad de recorrido)A
+B
+C
+CERRAR
+ABRIR
+Figura 19
+Nivelmáximo
+Figura 20 Figura 21
+Figura 17
+Manual de usuario
+refrigerador sin escarcha
+16
+RECOMENDACIONES
+ • El dispensador se debe usar sólo con agua potable.
+ • Cuando surta  o cargue por primera vez el tanque de su dispensador con agua deseche por la válvula 
+de salida los primeros tres o cuatro vasos de agua, con esto garantiza una limpieza de los conductos 
+del tanque y de la válvula.
+ • Coloque adecuadamente el tanque del dispensador y ciérrelo con su tapa.
+ • Cierre las puertas de su refrigerador con cuidado para evitar derrames de agua debidos al 
+movimiento.
+ • Si  utiliza  agua  hervida  previamente  para  surtir  el  dispensador,  debe  de  esperar  a  que  psta  estp  a 
+temperatura ambiente antes de ingresarla al interior del refrigerador, con esto se asegura más efi-
+ciencia y menos consumo de energía de su refrigerador y durabilidad de los conductos de agua del 
+dispensador.
+ • En climas de alta humedad relativa puede producirse condensación (gotas de agua) en el cuerpo de 
+la válvula y la base del dispensador aparecerá con agua.
+ • Antes de solicitar un servicio por válvula con mala estanqueidad (goteo en la válvula) aseg~rese que 
+la humedad en la base no es producida por un proceso normal de condensación.
+Uso del Fabricador de Hielo y tanque de agua
+Tanque de agua 
+ • Retire el tanque del Fabricador de hielo. (Figura 22).
+ • Llénelo en un grifo con agua, este dispositivo 
+está diseñado ~nicamente para el uso de agua 
+potable. (Figura 23)
+ • Verifique  que  el  nivel  del  agua  estp  en  máximo, 
+al tope, esto asegura que las cubetas se llenarán 
+completamente.
+ • Verifique  que  el  tanque  de  agua  no  estp  JR-
+teando, de ser necesario retire el exceso de 
+agua con un paño seco.
+ • Desplace el tanque de agua en posición hori-
+zontal y llpvelo al refrigerador.
+ • Inserte el tanque en la parte superior del Fa-
+bricador de hielo (Figura 24), validando que la 
+palabra FRENTE este apuntado hacia usted, de-
+be asegurarse de que ambos extremos hagan 
+“clic”. Cierre la puerta del refrigerador para 
+que la distribución del agua del fabricador sea 
+uniforme. 
+ • Aseg~rese de mantener la puerta cerrada al meJ
+nos 1:30 min para garantizar el correcto llenaJ
+do de las cubetas de hielo.
+ • Transcurridas 3 horas 30 minutos los hielos es-
+tarán listos para ser desmoldados.
+RECOMENDACIÓN 
+Cuando llene de agua las cubetas de su fabricador de hielo (Bio Ice), tenga en cuen-
+ta que debe cerrar la puerta de su refrigerador con cuidado para evitar derrames que 
+interfieran con el funcionamiento del sistema.
+Para sacar los cubos de hielo
+ • Para desmoldar los hielos, gire la palanca 
+hasta validar que todos los hielos salieron. 
+(Figura 25)
+ • Los hielos quedarán depositados en el com-
+partimiento inferior que se llama Estación 
+de hielos.
+ • Abra la estación de hielos halando de la 
+parte central, tenga en cuenta que esta pie-
+za no es removible. Ecágér~ 26).
+ • Extraiga los hielos que requiera de la Esta-
+ción de hielos.
+ • Teniendo la estación de hielos llena y las cu-
+betas de hielo descargadas, puede volver a 
+llenar el tanque de agua y realizar una nueJ
+va preparación de hielos.
+Límitemáximo
+Figura 25
+Max
+Figura 22
+Figura 23
+Figura 24
+
+17
+CUBETAS
+Figura 27 Figura 28Figura 26
+Ubicación de entrepaños Línea N611:
+Las siguientes imágenes muestran la posición correcta e incorrecta de los entrepaños.
+CORRECTO INCORRECTO
+Perfil plástico del entrepaño hacia abajo
+Perfil plástico del entrepaño hacia arriba
+Perfil plástico del entrepaño hacia abajo
+Perfil plástico del entrepaño hacia arriba
+La marcación “Vidrio Templado|Safety Glass” 
+debe estar orientada hacia la parte frontal del refrigerador.
+Tabla 5
+ PRECAUCIÓN 
+La capacidad máxima de la estación de hielos es para 16 cubos para el fa-
+bricador  doble  y  para  el  fabricador  sencillo  de  8  cubos  (Esto  aplica  seg~n 
+referencia) ver figura OV y 30.
+CUBETAS
+CUBETA
+Figura 30Figura 29
+Fabricador de hielo 
+sencillo
+Fabricador de hielo 
+doble
+Manual de usuario
+refrigerador sin escarcha
+18
+PREVENCIÓN Y CUIDADOS ASPECTOS AMBIENTALES
+ • Empaque: El fabricante procura, en sus nuevos pro-
+ductos, utilizamos empaques cuyas partes sean fáciles 
+de separar, así como materiales reciclables. Por lo tan-
+to, las piezas de los empaques (protectores de icopor 
+(Poliestireno expandible), bolsas plásticas y caja de 
+cartón) deben ser desechadas de manera consciente, 
+siendo destinadas, preferiblemente, a recicladores.
+ • Producto: Este producto fue fabricado con mate-
+riales  que  puden  ser  reciclados  y/o  reutilizados. 
+Entonces, al deshacerse de este producto, bus-
+que  compañías  especializadas  en  desmontarlo 
+correctamente.
+ • Eliminación: Al  desechar  este  producto,  al  final 
+de  su  vida  ~til,  solcitamos  que  sea  obedecida  la 
+legislación local existente y vigente en su región, 
+haciendo esto de la forma más correcta posible.
+MANTENIMIENTO Y LIMPIEZA
+ IMPORTANTE
+Para el adecuado funcionamiento de su producto, el fabricante sugiere 
+realizarle  mantenimiento  preventivo  con  personal  calificado  al  menos  una 
+vez cada año.
+Mantenimiento preventivo (Cada año)
+ • Revisión del funcionamiento (voltaje, amperaje).
+ • Verificar decibeles de ruido del motor.
+ • Verificación de tarjeta o termostato.
+ • Verificar estado, posición y funcionamiento de la resistencia descongelación.
+ • Limpieza del condensador.
+ • Limpieza plato colector.
+ • Limpieza ducto desagH
+ • Limpieza de compresor.
+ • Validar conexiones partes eléctricas del compresor.
+ • Limpieza de base compresor.
+ • Limpieza y revisión del estado de los cierres magnpticos.
+Mantenga siempre limpio su refrigerador
+ IMPORTANTE
+ • Desconecte el refrigerador de la red de suministro de energía antes de efectuar cual-
+quier tipo de limpieza.
+ • Si su refrigerador no va a ser utilizado por un tiempo prolongado, tome las siguientes 
+precauciones:
+ • Desconectar del toma corriente.
+ • Retirar todos los alimentos.
+ • Limpiar su refrigerador.
+ • Colocar alg~n separador para que la puerta permanezca entreabierta.
+LIMPIEZA INTERIOR: Para eliminar residuos secos dentro del refrigera-
+
+19
+dor, use un paño humedecido en agua con jabón con pH neutro y luego limpie 
+nuevamente con un paño humedecido con agua. 
+LIMPIEZA EXTERIOR: Para el cuidado del producto y la limpieza de la lámina se reco-
+mienda cumplir las siguientes recomendaciones:
+ • Use un paño no abrasivo humedecido en agua con jabón con pH neutro, luego 
+enjuague con agua, finalmente use un paño seco. 
+ • No utilice productos tóxicos, abrasivos y disolventes. (Figura 32).
+Su nevera ha sido construida con materiales de optima calidad que igual re-
+quieren los siguientes pasos para garantizar la apariencia y estado de la pintura:
+ • Abra la puerta de la nevera usando siempre la manija, no la abra desde un costado 
+y aseg~rese de tener las manos limpias para no generar manchas en la superficie.
+ • Al momento de realizar la limpieza use agua y jabón neutro, otros productos poJ
+drían generar manchas en la pintura o deteriorar su apariencia.
+ • Use  un  paño  de  algodón,  franela  o  toallas  de  limpieza, para  secar  o  remover  la 
+espuma generada por el jabón neutro.
+ • No use esponjas abrasivas, desengrasantes, detergentes alcalinos, ácidos o a base 
+de solventes para limpiar la nevera.
+ • Bajo ninguna condición utilice detergentes en polvo a base de sílice, soda caustica.
+Limpieza parte posterior de su refrigerador
+ • En la zona posterior use una aspiradora, o brocha suave para limpiar los tubos del 
+condensador, conservando así la eficiencia de su refrigerador. (Figura 32).
+Figura 32Figura 31
+Limpieza manual del sifón
+ • Desconecte su refrigerador.
+ • Realizar  limpieza  manual  a  la  bandeja 
+recolectora de agua que se encuentra 
+en la parte posterior inferior de su refri-
+gerador sin escarcha (Figura 32).
+ • Retire el sifón de la manguera que se 
+encuentra en la parte posterior de su re-
+frigerador, halándola hacia abajo (Figura 
+33).
+ • Lavar el sifón, garantizando que pste queJ
+de completamente limpio (Figura 34).
+ • Garantizar que este quede a tope con la 
+manguera (Figura 35).
+ • Conecte su refrigerador.
+ • Repita este mantenimiento cada 6 me-
+ses. Evitar que la manguera se obstruya y el agua de la descongelación se derrame 
+dentro del refrigerador y no en la bandeja de desagüe.
+Condensador
+Figura 33
+Manual de usuario
+refrigerador sin escarcha
+20
+Bandeja         recolectora
+Figura 34 Figura 35
+Figura 36 Figura 37
+ PRECAUCIÓN 
+Al realizar este procedimiento tenga cuidado con los bordes de la parte inferior 
+del condensador.
+Limpieza e instrucciones para retirar, instalar y llenar el tanque dispensador de agua.
+ • Solo retire el tanque dispensador hasta que no haya flujo de agua por la válvula (figura 37).
+ • Con ambas manos en el lado derecho del tanque, hale con suficiente fuerza en direcJ
+ción hacia usted, luego del lado izquierdo del tanque hale nuevamente en la misma 
+dirección, y retírelo completamente (figura 38, 39).
+ • Retire la tapa del tanque en dirección hacia arriba (figura 40).
+ • Mezcle agua con vinagre y con un paño h~medo limpie toda la superficie de la tapa 
+y la base.
+ • Para  colocar  el  tanque  cerciórese  primero  en  introducir  la  válvula  en  el  orificio  de  la 
+contrapuerta hasta que pste haga tope con la puerta (figura 41).
+ • Presione el lado izquierdo (ver figura 42A) del tanque con suficiente fuerza hasta que 
+encaje  perfectamente,  luego  presione  el  lado  derecho  (ver  figura  42B)  del  tanque  y 
+verifique que quede bien instalado (figura 42).
+Figura 39 Figura 40Figura 38
+Figura 41
+Embolo
+Figura 42
+A
+B
+Figura 43
+
+21
+ IMPORTANTE
+Luego de haber hecho la limpieza del dispensador de agua instale las piezas 
+en el mismo orden que se quitaron y tenga en cuenta las indicaciones de uso 
+del dispensador de agua (Ver página 20, figura 35 a la 40).
+Limpieza del tanque de agua del Fabricador de hielos
+ • Retire el tanque del Fabricador de hielo. (Figura 44).
+ • Abra la tapa superior del tanque de agua (Figura 45).
+ • Limpie con un paño suavemente teniendo en cuenta de no remover la válvula central ubica-
+da al interior del tanque, si por alg~n motivo presenta desprendimiento de la válvula, llame 
+a la línea de atención #466.
+ • Aseg~rese de que el tanque de agua estp complemente seco antes de insertar de nuevo en 
+el Fabricador de hielo.
+ • Después del procedimiento coloque nuevamente el tanque de agua en el fabricador de 
+hielo (Figura 46)
+Limpieza del Fabricador de hielos
+ • Retire el Fabricador de hielo de la contrapuerta (Figura 47)
+ • Retire el tanque de agua del fabricador de hielo. (Figura 48)
+ • Derrame un poco de vinagre blanco por la parte trasera del 
+fabricador de hielo. (Figura 49)
+ • Pase un paño seco por todas las partes internas suavemente.
+ • Después del procedimiento coloque nuevamente el fabrica-
+dor de hielo en la contrapuerta. (Figura 50)
+Figura 46Figura 44 Figura 45
+Figura 47
+Figura 48 Figura 49
+N611 N700
+Figura 50
+
+Manual de usuario
+refrigerador sin escarcha
+22
+SOLUCIONES ANTES DE LLAMAR A SERVICIO TÉCNICO
+SITUACIÓN POSIBLE CAUSA SOLUCIÓN
+MUCHO 
+FRÍO EN EL 
+COMPARTIMIENTO 
+INFERIOR
+• La perilla del control manual de temperatura está 
+en la posición más frío refrigerador  (Ver figuras 
+22 y 23).
+• La tarjeta electrónica de la nevera está en posición 
+mas fría (todos los LED encendidos modelo A y B) 
+(indicador de nivel máximo modelo C1 -  C2) (Ver 
+figura 17).
+• Gire la perilla en sentido horario para incrementar la temperatura del 
+compartimiento inferior.
+• Si a los días de haber realizado el paso anterior se sigue presentando demasiado 
+frío en el conservador disminuya un punto la posición de la tarjeta electrónica /
+panel digital (Modelo A y B: Tarjeta electrónica, Modelo C1 - C2: Panel digital 
+externo).
+POCO FRÍO EN EL 
+COMPARTIMIENTO 
+INFERIOR
+• Condensador poco ventilado.
+• Verifique las condiciones de instalación (Ver página 6).
+• No seque ropa en el condensador.
+• Condensador suelto.
+• Las salidas y/o retornos de aire están obstruidas. • Distribuya los alimentos de modo que pueda circular el aire.
+• Puertas no cierran bien.
+• Verifique que no haya obstáculos que impidan el correcto cierre de la puerta.
+• Observe el cierre magnético, si está defectuoso solicite Servicio Directo de 
+Fábrica o de sus T alleres Autorizados.
+• La perilla del control manual de temperatura se 
+encuentra en posición más frío congelador (Ver 
+figuras 22 y 23).
+• La tarjeta electrónica de la nevera está en posición 
+menos fría (LED encendido en posición 1 o 2 
+para modelos A y B)   (posiciones entre mínimo y 
+medio para el modelo C1 - C2) (Ver figura 17).
+• Gire la perilla en sentido antihorario para que disminuya la temperatura del 
+compartimiento inferior.
+• Si a los días de haber realizado el paso anterior se sigue presentando poco frío 
+en el conservador aumente un punto la posición de la tarjeta electrónica / panel 
+digital (Modelo A y B: Tarjeta electrónica, Modelo C1 - C2: Panel digital externo).
+REFRIGERADOR NO 
+ENFRÍA.
+• No hay voltaje en la red de alimentación.
+• Compresor no funciona.
+• Verifique que haya voltaje en el toma de alimentación elpctrica
+• Si su refrigerador no enciende, solicite el servicio directo de fabrica.
+MAL OLOR
+• Falta de limpieza, residuos orgánicos en 
+descomposición.
+• Retirar los alimentos del refrigerador y limpiarlo, seg~n las recomendaciones en 
+la sección de limpieza.
+• Productos refrigerados sin tapa. • Garantizar que todos los productos estpn sellados y los recipientes tapados.
+EL REFRIGERADOR 
+NO FUNCIONA • Está desconectado.
+• Conecte el refrigerador y que el control termostato o electrónico (seg~n aplique) 
+este encendido. Si su refrigerador no enciende solicite Servicio Directo de Fábrica 
+o de sus T alleres Autorizados.
+Tabla 6
+ IMPORTANTE
+ • Su refrigerador ha sido fabricado bajo estricto control de calidad y todos sus componentes han sido verificados bajo condiciones de trabajo extremas antes de salir de la fábrica. En caso de que 
+el refrigerador presente deficiencias en su funcionamiento, verifique las posibles causas antes de llamar al Servicio Tpcnico.
+ • En caso de que se desprenda alguna pieza interna del Fabricador llame a línea de atención #466
+23
+SOLUCIONES ANTES DE LLAMAR A SERVICIO TÉCNICO
+SITUACIÓN POSIBLE CAUSA SOLUCIÓN
+MUCHO 
+FRÍO EN EL 
+COMPARTIMIENTO 
+INFERIOR
+• La perilla del control manual de temperatura está 
+en la posición más frío refrigerador  (Ver figuras 
+22 y 23).
+• La tarjeta electrónica de la nevera está en posición 
+mas fría (todos los LED encendidos modelo A y B) 
+(indicador de nivel máximo modelo C1 -  C2) (Ver 
+figura 17).
+• Gire la perilla en sentido horario para incrementar la temperatura del 
+compartimiento inferior.
+• Si a los días de haber realizado el paso anterior se sigue presentando demasiado 
+frío en el conservador disminuya un punto la posición de la tarjeta electrónica /
+panel digital (Modelo A y B: Tarjeta electrónica, Modelo C1 - C2: Panel digital 
+externo).
+POCO FRÍO EN EL 
+COMPARTIMIENTO 
+INFERIOR
+• Condensador poco ventilado.
+• Verifique las condiciones de instalación (Ver página 6).
+• No seque ropa en el condensador.
+• Condensador suelto.
+• Las salidas y/o retornos de aire están obstruidas. • Distribuya los alimentos de modo que pueda circular el aire.
+• Puertas no cierran bien.
+• Verifique que no haya obstáculos que impidan el correcto cierre de la puerta.
+• Observe el cierre magnético, si está defectuoso solicite Servicio Directo de 
+Fábrica o de sus T alleres Autorizados.
+• La perilla del control manual de temperatura se 
+encuentra en posición más frío congelador (Ver 
+figuras 22 y 23).
+• La tarjeta electrónica de la nevera está en posición 
+menos fría (LED encendido en posición 1 o 2 
+para modelos A y B)   (posiciones entre mínimo y 
+medio para el modelo C1 - C2) (Ver figura 17).
+• Gire la perilla en sentido antihorario para que disminuya la temperatura del 
+compartimiento inferior.
+• Si a los días de haber realizado el paso anterior se sigue presentando poco frío 
+en el conservador aumente un punto la posición de la tarjeta electrónica / panel 
+digital (Modelo A y B: Tarjeta electrónica, Modelo C1 - C2: Panel digital externo).
+REFRIGERADOR NO 
+ENFRÍA.
+• No hay voltaje en la red de alimentación.
+• Compresor no funciona.
+• Verifique que haya voltaje en el toma de alimentación elpctrica
+• Si su refrigerador no enciende, solicite el servicio directo de fabrica.
+MAL OLOR
+• Falta de limpieza, residuos orgánicos en 
+descomposición.
+• Retirar los alimentos del refrigerador y limpiarlo, seg~n las recomendaciones en 
+la sección de limpieza.
+• Productos refrigerados sin tapa. • Garantizar que todos los productos estpn sellados y los recipientes tapados.
+EL REFRIGERADOR 
+NO FUNCIONA • Está desconectado.
+• Conecte el refrigerador y que el control termostato o electrónico (seg~n aplique) 
+este encendido. Si su refrigerador no enciende solicite Servicio Directo de Fábrica 
+o de sus T alleres Autorizados.
+Tabla 6
+ IMPORTANTE
+ • Su refrigerador ha sido fabricado bajo estricto control de calidad y todos sus componentes han sido verificados bajo condiciones de trabajo extremas antes de salir de la fábrica. En caso de que 
+el refrigerador presente deficiencias en su funcionamiento, verifique las posibles causas antes de llamar al Servicio Tpcnico.
+ • En caso de que se desprenda alguna pieza interna del Fabricador llame a línea de atención #466
+
+www.haceb.com
+Llámanos gratis desde tu celular al #466 
+Comercializado por:
+INDUSTRIAS HACEB S.A
+Colombia
+Autopista Norte Calle 59 No. 55-80 km. 13,
+Ecuador
+Av. de las Américas, Aeropuerto  José Joaquín de Olmedo,
+Centro Comercial Aeroplaza, Local No.10
+Línea de servicio/Customer service line: 1800042232 Guayaquil
+Copacabana, Antioquia.
+www.haceb.com
+Correo electrónico: atencionpqr@haceb.com
+1 01 081 2
+10/09/2024        REVISIÓN: 00        1010812_PLEGABLE USUARIO N611/700SE HCB MLN 24-2

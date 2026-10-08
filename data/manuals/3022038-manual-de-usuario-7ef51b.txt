@@ -1,0 +1,930 @@
+MANUAL DE USUARIO HACEB
+Aplica a las referencias: 9003010
+Productos: Lavadora Haceb semiautomática 13 kilogramos blanca
+Fuente: https://stmanualesdigitalesprod.z13.web.core.windows.net/DI/Manuales_Usuario/3022038_MANUAL DE USUARIO.pdf
+======================================================================
+
+Lea detenidamente estas instrucciones de uso e 
+instalación antes de encender u operar su 
+producto y guárdelas como referencia para el 
+futuro.
+7 KG SA BL
+10,5 KG SA BL
+13 KG SA BL
+Productor:  
+INDUSTRIAS HACEB S.A.
+COLOMBIA
+Autopista Norte Calle 59 No. 55-80 km. 13,
+Copacabana, Antioquia.
+Línea gratuita de Servicio Nacional: 01 8000 511 000
+www.haceb.com  /  servicio.haceb.com
+* Aplica para los operadores Claro, Movistar, Tigo, Virgin y Móvil Éxito.
+Llámanos gratis desde tu celular al #466 
+Correo electrónico: atencionpqr@haceb.com
+ECUADOR
+Av. de las Américas, Aeropuerto José Joaquín de Olmedo,
+Centro Comercial Aeroplaza, Local No.10
+Línea de servicio/Customer service line: 1800042232 Guayaquil
+
+2
+CONTENIDO
+GARANTÍA (MERCADO COLOMBIANO) 3
+Declaración del tiempo de suministro de repuestos 4
+GLOSARIO 4
+PRECAUCIONES DE SEGURIDAD 4
+DESCRIPCIÓN DEL PRODUCTO Y SUS PARTES 6
+Accesorios 7
+Especificaciones técnicas 7
+INSTALACIÓN 8
+Instalación de la lavadora 8
+Manguera de suministro de agua 9
+Manguera de desagüe 10
+Conexión eléctrica 10
+Método recomendado para realizar la conexión a tierra 11
+Diagrama eléctrico LAV 7 KG SA BL 11
+Diagrama eléctrico LAV 10,5 KG SA BL / LAV 13 KG SA BL 12
+OPERACIÓN Y FUNCIONAMIENTO 12
+Panel de control LAV 7 KG SA BL 12
+Panel de control LAV 10,5 KG SA BL 12
+Panel de control LAV 13 KG SA BL 13
+Preparación antes del lavado 14
+Lavado 14
+Drenado de la lavadora 14
+Enjuague 15
+Centrifugado (Escurrido) 15
+Consejos de lavado 16
+Eliminación de manchas 16
+Después del lavado 16
+PREVENCIÓN Y CUIDADOS 17
+T ransporte manual de la lavadora 17
+Aspectos ambientales 17
+LIMPIEZA 18
+SOLUCIONES ANTES DE LLAMAR A SERVICIO TÉCNICO 18
+
+3
+GARANTÍA (MERCADO COLOMBIANO)
+Este producto ha sido revisado y comprobado su buen funcionamiento en la fábrica, bajo condi-
+ciones normales de uso. Además cumple con todas las normas de seguridad vigentes en el país.
+Se garantiza el producto por el término de doce (12) meses en todos los componentes a partir 
+de la fecha de entrega por parte del establecimiento comercial, por cualquier desperfecto de 
+fabricación o de material, siempre y cuando se destine para uso doméstico.
+En caso de requerir algún servicio durante el periodo de garantía de su producto, comuníquese
+desde su celular al #466 (Aplica para los operadores Claro, Movistar y Tigo), o a la línea gratuita
+de Servicio Nacional 01 8000 511 000. En estas líneas se le darán indicaciones del procedimiento
+a seguir y los sitios de operación o talleres autorizados.
+Para la prestación del servicio en garantía es importante disponer de la factura de compra para 
+la verificación de la fecha de adquisición, en caso de no contar con ella se verificara el serial que 
+está dispuesto en la placa.
+La empresa no asume responsabilidad alguna por los daños personales o a la propiedad, que 
+pudieran causar la mala instalación no realizada por el Servicio Técnico HACEB o sus centros 
+autorizados, o el uso indebido del producto, incluyendo la falta de mantenimiento.
+T oda visita o intervención de nuestro servicio técnico, realizada en la vivienda del comprador y 
+a solicitud de él, dentro del plazo de garantía que no fuera originada por falla o defecto del pro -
+ducto deberá ser cancelada de acuerdo a la tarifa vigente.
+Para hacer más fácil el trámite de la garantía, le recomendamos conservar el manual, el empaque 
+y los accesorios originales del producto.
+Servicio Técnico HACEB o sus centros autorizados, antes de efectuar una reparación y/o sustitu-
+ción de un producto, realizará un diagnóstico previo para determinar el estado real del artículo. 
+La sustitución del producto solo se hará efectiva en el caso en que, a pesar de la intervención 
+técnica autorizada el defecto sea de tal naturaleza que no sea factible su reparación a juicio de 
+INDUSTRIAS HACEB S.A. Si el Servicio Técnico HACEB certifica que efectivamente el producto 
+debe ser sustituido por uno nuevo, la garantía del nuevo producto iniciara a partir del momento 
+en que se reciba este y hasta el tiempo establecido en esta garantía.
+EXCLUSIONES DE LA GARANTÍA
+ • Daños ocasionados por ingresar al producto agua a una temperatura superior al límite máxi-
+mo establecido de 40°C.
+ • Los daños ocasionados por transporte (por parte de terceros) o siniestros.
+ • Fallas o daños ocasionados al producto por el incumplimiento de las normas mínimas de 
+seguridad establecidas para las instalaciones eléctricas que apliquen al mismo.
+ • Las fallas o daños ocasionados por mal uso, instalaciones inadecuadas o intervenciones no 
+autorizadas; dentro de estas se incluyen los daños ocasionados en el producto o a otros por 
+no respetar las condiciones de seguridad establecidas en el manual de usuario.
+ • Golpes y/o rayas en el producto o en accesorios empacados con el producto, a menos que 
+se detecten en el momento de la entrega.
+ • Las partes y accesorios que están sometidas a un constante uso o desgaste natural, como los 
+filtros para motas, el panel decorativo  y accesorios, a menos que el defecto se detecte en el 
+momento de la entrega.
+ • Efectos de deformación o deterioro por líquidos usados para la limpieza.
+ • Cuando la operación y manejo del producto sea en condiciones no prescritas en el manual 
+de uso e instalación, o se destine para uso comercial o industrial.
+ • Cuando se haya vencido el término de vigencia de la garantía.
+ • El producto presenta el número de serie alterado o removido.
+ • El producto presenta modificaciones no autorizadas en las especificaciones.
+ • Artículo desconectado a la fuente de voltaje.
+ • Conexiones eléctricas flojas o sueltas, después de un mes de uso.
+ • Escapes de agua por deficiente conexión en la manguera de suministro y desagüe.
+ • Manguera de desagüe obstruida por objetos extraños.
+ • Presiones de agua y/o gas por fuera de especificaciones según placa o manual de usuario.
+
+4
+ • Problemas causados por operaciones o usos inadecuados, en forma incorrecta y/o diferente 
+a lo especificado en el manual de usuario.
+ • Oxidación causada por golpes, rayas o producto expuesto a ambientes salinos y/o con hu-
+medad relativa por encima del 70%.
+ • Problemas causados por la invasión de cuerpos extraños al producto como insectos, ratones, 
+similares, o falta de limpieza del producto.
+ • Problemas causados por condiciones de la naturaleza tales como: terremotos, inundaciones, 
+tormentas eléctricas, entre otros.
+ • Problemas causados por condiciones accidentales o provocadas como incendios, fluctuacio-
+nes de voltaje, vandalismo, robo o similares.
+ • Problemas asociados por una instalación o nivelación del producto incorrecta, esta condición 
+se debe asegurar de acuerdo con las indicaciones del manual.
+Declaración del tiempo de suministro de repuestos
+Se garantiza disponibilidad de repuestos para un tiempo máximo de 3 años contados a partir del 
+último lote de fabricación.
+ IMPORTANTE
+ • Lea cuidadosamente este manual antes de hacer uso de su lavadora. En él encontrará re-
+comendaciones para su correcta instalación, buen manejo y cuidado, así, podrá conocer y 
+operar su lavadora, obteniendo un óptimo desempeño.
+ • El producto que acaba de adquirir se encuentra diseñado para uso doméstico. Una aplicación 
+diferente (industrial o comercial) altera el correcto funcionamiento de la lavadora e invalida 
+el reclamo de la garantía.
+GLOSARIO
+Uso doméstico: Es el uso normal al que se ve expuesto un equipo eléctrico que tiene como 
+finalidad satisfacer las necesidades de lavado de prendas de una familia en particular. No se 
+recomienda para ser usada en tiendas, almacenes, lavados en empresas industriales y demás 
+establecimientos.
+PSI: Unidad de presión del sistema métrico, (libras por pulgada cuadrada).
+Plug: Enchufe o conector.
+Personal calificado: Se consideran calificadas las personas que cuentan con un certificado de 
+competencia laboral expedido por autoridad competente y están inscritas en el Registro de Fabri-
+cantes e Importadores de productos o servicios sujetos al cumplimiento de Reglamentos Técni-
+cos establecido por la Superintendencia de Industria y Comercio o la entidad que haga sus veces.
+PRECAUCIONES DE SEGURIDAD
+ • Lea estas instrucciones antes de instalar y utilizar esta lavadora.
+ • Antes de usar su lavadora, debe retirar todos los elementos del embalaje: caja, bolsa plástica, 
+porón (Icopor) que afirma el tanque y especialmente la base inferior del porón que se en-
+cuentra debajo de su lavadora.
+ • El mal uso, instalación, ajuste, mantenimiento defectuoso o inadecuado de este producto 
+puede causar graves daños a la propiedad y/o a las personas.
+ • Para reducir el riesgo de fuego, descargas eléctricas o lesiones al utilizar la lavadora, siga las 
+medidas básicas de precaución contenidas en este manual.
+ • No permita que los niños jueguen encima o dentro de la lavadora. Si un niño cae accidental-
+mente dentro del tanque de lavado puede sufrir graves lesiones físicas.
+
+5
+ • Distribuya la ropa gruesa o voluminosa de manera homogénea dentro del tanque de lavado/ 
+centrifugado. De lo contrario la ropa puede dañarse durante el proceso de centrifugado, y la 
+lavadora vibrará de forma excesiva.
+ • No introduzca las manos por la parte inferior de la lavadora cuando ésta se encuentre funcio-
+nando ya que las piezas móviles pueden ocasionar lesiones físicas.
+ • No añada fluidos inflamables (disolventes de limpieza en seco, queroseno, gasolina, etc.) al 
+agua de la lavadora, ni los utilice o guarde dentro o cerca de ésta. Dichas sustancias despren-
+den vapores que pueden provocar fuego o una explosión.
+ • No utilice cloro, amoníaco o ácido (como vinagre o desoxidantes) en un mismo lavado, ya 
+que podrían generarse vapores peligrosos.
+ • No instale la lavadora en lugares muy húmedos. Podría provocar una descarga eléctrica o un 
+cortocircuito.
+ • No ingrese o vierta agua a más de 40ºC en el tanque de la lavadora o el producto en general.
+ • No sumerja el cable de alimentación en agua u otro líquido. Evite accidentes.
+ • Mantenga el cable de alimentación lejos de superficies calientes.
+ • Una vez la lavadora haya empezado a funcionar, no acceda al interior hasta que se haya 
+detenido por completo.
+ • En el lugar donde se instale la lavadora debe existir una conexión a tierra, en caso de no 
+contar con esta instalación, debe realizarse por personal técnico calificado y certificado.
+ • Conecte la lavadora a la toma correcta de electricidad, agua y desagüe, acorde a las espe-
+cificaciones técnicas suministradas en este manual y en la placa de especificaciones de la 
+lavadora.
+ • No conecte en el mismo tomacorriente de esta lavadora, ningún otro producto. Si comparte 
+el tomacorriente de pared con otros aparatos se puede producir una descarga eléctrica o un 
+incendio. Compruebe que el voltaje, la frecuencia y la corriente coincidan con las especifica-
+ciones del producto. De no ser así se puede producir una descarga eléctrica.
+ • Si el cable de alimentación está dañado, deberá ser sustituido por Servicio Técnico Haceb, 
+sus centros autorizados o personal técnico calificado y certificado.
+ • Desconecte el cable de alimentación eléctrico antes de proceder a la reparación de la 
+lavadora.
+ • No lave materiales de fibra de vidrio. Pequeñas partículas de fibra de vidrio podrían quedarse 
+pegadas en las prendas de ropa de posteriores lavados y provocar irritación de la piel.
+ • No rocíe agua sobre el panel de control de la lavadora, podría provocar descargas eléctricas
+ • Mantenga los elementos del embalaje lejos del alcance de los niños, si un niño mete la cabeza 
+en una bolsa plástica puede causarle asfixia.
+ • Evite que los niños usen o manipulen este producto sin la supervisión de un adulto.
+ • Elimine regularmente cualquier sustancia ajena, como polvo o agua de los terminales y los 
+puntos de contacto del enchufe de alimentación con un paño seco, tomando precauciones 
+de seguridad y desconectando primero la lavadora del tomacorriente.
+ • No instale esta lavadora cerca de un calentador o materiales inflamables.
+ • No acerque ningún tipo de llama a su lavadora, ni ponga cigarrillos encendidos o materiales 
+volátiles sobre la parte superior de la lavadora, esto puede dañar su forma o causar serios 
+daños.
+ • No use este producto si usted está mojado o descalzo.
+ • No conecte o desconecte la lavadora con las manos húmedas esto podría provocar una 
+descarga eléctrica.
+ • Compruebe que el voltaje y la frecuencia coincidan con las especificaciones del producto. De 
+no ser así se puede producir una descarga eléctrica.
+ • Mantenga alejadas a las mascotas de su lavadora.
+ • Si la lavadora recibe la alimentación eléctrica desde un generador, este se colocará fuera del 
+alcance de salpicaduras o humedad.
+ • En caso de alguna anomalía llamar al Servicio Técnico Haceb.
+
+6
+ ADVERTENCIA
+Este producto no fue concebido para ser utilizado por niños o personas con capacidades 
+físicas, sensoriales o mentales reducidas, o con falta de experiencia y conocimiento, a menos 
+que estén supervisados por un adulto responsable.
+DESCRIPCIÓN DEL PRODUCTO Y SUS PARTES
+ IMPORTANTE
+ • Las imágenes contenidas en este manual pueden ser diferentes al producto original y su único 
+objetivo es ayudar a mejorar la comprensión del contenido escrito del mismo.
+ • Antes de utilizar su lavadora retire todos los elementos que componen el empaque: caja, 
+bolsa plástica, las piezas de poliestireno expandido (icopor) y accesorios. El no retirar estos 
+elementos, provocará un mal funcionamiento de la lavadora.
+62
+9
+10
+13
+14
+15
+12
+11
+3 54 71
+8
+GUÍA LAVADORA 7 KG
+GUÍA LAVADORA 13 KG
+Figura 1
+1. T anque de lavado                                                  
+2. T apa de tanque de lavado 
+3. Panel de control
+4. Entrada de agua
+5. T apa tanque de centrifugado 
+6. T anque de centrifugado
+7. T apa de seguridad del tanque de centrifugado 
+8. Guía opción de llenado   
+9. Filtro e indicador del nivel de agua 
+10. Aspas rotatorias     
+11. Filtro para motas
+12. Entrada de agua al tanque de centrifugado 
+13. Manguera de desagüe
+14. Cable de alimentación
+15. Base
+
+7
+Accesorios
+1. Manguera de suministro de agua (1 unidad)
+2. T apa protectora de centrifugado (1 unidad)
+3. Manual de usuario (1 unidad)
+4. Patas (4 unidades)
+1 2 3
+Certificado N° SC 062-1
+Lea detenidamente 
+estas instrucciones 
+de uso e 
+instalación antes de encender u operar su pro-
+ducto y guárdelas como referencia para el futuro.
+REFERENCIA
+LAV SA 0700 BL 
+ LAV SA 1308 BL
+LAVADORAS
+4
+Figura 2
+Especificaciones técnicas
+T abla de especificaciones
+Modelo LSA07EVI16B-CC1ILSA07EVI16B-CC1I
+Referencia LAV 7 KG SA BL               
+Voltaje 120 V~                           
+Frecuencia 60 Hz                                
+Potencia de lavado 360 W                            
+Potencia de centrifugado 165 W  
+Potencia total 525 W 
+Grado de protección IPX4   
+Capacidad máxima de carga (ropa seca) 7 kg   
+Capacidad de centrifugado (ropa mojada) 4 kg    
+Presión de agua requerida 20 kPa (2,9 psi) - 300 kPa (43,5 psi)             
+Peso sin empaque 19 kg  
+Tabla 1
+T abla de especificaciones
+Modelo LAV SA 1050
+Referencia LAV 10,5 KG SA BL
+Voltaje 120 V ~
+Frecuencia 60 HZ
+Potencia de lavado 420W
+Potencia de centrifugado 160W
+Potencia total 580W
+Grado de protección IPX4
+Capacidad máxima de carga (ropa seca) 10.5 kg
+Capacidad de centrifugado (ropa mojada) 5.6 kg
+Presión de agua requerida 20 kPa (2,90 psi) - 300 kPa (43,51psi)
+Peso sin empaque 20,5 kg
+Tabla 2
+
+8
+T abla de especificaciones
+Modelo LSA13EVI16A-CC1I
+Referencia LAV 13 KG SA BL
+Voltaje 120 V~
+Frecuencia 60 Hz
+Potencia de lavado 450W
+Potencia de centrifugado 190 W
+Potencia total 640 W
+Grado de protección IPX4
+Capacidad máxima de carga (ropa seca) 13 kg
+Capacidad de centrifugado (ropa 
+mojada) 6,5 kg
+Presión de agua requerida 20 kPa (2,9 psi) - 300 kPa (43,5 psi)
+Peso sin empaque 24 kg
+Tabla 3
+INSTALACIÓN
+ IMPORTANTE
+ • Este producto es un bien de consumo duradero para uso doméstico, fabricado mediante un 
+proceso de transformación industrial. 
+ • Este producto debe ser instalado por personal calificado y certificado. La correcta instalación 
+de su lavadora incrementa la vida útil y efectividad en el lavado.
+ • Recuerde que los daños ocasionados por una instalación inadecuada no realizada por Servi-
+cio Técnico Haceb o sus centros autorizados, no están cubiertos por la garantía. 
+Instalación de la lavadora
+Asegúrese de tener lo necesario para una instalación correcta.
+ • Su lavadora debe estar ubicada al lado de un drenaje o 
+sifón.
+ • Debe estar sobre un piso horizontal y firme, libre de cur-
+vas u hoyos, que sea resistente y que no se mueva ni 
+desmorone, lo ideal son los pisos de concreto, madera 
+y baldosas. Un piso inestable puede provocar ruido y vi-
+bración considerable. (Ver figura 3). 
+ • Para instalar su lavadora seleccione un lugar seco y evi-
+tando que las partes plásticas queden expuestas directa -
+mente a la luz solar y otros electrodomésticos o equipos 
+que generen calor. (Ver figura 4).
+ • Debe haber una distancia mínima de separación de 4 cm 
+al lado izquierdo y derecho de la lavadora y 10 cm como 
+mínimo en la parte posterior. (Ver figura 5).
+ • Conecte la manguera de entrada de agua a la línea de 
+suministro de agua de su residencia y a la entrada de agua 
+de la lavadora ubicada en la parte superior de ésta. (Ver 
+figura 6).
+Figura 4
+Figura 3
+
+9
+ IMPORTANTE
+ • No instale su lavadora sobre pisos alfombrados, ya que el pelo de la alfombra puede obstruir 
+la ventilación del motor o puede producir calentamiento de éste.
+ • No instale su lavadora debajo de un calentador.
+ • No obstruya los orificios de la base de la lavadora después de instalada.
+Manguera de suministro de agua
+La lavadora está provista de una manguera para el suministro 
+de agua fría.
+ • Verifique que la presión del agua sea la adecuada para evi-
+tar daños al producto (Validar especificaciones técnicas del 
+producto).
+ • Ubique la manguera como se indica en la figura 9, asegu-
+rando que esta este correctamente ajustada y que no haya 
+fugas de agua.
+ • De ser necesario adicionar una extensión en la manguera de desagüé siga las indicaciones 
+(Ver figura 7).
+ • La salida de la manguera de desagüe no debe estar sumergida en agua. (Ver figura 8).
+4 cm
+10  cm4 cm
+Figura 5 Figura 6
+menos de 1 m
+menos
+10 cm
+Figura 7 Figura 8
+Figura 9
+Llave de agua fría
+Entrada de agua
+Manguera
+
+10
+Conexión eléctrica
+ • Verifique que las características eléctricas (Voltaje, frecuencia y potencia) indicados en la placa 
+de especificaciones técnicas de la lavadora y en el manual de usuario correspondan correcta-
+mente con la instalación eléctrica de su casa.
+ • Revise que el cable de alimentación esté en perfectas condiciones y asegúrese de no colgar 
+objetos sobre éste, ni que la lavadora lo pise. No continúe el uso de su lavadora si detecta 
+algún daño en el cable de alimentación o el conector de este.
+ • Cuando conecte o desconecte el cable del tomacorriente, no lo hale del cable. Sujételo de 
+la clavija.
+ • Si su cable de alimentación posee algún tipo de daño, este deberá ser cambiado por Servicio 
+Técnico Haceb, centros autorizados  o personal calificado y certificado.
+ IMPORTANTE
+Asegúrese de conectar el cable de alimentación de su lavadora a un tomacorriente de 120 V y 
+60 Hz. De igual forma compruebe que el tomacorriente tenga conexión a tierra, de lo contrario 
+puede sufrir una descarga eléctrica por fugas de corriente.
+Manguera de desagüe
+ • La lavadora tiene dos posiciones para insta -
+lar la manguera de drenaje (desagüe) una al 
+lado izquierdo y otra al lado derecho. Elija 
+la que más se adecue a las condiciones de 
+instalación de su residencia. Finalmente fije 
+la manguera en la abrazadera en la dirección 
+deseada. (Ver figura 10).
+ • Este producto no cuenta con una bomba de 
+drenaje para retirar el agua del tanque, este 
+proceso se debe realizar de manera manual. 
+ IMPORTANTE
+ • Durante el proceso de lavado la manguera de desagüe debe permanecer en posición vertical 
+(Ver figura 11).
+ • Para drenar el agua del tanque de lavado y/o el proceso de centrifugado, la manguera de 
+desagüe debe estar a nivel del piso para que evacue el agua. (Ver figura 12).
+Lado izquierdo Lado derecho
+Salida
+Lado derecho
+SalidaLado izquierdo Parte inferiorde la lavadora
+Figura 10
+Manguera en
+posición vertical
+DURANTE EL
+PROCESO DE
+LAVADO
+Figura 11
+Manguera en
+posición horizontal
+a nivel del piso
+DURANTE
+EL PROCESO DE
+CENTRIFUGADO
+Figura 12
+
+11
+Método recomendado para realizar la conexión a tierra
+ • Para su seguridad personal, esta lavadora debe ser conectada a tierra. La lavadora está equi-
+pada con un cable eléctrico y un enchufe con conexión a tierra para minimizar posibles ries-
+gos de descargas eléctricas. El cable debe ser enchufado a un tomacorriente acoplado a la pa-
+red. Si no hay disponibilidad de dicho toma, el usuario tiene la responsabilidad de solicitar que 
+el toma adecuado sea instalado por un electricista calificado y certificado. (Ver figura 13).
+1. Cable de alimentación eléctrica
+2. Enchufe
+3. T omacorriente
+ ADVERTENCIAS
+Peligro de descargas: El no poner en práctica estas instrucciones puede causar graves lesiones o 
+incluso la muerte.
+ • Esta lavadora necesita conexión a tierra.
+ • Si el tomacorriente no dispone de conexión a tierra, solicite que un electricista calificado 
+instale la toma apropiada.
+ • Por su seguridad nunca retire la clavija con la que cuenta el producto, tampoco corte ni anule 
+el polo a tierra de la clavija utilizando conexiones 3X2 ya que ésta es para su protección y 
+buen funcionamiento de su lavadora.
+Diagrama eléctrico LAV 7 KG SA BL
+1 2 3
+Figura 13
+Figura 14
+CONDITIONS FOR RECEPTION
+- No repeated pages, pasted or inverted.  
+- The print must not be imperfect or blurry.    
+- The unit and the packaging system must garantee that the structure of the 
+  undermanipulation conditions, storaging and transportation.                       
+- The edges must be completely drilled.  
+- There should not be cracks, bursts, wrinkles, distortions, scratches or any 
+- The branding must be cutting edges free.  
+- The coating must cover all the indicated surface in the map.
+STORAGE CONDITIONS
+- It must be storage indoor and humity free.  
+  surface, from high to low and 5 units top.  
+- The labels from the original packaging should not be retired before it’s use, 
+  in case of using them, it should be returned to the original packaging the   
+  ones are left or be envolved in strech polyethylene, this in order to protect 
+  them from the dust and humity. 
+CONDICIONES PARA LA RECEPCIÓN 
+- Sin páginas repetidas, ni pegadas, ni invertidas. 
+- La impresión no debe estar ni defectuosa ni borrosa.  
+- La unidad y sistema de empaque debe garantizar que la estructura de los   
+  deteriore bajo condiciones de manipulación almacenamiento y transporte.
+- Los bordes deben estar completamente troquelados.  
+  quebraduras ni defectos que afecten la apariencia estética.  
+- Los logos deben estar libres de bordes cortantes y rebabas.  
+CONDICIONES DE ALMACENAMIENTO 
+- Debe almacenarse en un lugar bajo techo y libre de humedad.  
+  mayor a menor y máximo 5 unidades.  
+- No se deben retirar las etiquetas del empaque original antes de su uso, en 
+  el caso de empezar a utilizarlas se deben de regresar las que sobren a su 
+  empaque original o en su defecto ser envueltas en polietileno strech, esto 
+ The information contained in this plane is owned by INDUSTRIES HA CEB S. A, and is confidential, can be used only by t he person or organ ization to whom it is directed and to the order that was sent. If the receiver is not authorized, any retention , distribution , dissemination or copying of this message is prohibited and may be punishable by law
+ La información contenida en este plano es propiedad de INDUSTRIAS HA CEB S.A , y es confidencial, solo puede ser utilizada por la persona u or ganización a quien está dirigida y  para el fin que fue enviada. Si no es el receptor autorizado , cualquier retención , distribución , difusión o copia de este mensaje está prohibida y puede ser sancionada por la ley
+NOTE OF CONFIDENTIALITY / NOTA DE CONFIDENCIALIDAD:
+Code Graphing plane / Código Plano Gráfico:
+ X
+Weight / Gramaje: Caliber / Calibre:
+Pre-drilled
+Pre-troquelado:
+Fold / body
+Plegado / cuerpos:
+Weft
+Trama:
+Linescreen
+Lineatura:
+Printing system Plane type / Tipo de plano:Sistema de impresión:
+Approve:
+Point
+Aprobó: 
+Punto:
+Angle
+Ángulo:
+Diecut  
+Troquelado:
+Sewing
+Cosido:
+Hooks/Quantity
+Ganchos/Cantidad:
+Unit of Measure 
+Unidad de medida:
+File Format / Formato de Archivo: Versión:
+Pasterns / Cuartillas:
+Inks / Tintas: 
+Color reference / Referencia de Color:  
+Material:
+Pages / Páginas:
+Project / Proyecto:
+Scale / Escala:
+Add substance / Sustratos para Adhesión:
+Service temperature / Temperatura de Servicio:
+Aplication temperature / Temperatura de Aplicación:
+Useful Life / Vida útil:
+Over view  / Ficha  Técn ica
+Presentation / Presentación:
+Print Process / Proceso de Impresión:
+Rules / Normas Aplicables:
+Date of Issue/ Fecha Elaboración:
+ Review / Revisión:
+ 
+Review date / Fecha revisión: Remarks / Observaciones
+Others / Otros:
+ Drawing / Dibujó:
+ UV Reserve / Reserva UV: Laminated / Laminado:
+Tolerances / Tolerancias: Critial dimension / Cotas críticas: 
+Reference Color A.
+Adhesive Label white, black letter
+Etiqueta Diagrama Eléctrico
+Wiring diagram label
+Referencias:
+LAV OASIS 7 KG SA BL
+Etiqueta adhesivo blanca, letra negra
+Referencia Color A.
+3021095_ETIQUETA DIAGRAMA ELÉCTRICO LAV OASIS 7
+LAV OASIS 7 KG SA BL
+09/06/2022
+Ilustrator
+Negro
+CC
+1:1
+1x0
+00 Darwin Echeverry
+mm
+
+12
+Amarillo/ verde
+Diagrama eléctrico LAV 10,5 KG SA BL / LAV 13 KG SA BL
+OPERACIÓN Y FUNCIONAMIENTO
+Panel de control LAV 7 KG SA BL
+1 543
+1 53 42
+Panel de control LAV 10,5 KG SA BL
+Figura 15
+
+13
+1 2 3 4 5
+Panel de control LAV 13 KG SA BL
+1. Perilla Tiempo de lavado
+ • Selecciona el tiempo de lavado hasta 15 
+minutos.
+2. Perilla Programa (no aplica para la lava-
+dora LAV 7 KG SA BL
+ • Selecciona entre ciclo normal y ciclo 
+Delicado.
+3. Entrada suministro de agua
+ • Permite el suministro de agua al tanque. 
+4. Perilla Selector de ciclo
+ • Selecciona entre lavado/enjuague y 
+desagüe.
+5. Perilla Tiempo de centrifugado
+ • Selecciona el tiempo de centrifugado hasta 
+5 minutos.
+ IMPORTANTE
+ • Los niveles de agua del tanque de la 
+referencia LAV 10,5 KG SA BL / LAV 
+13 KG SA BL son: Bajo (L), Medio 
+(M), Alto (H) y Máximo nivel (Máx 
+Water Level).
+ • Los niveles de agua del tanque de 
+lavado de la referencia LAV 7 KG SA 
+BL son: Bajo (L), y Alto (H).
+ • Asegúrese de suministrar el nivel de 
+agua adecuado para la cantidad de 
+ropa que se desea lavar, ésto ahorra 
+agua y evitar salpiques indeseados 
+fuera de la lavadora.
+ • La capacidad de lavado de esta lava-
+dora varía de carga a carga depen-
+diendo básicamente del volumen y 
+tipo de fibra que se trate.
+ • Las fibras como el algodón, cobijas, 
+etc., Absorben mucha agua incrementando así el peso de la carga de la ropa.
+Carga simultanea de prendas para un lavado 
+óptimo (Máxima Carga)
+Prenda
+LAV 7 KG 
+SA BL
+LAV 10,5 
+KG SA BL
+LAV 13 KG 
+SA BL
+Cantidad Cantidad Cantidad
+Camisas 7 12 13
+Camisetas 7 9 12
+Sudaderas 4 5 5
+Ropa interior 8 10 11
+Pantalón de 
+vestir 4 5 6
+Tabla 4
+Guía de selección de cargas de lavado.
+
+14
+Preparación antes del lavado
+ • Sacuda el polvo de la ropa antes de lavarla.
+ • Asegúrese de sacar llaves, alfileres, monedas, ganchos u otros objetos de la ropa antes de lavar.
+ • Retire de la ropa la mayor cantidad posible de tierra, arena, objetos extraños, y manchas.
+ • Voltee la ropa por el revés.
+ • Lave separadamente la ropa de color de la ropa blanca.
+ • Lave las prendas delicadas colocándolas en el interior de una malla.
+Lavado
+ • Coloque la ropa dentro del tanque de lavado una a una.
+ • Coloque la cantidad adecuada de detergente dentro del 
+tanque de lavado
+ • Conecte la manguera de suministro de agua a la boquilla 
+de entrada de agua del tanque de lavado y abra la llave.
+ • Cierre la llave de suministro cuando el nivel de agua sea 
+el necesario. El nivel de agua no debe superar el máximo 
+nivel indicado en el tanque de lavado.
+ • Asegúrese que todas las prendas queden totalmente su-
+mergidas en el agua.
+ • Seleccione el selector de ciclo en la posición “Lavado/Enjuague” y el Tiempo de Lavado ma-
+nipulando las perillas en el panel de control.
+ • Para la referencia LAV 10,5 KG SA BL / LAV 13 KG SA BL es posible seleccionar entre un 
+lavado Normal y Delicado manipulando la perilla Selector de lavado
+ • Su lavadora empezará a funcionar inmediatamente usted elija el tiempo de lavado.
+ ADVERTENCIA
+ • No olvide cortar el suministro de agua una vez llegue al nivel necesario. De continuar el su-
+ministro y llenarse los dos tanques (Lavado y Centrifugado) el agua continuara fluyendo por 
+la manguera de drenaje ocasionando fuga de agua indeseada.
+ • Por favor no fuerce las perillas adelantando su finalización, ya que esta operación deteriora 
+este componente.
+ • Este producto es para uso doméstico. De ser empleado para uso industrial, la garantía pierde 
+su validez.
+ • Por favor no sobre cargue la lavadora ya que se aumenta el deterioro normal del producto. 
+Drenado de la lavadora
+ • Este producto no cuenta con una bomba de drenaje para retirar el agua del tanque, este 
+proceso debe realizarse de manera manual.
+ • Luego de finalizar el ciclo de Lavado/Enjuague, ubique la manguera de desagüe cerca a un 
+drenaje que se encuentre a nivel del piso.
+ • Posicione la perilla selector de ciclo en la posición “Desagüe”.
+ • Cuando la lavadora se encuentre en la operación desagüe, cerciórese que el agua salga  
+completamente.
+Tipo de ropa Tiempo de 
+lavado
+Seda   2 a 5   minutos
+Lana   2 a 5   minutos
+Algodón   5 a 10 minutos
+Sintética   5 a 10 minutos
+Ropa sucia   5 a 10 minutos
+Ropa muy sucia 10 a 15 minutos
+Tabla 5
+
+15
+Tanque de
+lavado
+Tanque de
+Centrifugado
+T anque delavado T anque deCentrifugado
+Figura 19
+LAV 7 KG SA BL
+23,110.5
+1050 BL
+Figura 16
+Figura 20
+LAV 10,5 KG SA BL
+LAV 13 KG SA BL
+Enjuague
+ • Después de lavar, realice el proceso de drenado de la lava-
+dora. Asegure que el agua fue evacuada completamente.
+ • Posicione el selector de ciclo en la posición “Lavado/
+Enjuague”.
+ • Con agua limpia, llene el tanque de lavado hasta el mis-
+mo nivel de agua utilizado para el ciclo de lavado; y cierre 
+la llave de suministro de agua.
+ • Elija de 2 a 9 minutos el tiempo de enjuague según el tipo 
+de ropa. (Ver Tabla 6)
+Correcto Incorrecto
+Tipo de 
+ropa
+Tiempo de 
+centrifugado
+Seda 1 minuto
+Lana 1 a 2 minutos
+Algodón 3 a 4 minutos
+Sintética 5 minutos
+Tabla 7Figura 17
+Figura 18
+Centrifugado (Escurrido)
+ • Ubique la manguera de desagüe cerca a un drenaje que se encuentre a nivel del piso. y 
+mueva la perilla de selección de ciclo a la posición “Desagüe”.
+ • Coloque la ropa en el tanque de centrifugado de forma pareja (Ver Figura 16), y presiónela 
+suavemente con la tapa protectora de centrifugado. Según la capacidad de centrifugado (ropa 
+mojada) divida la ropa en 2 o más grupos de prendas.
+ • Asegúrese de que la tapa protectora de centrifugado quede en forma horizontal. (Ver fi-
+gura 17).
+ • Cierre la tapa de seguridad del tanque de centrifugado.
+ • Seleccione el tiempo de centrifugado (escurrido) teniendo en cuenta las especificaciones de 
+la tabla 7 y la figura 18.
+ • Si desea realizar un extra enjuague: Con la manguera de suministro de agua conectada al 
+producto, mueva la “Guía opción de llenado” hacia la posición del “T anque de centrifugado” 
+(Ver Figura 19y 20), e ingrese pequeñas cantidades de agua durante el centrifugado.
+Tipo de ropa Tiempo de 
+enjuague
+Seda 2 a 3 minutos
+Lana 2 a 3 minutos
+Algodón 3 a 5 minutos
+Sintética 3 a 5 minutos
+Ropa sucia 3 a 5 minutos
+Ropa muy sucia 5 a 9 minutos
+Tabla 6
+ IMPORTANTE
+ • Siempre que realice el proceso de Enjuague y/o Centrifugado, se debe colocar la manguera 
+de drenaje a nivel de piso para la evacuación del agua (Ver figura 12).
+ • El desagüe en el piso, debe estar diseñado para evacuar el agua que sale de la lavadora.
+
+16
+ ADVERTENCIAS
+ • Si la ropa no está correctamente balanceada en el proceso de centrifugado, se producirá vi-
+braciones que podría generar golpes en el chasis ocasionando daños en el producto. Ademas 
+no extraerá de forma eficiente el agua de la ropa. (Ver figura 17).
+ • Si el tanque de centrifugado no se detiene máximo en 15 segundos, después de abrir la tapa 
+de centrifugado, comuníquese con Servicio Técnico Haceb.
+ • Recuerde cerrar el suministro de agua después de haber terminado el proceso de lavado. 
+Evite fugas de agua que puedan ocasionar daños a su vivienda.
+Consejos de lavado
+ • Revise la etiqueta de las prendas para saber como lavarlas. Separe las prendas.
+ • Revise que los bolsillos no contengan objetos. Extraiga los objetos de los bolsillos.
+ • Las prendas con botones o bordados deben darse vuelta antes de lavar.
+ • Clasifique la ropa de acuerdo con el tipo y la intensidad de suciedad. Separe la ropa mancha-
+da y desmánchela antes de lavarla con las demás prendas.
+ • Se recomienda limpiar con un cepillo suave los puños, cuello y alrededor de los bolsillos de 
+las prendas. Antes de ponerlas en la lavadora.
+ • Voltee las prendas al revés para evitar que suelten pelusas.
+ • Las prendas de lana previamente escogidas que tienen etiquetas de “Lavar a mano” y otras 
+telas delicadas deben colocarse en una malla de nylon para darles una mejor protección.
+ • Clasifique la ropa según los colores (blancos, claros, oscuros); separe los tejidos blancos de 
+los tejidos en colores. La ropa de color puede desteñirse.
+ • Para el lavado de prendas de lana utilice únicamente agua fría. El uso de agua tibia puede 
+provocar arrugamiento o encogimiento de la ropa. Verifique que el suministro para este caso 
+sea solamente de agua fría.
+ • No lave prendas de piel o gamuza en su lavadora. Estas prendas se pueden deformar o 
+encoger.
+ • Para utilizar el detergente, siempre siga las instrucciones de uso indicadas por el fabricante en 
+el  empaque del detergente.
+Eliminación de manchas
+Si hay prendas con manchas o muy sucias puede ser necesario poner las prendas en remojo para 
+obtener un buen resultado. Poner las prendas en remojo ayuda a eliminar manchas de proteínas 
+como sangre, leche o pasto. Ésto ayuda a desprender la suciedad antes del lavado.
+Después del lavado
+ • Para evitar el encogimiento, es importante sacar la carga de ropa del tanque de lavado/centri-
+fugado apenas se termine el lavado y sacudirla de tal manera que recobre su forma original.
+ • Cuélguelas en un gancho para que se seque uniformemente, evitando al máximo las arrugas. 
+Pequeñas arrugas se pueden quitar fácilmente con la plancha.
+ • Ropa de lana: coloque las prendas sobre una toalla, y seque a la sombra extendiendo la ropa 
+sobre la toalla.
+
+17
+PREVENCIÓN Y CUIDADOS
+ • Si el tanque de centrifugado no se detiene en menos de 15 segundos después de abrir la 
+tapa durante el centrifugando o en los ciclos de enjuague, apague inmediatamente la lavadora 
+y llame al Servicio Técnico Haceb, sus centros autorizados o personal técnico calificado y 
+certificado.
+ • NO USE AGUA A MÁS DE 40ºC. Esto puede dañar la estructura de las piezas de plástico y 
+ocasionar anomalías.
+ • Solicite los servicios de reparación o cambio de piezas a Servicio Técnico Haceb, sus centros 
+de servicio autorizado o personal técnico calificado y certificado.
+ • Mantenga la lavadora en buenas condiciones.
+ • Proteja la lavadora de las condiciones climáticas extremas, ubicándola en un lugar donde 
+quede protegida contra la lluvia o el sol directo. La exposición al sol y al calor excesivo puede 
+generar coloración amarilla en la superficie de la lavadora.
+ • No fuerce las perillas de la lavadora.
+ • Retire todos los objetos de los bolsillos tales como monedas, encendedores y fósforos. Los 
+objetos duros o afilados, tales como clips, clavos, tornillos o piedras pueden causar daños 
+considerables en la lavadora.
+ • No utilice jabón para lavar a mano en la lavadora. Si este se endurece y se acumula en el 
+interior, puede causar problemas al producto, como decoloración, óxido o malos olores.
+ • Si no va a usar la lavadora durante un período de tiempo largo o durante las vacaciones se 
+debe desconectar la lavadora.
+ • Se recomienda desconectar la lavadora de la red eléctrica, y cerrar el suministro de agua des-
+pués de haber terminado el proceso de lavado. Evite fugas de agua o incendios accidentales.
+Transporte manual de la lavadora
+ • Se debe inclinar levemente hacia el espaldar
+ • T enga especial cuidado con las partes móviles, perillas, ca-
+bles y mangueras.
+ • T ransporte la lavadora como se ilustra en la figura.
+ • La lavadora debe ser transportada por dos personas.
+Aspectos ambientales
+ • Empaque: Haceb procura, en sus nuevos productos, utilizar empa-
+ques cuyas partes sean fáciles de separar, así como materiales recicla-
+bles. Por lo tanto, las piezas de los empaques (protectores de icopor 
+(Poliestireno expandible), bolsas plásticas y caja de cartón) deben ser 
+desechadas de manera consciente, siendo destinadas, preferiblemente  
+a recicladores.
+ • Producto: Este producto fue fabricado con materiales que pueden 
+ser reciclados y/o reutilizados. Entonces, al deshacerse de este produc-
+to, busque compañías especializadas en desmontarlo correctamente.
+ • Eliminación: Al desechar este producto, al final de su vida útil, solici-
+tamos que sea obedecida la legislación local existente y vigente en su 
+región, haciendo esto de la forma más correcta posible.
+Figura 21
+
+18
+LIMPIEZA
+Después de cada lavada, retire el tapón (1) ubicado entre el tanque 
+de lavado y el tanque de centrifugado para limpiar y secar el tornillo 
+(2) y el orificio (3). (Ver figura 22).
+ • La limpieza de la  lavadora debe realizarse cada dos meses.
+ • Antes de limpiar su lavadora, retire el cable de alimentación del 
+tomacorriente.
+ • Desconecte la manguera de desagüe de la lavadora y lávela 
+vigorosamente hasta retirar la mugre.
+ • Utilice un paño suave humedeciéndolo en agua con jabón 
+o con detergente suave para limpiar y quitar el polvo del 
+gabinete.
+ • Para la limpieza del filtro para motas debe retirarlo en la direc-
+ción que se indica en la figura 23, girarlo y lavarlo. Finalmente 
+colocarlo en la posición original.
+ • Limpie el gabinete con un paño seco, no utilice bencina, alco-
+hol o solventes.
+ • Si la lavadora está muy sucia, utilice un paño mojado con solu-
+ción de agua jabonosa.
+ • Enjuague perfecta y completamente el tanque de la lavadora 
+par evitar la acumulación de sarro, debido a los residuos de 
+detergentes, blanqueadores.
+ • No vierta soda cáustica u otro tipo de solvente sobre al lavadora. Puede causar daño a las 
+partes de goma.
+ • No limpie la lavadora con líquidos inflamables.
+SOLUCIONES ANTES DE LLAMAR A SERVICIO TÉCNICO
+ • La mayoría de los problemas se solucionan fácilmente, si se sabe la causa. 
+Revise la siguiente tabla antes de llamar a Servicio Técnico Haceb.
+PROBLEMA POSIBLE CAUSA SOLUCIÓN
+La lavadora 
+no funciona
+• La perilla de control de tiempo de lavado 
+se encuentra en la posición de cero.
+• Falta de energía eléctrica
+• Seleccione el tiempo de lavado.
+• Verifique el servicio de energía eléctrica 
+de su residencia.
+La lavadora 
+no 
+centrifuga
+• La perilla de control de tiempo de 
+secado (centrifugado) se encuentra en la 
+posición de cero.
+• Carga de ropa mal distribuida.
+• Seleccione el tiempo de centrifugado.
+• Distribuir adecuadamente la carga al 
+interior del tanque.
+La lavadora 
+no drena
+• La perilla de selección de ciclo se 
+encuentra mal ubicada.
+• La manguera de desagüe se encuentra 
+doblada o en posición vertical.
+• Ubique la perilla selector de ciclo en 
+posición de desagüe.
+• Verifique que la manguera no presente 
+dobles en su longitud
+Figura 23
+1
+2
+3
+Figura 22
+
+19
+CONFÍA TUS ELECTRODOMÉSTICOS
+A UN EXPERTO
+Contáctanos
+01 8000 511000
+Colombia
+1 8000 42232
+Ecuador
+• Asesoría • Instalación • Mantenimiento Preventivo
+• Reparación • Repuestos y Accesorios • Garantía
+*Llama gratis desde tu celular
+Operadores Claro, Movistar, Tigo, Virgin y Móvil Éxito
+(Aplica solo para Colombia)
+Servicio Haceb
+servicio.haceb.com
+
+Lea detenidamente estas instrucciones de uso e 
+instalación antes de encender u operar su 
+producto y guárdelas como referencia para el 
+futuro.
+7 KG SA BL
+10,5 KG SA BL
+13 KG SA BL
+Productor:  
+INDUSTRIAS HACEB S.A.
+COLOMBIA
+Autopista Norte Calle 59 No. 55-80 km. 13,
+Copacabana, Antioquia.
+Línea gratuita de Servicio Nacional: 01 8000 511 000
+www.haceb.com  /  servicio.haceb.com
+* Aplica para los operadores Claro, Movistar, Tigo, Virgin y Móvil Éxito.
+Llámanos gratis desde tu celular al #466 
+Correo electrónico: atencionpqr@haceb.com
+ECUADOR
+Av. de las Américas, Aeropuerto José Joaquín de Olmedo,
+Centro Comercial Aeroplaza, Local No.10
+Línea de servicio/Customer service line: 1800042232 Guayaquil
+3022038_MANUAL USUARIO LAV 7_13 KG SA BL           14/06/2023                     Revisión: 00

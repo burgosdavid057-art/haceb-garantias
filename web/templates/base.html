@@ -1,0 +1,144 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>{% block titulo %}Haceb{% endblock %}</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Asap:wght@400;500;600;700;800&display=swap">
+<link rel="stylesheet" href="{{ url_for('static', filename='css/haceb.css') }}">
+<link rel="stylesheet" href="{{ url_for('static', filename='css/chat.css') }}">
+<script src="{{ url_for('static', filename='js/iconos.js') }}"></script>
+</head>
+<body>
+
+<div class="cinta-demo">
+  Maqueta de demostración · no es el sitio real de Industrias Haceb S.A.
+</div>
+
+<div class="franja-envio">
+  <strong>Envío Gratis</strong>
+  <svg width="34" height="20" viewBox="0 0 34 20" fill="none">
+    <rect x="1" y="4" width="18" height="11" rx="2" fill="#bed02e"/>
+    <path d="M19 7h6l4 4v4h-10z" fill="#bed02e"/>
+    <circle cx="8" cy="16" r="2.5" fill="#fff"/><circle cx="24" cy="16" r="2.5" fill="#fff"/>
+  </svg>
+  <span class="nota">*No aplica para accesorios y repuestos, pequeños electrodomésticos, estufas de mesa y cocinetas</span>
+</div>
+
+<header class="cabecera">
+  <div class="cabecera-fila">
+    <a class="logo" href="/" aria-label="Haceb — inicio">
+      <svg viewBox="0 0 132 34" xmlns="http://www.w3.org/2000/svg">
+        <path d="M14 2 L118 2 L128 17 L118 32 L14 32 L4 17 Z" fill="none" stroke="#000" stroke-width="2"/>
+        <text x="66" y="23" font-family="Georgia, serif" font-size="18" font-style="italic"
+              text-anchor="middle" fill="#000">Haceb</text>
+      </svg>
+    </a>
+
+    <div class="buscador">
+      <input type="text" placeholder="Buscar productos" aria-label="Buscar productos">
+      <button type="button" aria-label="Buscar">
+        <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+          <circle cx="11" cy="11" r="7"/><path d="M21 21l-4.3-4.3"/>
+        </svg>
+      </button>
+    </div>
+
+    <nav class="cabecera-enlaces">
+      <a href="#">Rastrea tu pedido</a>
+      <div class="sep-vert"></div>
+      <a href="#">Ingresar / Registrarte</a>
+      <a href="#" aria-label="Carrito">
+        <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7">
+          <path d="M6 6h15l-1.5 9h-12z"/><circle cx="9" cy="20" r="1.4"/><circle cx="18" cy="20" r="1.4"/>
+          <path d="M6 6L5 2H2"/>
+        </svg>
+      </a>
+    </nav>
+  </div>
+
+  <div class="nav">
+    <div class="nav-fila">
+      <button class="btn-categorias">
+        <svg width="13" height="13" viewBox="0 0 24 24" fill="currentColor">
+          <rect x="2" y="2" width="8" height="8" rx="1"/><rect x="14" y="2" width="8" height="8" rx="1"/>
+          <rect x="2" y="14" width="8" height="8" rx="1"/><rect x="14" y="14" width="8" height="8" rx="1"/>
+        </svg>
+        Categorías ⌄
+      </button>
+      <a href="#">Compra en combo</a>
+      <a href="#">Ofertas</a>
+      <div class="nav-derecha">
+        <a href="/" class="{{ 'nav-activo' if activo == 'inicio' }}">Hogar Haceb</a>
+        <a href="#">Crédito Haceb ⌄</a>
+        <a href="#">Contáctanos ⌄</a>
+        <a href="/servicios" class="btn-servicio">Servicio Haceb</a>
+      </div>
+    </div>
+  </div>
+</header>
+
+{% block contenido %}{% endblock %}
+
+<footer class="pie">
+  <div class="contenedor">
+    <div class="pie-cols">
+      <div>
+        <h4>Servicio Haceb</h4>
+        <ul>
+          <li><a href="/servicios">Prestación de garantías</a></li>
+          <li><a href="/servicios">Instalaciones</a></li>
+          <li><a href="/servicios">Mantenimiento preventivo</a></li>
+          <li><a href="/servicios">Reparaciones</a></li>
+          <li><a href="/servicios">Accesorios y repuestos</a></li>
+        </ul>
+      </div>
+      <div>
+        <h4>Nuestra empresa</h4>
+        <ul>
+          <li><a href="#">Empresa</a></li>
+          <li><a href="#">Proveedores y clientes</a></li>
+          <li><a href="#">Puntos de venta</a></li>
+          <li><a href="#">Trabaja con nosotros</a></li>
+        </ul>
+      </div>
+      <div>
+        <h4>Atención al cliente</h4>
+        <ul>
+          <li>Línea Nacional Gratuita #466</li>
+          <li>01 8000 51 22 22</li>
+          <li><a href="#">Términos y condiciones</a></li>
+          <li><a href="#">Política de datos personales</a></li>
+        </ul>
+      </div>
+      <div>
+        <h4>Uso interno</h4>
+        <ul>
+          <li><a href="/portal">Portal de asesores</a></li>
+          <li><a href="/api/salud">Estado del sistema</a></li>
+        </ul>
+      </div>
+    </div>
+  </div>
+  <div class="pie-bajo">
+    Maqueta con fines de demostración. Industrias Haceb S.A. no participa de este prototipo.
+  </div>
+</footer>
+
+<div class="cookies" id="cookies">
+  Este sitio utiliza cookies propias y de terceros para el funcionamiento del sitio, análisis de
+  navegación y fines publicitarios. Para más información sobre el uso de cookies, consulte nuestra
+  <a href="#">Política de Tratamiento de Datos Personales</a>
+  <div class="acciones">
+    <button onclick="document.getElementById('cookies').remove()">Aceptar</button>
+    <button class="cerrar" onclick="document.getElementById('cookies').remove()" aria-label="Cerrar">✕</button>
+  </div>
+</div>
+
+{% include "_chat.html" %}
+<script src="{{ url_for('static', filename='js/chat.js') }}"></script>
+</body>
+</html>

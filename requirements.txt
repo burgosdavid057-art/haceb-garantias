@@ -1,0 +1,11 @@
+# Agente y herramientas
+openai>=1.40.0          # cliente del protocolo OpenAI (Ollama y Groq)
+python-dotenv>=1.0.0
+flask>=3.0.0            # sitio, chat y portal
+
+# RAG sobre los manuales oficiales
+chromadb>=0.5.0
+pypdf>=5.0.0            # extraccion de los manuales en PDF
+
+# Opcional: solo si se usa Gemini en vez del modelo local
+google-genai>=1.0.0
