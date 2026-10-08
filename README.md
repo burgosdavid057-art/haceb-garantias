@@ -1,9 +1,19 @@
+<div align="center">
+
 # Asistente de garantías Haceb
 
-Un asistente que no responde *"sí, está en garantía"*.
+**Un asistente que no responde *"sí, está en garantía"*.**
+Responde qué queda cubierto, qué no, y cuánto tienes que pagar, con el desglose línea por línea de tu orden de servicio.
 
-Responde **qué queda cubierto, qué no, y cuánto tienes que pagar** — con el
-desglose línea por línea de tu orden de servicio.
+![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-3-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-local-000000?style=for-the-badge&logo=ollama&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-RAG-FF6B35?style=for-the-badge)
+![Gemini](https://img.shields.io/badge/Gemini-opcional-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+![License](https://img.shields.io/badge/licencia-MIT-green?style=for-the-badge)
+
+</div>
 
 > De una orden real de Haceb: *"el compresor será en garantía pero debe asumir
 > el valor de la mano de obra"*. De $575.789, la pieza va cubierta y $257.249 de
@@ -12,6 +22,25 @@ desglose línea por línea de tu orden de servicio.
 
 Corre **entero en local**. Ninguna orden de servicio —con nombre, cédula,
 teléfono y dirección de una persona— sale de la máquina.
+
+Nació en el hackathon **AgentSprint de ReshapeX** (EAFIT, Medellín, julio de 2026),
+construido por el equipo **CAPE**: David Burgos y Juan Pablo Pérez Gil.
+
+---
+
+## Contenido
+
+- [Qué hay aquí](#qué-hay-aquí)
+- [La regla que hace todo esto posible](#la-regla-que-hace-todo-esto-posible)
+- [Las tres cosas que el sistema se niega a hacer](#las-tres-cosas-que-el-sistema-se-niega-a-hacer)
+- [Stack](#stack)
+- [Cómo correrlo](#cómo-correrlo)
+- [Por qué estos modelos](#por-qué-estos-modelos)
+- [Los dos auditores](#los-dos-auditores)
+- [Estructura](#estructura)
+- [Límites conocidos](#límites-conocidos)
+- [Autor](#autor)
+- [Licencia](#licencia)
 
 ---
 
@@ -37,7 +66,7 @@ radicó; no hay cuentas de usuario en un demo.
            │                                    │
            ├── foto de la orden ──┐             │
            │                      ▼             │
-           │            gemma4 lee IDENTIFICADORES
+           │       modelo de visión lee IDENTIFICADORES
            │            (nº de cita, serie) — no hechos
            │                      │             │
            └── nº de orden ───────┤             │
@@ -92,21 +121,68 @@ DELTA 20" no corresponde a ninguna parte nombrada en los términos publicados, e
 caso sale como `requiere_revision` y va al asesor — ni cubierto ni negado.
 Afirmar "no está cubierto" sin respaldo hace tanto daño como afirmar que sí.
 
-## Cómo se corre
+## Stack
 
-Todo local, con [Ollama](https://ollama.com):
+| Capa | Tecnología |
+|---|---|
+| Servidor web | Flask 3 (sitio, chat con streaming y portal) |
+| Agente | Loop propio con 12 herramientas, cliente `openai` contra el endpoint `/v1` de Ollama |
+| Modelos locales | `qwen2.5:7b` (agente, vía `Modelfile`), `gemma3:4b` (visión), `bge-m3` (embeddings), `qwen2.5:3b` (validador opcional) |
+| Datos | SQLite (`data/haceb.db`, se siembra con `seed.py`) |
+| RAG | Catálogo y manuales públicos de Haceb, BM25 + ChromaDB opcional |
+| Alternativas en la nube | Groq o Gemini (`google-genai`), solo si se configuran en `.env` |
+
+## Cómo correrlo
+
+Todo local, con [Ollama](https://ollama.com). Requiere Python 3.10+.
+
+**1. Modelos** (una sola vez):
 
 ```bash
-ollama pull gemma4 && ollama pull bge-m3
-ollama create haceb-agente    -f Modelfile
-ollama create haceb-validador -f Modelfile.validador
+ollama serve
+ollama pull qwen2.5:7b      # modelo del agente (tool calling)
+ollama pull gemma3:4b       # visión: leer la foto de la orden
+ollama pull bge-m3          # embeddings del RAG (multilingüe)
 
+ollama create haceb-agente    -f Modelfile             # qwen2.5:7b con ventana de 16384 horneada
+ollama create haceb-validador -f Modelfile.validador   # opcional: auditor con modelo (qwen2.5:3b)
+```
+
+**2. Entorno y dependencias:**
+
+```bash
+cp .env.example .env        # ya apunta a Ollama local; no necesita llaves
 pip install -r requirements.txt
-python seed.py       # equipos, órdenes de servicio y casos de ejemplo
+```
+
+**3. Base y servidor:**
+
+```bash
+python seed.py       # 6 equipos, 6 órdenes de servicio y 3 casos en bandeja
 python serve.py      # http://localhost:5050
 ```
 
-Portal del asesor: `/portal` — usuario `asesor`, clave `haceb2026`.
+`serve.py` siembra la base por su cuenta si está vacía y precalienta el modelo al
+arrancar. El portal del asesor queda en `http://localhost:5050/portal`; las
+credenciales de la maqueta se imprimen en consola al iniciar.
+
+Para probar la lectura de fotos hay una orden de ejemplo en
+[`data/ejemplo_orden_SA-373770.png`](data/ejemplo_orden_SA-373770.png)
+(datos personales ficticios).
+
+**4. RAG sobre los manuales (opcional):**
+
+`data/catalog.json` y `data/manuals/` vienen versionados. Los índices
+`data/index/` y `data/chroma/` **no** están en el repo (`.gitignore`): se
+regeneran así:
+
+```bash
+python ingest.py           # opcional: vuelve a bajar catálogo y manuales públicos
+python build_index.py      # vectoriza los pasajes de cada manual → data/index/
+python build_vectordb.py   # puebla ChromaDB con esos vectores → data/chroma/
+```
+
+Sin estos índices el agente busca por BM25, que basta para el flujo de garantías.
 
 **Chequeos** (los dos primeros corren sin modelo y sin red):
 
@@ -122,14 +198,17 @@ Medido en un M5/16GB con las herramientas reales del agente:
 
 | Modelo | Tool calls | Latencia |
 |---|---|---|
-| **gemma4 (8B)** | **4/4** | **6–14 s** |
+| gemma4 (8B) | 4/4 | 6–14 s |
 | qwen3.5:9b | 4/4 | 12–23 s |
 | qwen2.5:3b | 1/4 | 1–4 s |
 
-gemma4 además declara capacidad de visión, que es lo que permite leer las
-órdenes sin mandar el documento a ninguna nube. Un modelo más pequeño responde
-rápido pero no dispara las herramientas — y sin herramientas este agente
-respondería de memoria, que es justo lo que existe para evitar.
+Un modelo más pequeño responde rápido pero no dispara las herramientas — y sin
+herramientas este agente respondería de memoria, que es justo lo que existe para
+evitar. La configuración que trae el repo (`Modelfile` y `.env.example`) usa
+**qwen2.5:7b** para el agente, que también dispara 4/4 herramientas, y un modelo
+de visión aparte (**gemma3:4b**) para leer las órdenes sin mandar el documento a
+ninguna nube. Cambiar de modelo es editar `FROM` en el `Modelfile` y
+`OLLAMA_VISION_MODEL` en `.env`.
 
 **El modelo se precalienta al arrancar.** Ollama lo descarga de RAM tras unos
 minutos de inactividad y recargarlo cuesta ~20 s: medido, el primer turno con el
@@ -169,7 +248,19 @@ auditor, es latencia decorativa.
 
 ## Estructura
 
-| | |
+```
+haceb-garantias-demo/
+├── agent/            # motor de cobertura, herramientas, loop, visión, RAG, validador
+├── web/              # server.py + templates/ + static/ (sitio, chat y portal)
+├── data/             # catalog.json, manuals/, orden de ejemplo (index/ y chroma/ se generan)
+├── evals/            # harness adversarial
+├── Modelfile         # agente (qwen2.5:7b, num_ctx 16384)
+├── Modelfile.validador
+├── seed.py  serve.py  ingest.py  build_index.py  build_vectordb.py
+└── test_garantias.py  test_validador.py
+```
+
+| Archivo | Qué hace |
 |---|---|
 | [agent/garantias.py](agent/garantias.py) | motor de cobertura línea por línea |
 | [agent/literalidad.py](agent/literalidad.py) | guardián: toda cifra debe estar en la evidencia |
@@ -184,17 +275,25 @@ auditor, es latencia decorativa.
 
 - El sitio público es una **maqueta**: buscador, carrito y filtros no hacen nada.
   Solo el chat y el portal funcionan.
-- Los datos personales de las órdenes son **ficticios**.
+- Los datos personales de las órdenes (incluida la imagen de ejemplo) son **ficticios**.
 - La antigüedad se calcula contra una base de equipos sembrada; en producción
   saldría del sistema de ventas de Haceb.
 - El mapeo repuesto → parte cubierta es explícito y corto a propósito. Lo que no
   está, va al asesor. Ampliarlo es cargar el catálogo real de repuestos, no
   cambiar el motor.
-- El portal usa credenciales quemadas: es una maqueta de acceso, no un control
-  de acceso.
-- El RAG sobre los manuales necesita `python ingest.py && python build_index.py
-  && python build_vectordb.py`. Sin eso funciona por BM25, que basta para el
-  flujo de garantías.
+- El portal usa credenciales fijas en el código: es una maqueta de acceso, no un
+  control de acceso.
+- Sin `data/index/` ni `data/chroma/` el RAG funciona por BM25 (ver
+  [Cómo correrlo](#cómo-correrlo), paso 4).
+
+## Autor
+
+**David Burgos** — desarrollador full-stack + IA, Medellín.
+Proyecto del equipo CAPE junto a Juan Pablo Pérez Gil.
+
+- Portafolio: [davidburgos.dev](https://davidburgos.dev)
+- GitHub: [@burgosdavid057-art](https://github.com/burgosdavid057-art)
+- LinkedIn: [David Burgos](https://www.linkedin.com/in/david-burgos-ab673433a/)
 
 ## Licencia
 
